@@ -1,0 +1,82 @@
+Array
+(
+    [MODULE] => catalog
+    [PRODUCT_ID] => 67618
+    [DATE_INSERT] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-04 20:34:27.754545
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [DATE_UPDATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-04 20:34:27.754545
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [LID] => s1
+    [SORT] => 400
+    [CURRENCY] => RUB
+    [CUSTOM_PRICE] => N
+    [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
+    [PRICE] => 2010
+    [QUANTITY] => 1
+    [VAT_INCLUDED] => Y
+    [PRODUCT_PRICE_ID] => 14766
+    [NOTES] => 0_1
+    [VAT_RATE] => 0
+    [PRICE_TYPE_ID] => 1
+    [BASE_PRICE] => 2010
+    [DISCOUNT_PRICE] => 0
+    [NAME] => Пневматический пистолет Daisy 340 (Базовый комплект)
+    [CAN_BUY] => Y
+    [DETAIL_PAGE_URL] => /catalog/pnevmaticheskie_pistolety/ds-340/
+    [BARCODE_MULTI] => N
+    [WEIGHT] => 0
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [MEASURE_NAME] => шт
+    [MEASURE_CODE] => 796
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_XML_ID] => 67618
+    [DISCOUNT_NAME] => Величина скидки за комплект
+    [FUSER_ID] => 22386673
+    [PROPS] => Array
+        (
+            [PRODUCT №1] => Array
+                (
+                    [CODE] => PRODUCT №1
+                    [ID] => 
+                    [VALUE] => Пневматический пистолет Daisy 340
+                    [SORT] => 100
+                    [NAME] => Товар №1
+                )
+
+            [HIDE_OLD_PRICE] => Array
+                (
+                    [CODE] => HIDE_OLD_PRICE
+                    [ID] => 
+                    [VALUE] => 2010
+                    [SORT] => 9999
+                    [NAME] => Старая цена
+                )
+
+            [0] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 0230 2001 
+                )
+
+        )
+
+)

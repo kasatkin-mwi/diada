@@ -1,0 +1,355 @@
+@media screen and (min-width: 800px) {
+    .geo_light_column {
+        display: table;
+        font-family: latolight;
+        font-size: 14px;
+        color: #000
+    }
+
+    .geo_light_grey_left_col, .geo_light_white_left_col, .geo_light_right_col {
+        display: table-cell;
+        vertical-align: top
+    }
+
+    .geo_light_grey_left_col {
+        width: 175px;
+        padding: 20px 0 40px 40px;
+        background: #f2f2f2
+    }
+
+    .geo_light_white_left_col {
+        width: 260px;
+        padding: 20px 0 40px 0
+    }
+
+    .geo_light_right_col {
+        width: 325px;
+        padding: 45px 25px 10px 20px;
+        border-left: 2px solid #f2f2f2
+    }
+
+    .questions_form {
+        padding: 30px 0 30px 30px
+    }
+
+    .reg_form_gray {
+        padding: 25px 35px 35px;
+        background: #e6e6e6
+    }
+
+    .reg_form_white_width {
+        max-width: 565px;
+        margin: 0 auto
+    }
+
+    .reg_radio_button_block label:nth-child(2n) {
+        float: right
+    }
+
+    .reg_radio_button_block label {
+        display: table;
+        float: left
+    }
+
+    .reg_form_card_block {
+        border-top: 1px solid #e6e6e6;
+        border-bottom: 1px solid #e6e6e6;
+        padding: 21px 10px 30px 33px;
+        position: relative;
+        margin: 38px 0 15px
+    }
+
+    .detail_complect_el.active:before {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        display: block;
+        content: '';
+        left: -31px;
+        right: -28px;
+        background: #686767;
+        z-index: 1
+    }
+
+    .detail_complect_el.active:after {
+        position: absolute;
+        width: 14px;
+        height: 14px;
+        bottom: -14px;
+        left: -32px;
+        display: block;
+        content: '';
+        z-index: 1;
+        background: url("/img/detail_complect_el_active_left.png?v1") no-repeat
+    }
+
+    .detail_complect_el.active .detail_complect_el_arrow {
+        display: block
+    }
+
+    .detail_top_accessory_left_col {
+        width: 27%;
+        float: left;
+        border-radius: 12px 0 0 12px;
+        padding: 10px 15px 1px
+    }
+
+    .detail_top_accessory_right_col {
+        width: 70%;
+        float: right
+    }
+
+    .detail_top_accessory_right_col .index_produce_in3:nth-child(2n) {
+        margin-right: 0 !important
+    }
+
+    .detail_top_accessory_right_col .index_produce_in3:nth-child(3n), .detail_top_accessory_right_col .index_produce_in3 {
+        width: 49%;
+        margin-right: 2%
+    }
+
+    .index_produce .index_produce_right_col > ul:last-child {
+        min-height: 44px
+    }
+
+    .detail_top_accessory_left_col {
+        background: #e6e6e6;
+        text-align: left
+    }
+
+    .bottom_menu ul {
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+        display: table;
+        position: relative;
+        z-index: 100;
+        margin: 0
+    }
+
+    .bottom_menu ul li {
+        display: table-cell;
+        height: 40px;
+        width: 25%;
+        vertical-align: middle;
+        padding-right: 10px
+    }
+
+    .index_produce_title {
+        height: 60px;
+        overflow: hidden;
+        display: block
+    }
+
+    .new_call_back_light_form {
+        margin-bottom: 15px;
+        display: table;
+        width: 100%
+    }
+
+    .new_call_back_light_form > li:first-child {
+        width: 150px
+    }
+
+    .new_call_back_light_form > li {
+        display: table-cell;
+        vertical-align: middle;
+        width: 250px
+    }
+
+    .new_call_back_light_form_tel {
+        margin: 20px 0 15px;
+        display: table;
+        width: 100%
+    }
+
+    .new_call_back_light_form_tel > li:first-child {
+        width: 118px;
+        font-size: 12px
+    }
+
+    .new_call_back_light_form_tel > li {
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 21px;
+        line-height: 1
+    }
+
+    .new_call_back_light_form_tel input[type='text'] {
+        width: 40px;
+        vertical-align: middle;
+        font-size: 18px;
+        text-align: center;
+        padding: 0 2px
+    }
+
+    .add_comment_detail .new_call_back_light_form > li {
+        width: 210px
+    }
+
+    .add_comment_detail .new_call_back_light_form > li:first-child {
+        width: 120px
+    }
+
+    .add_comment_detail .new_call_back_light_form_textareal > li:first-child {
+        padding-top: 7px
+    }
+
+    .add_comment_detail .new_call_back_light_form_textareal > li {
+        vertical-align: top
+    }
+
+    .new_geo_light_search_text_left {
+        float: left;
+        width: 37%
+    }
+
+    .new_geo_light_search_text_right {
+        float: right;
+        width: 58%
+    }
+
+    .new_basket_el_left {
+        padding: 10px 15px
+    }
+
+    .new_basket_el_right:before {
+        content: '';
+        width: 1px;
+        display: block;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        position: absolute;
+        z-index: 100;
+        background: #e6e6e6;
+        background: linear-gradient(to bottom, #e6e6e6, #fff)
+    }
+
+    .new_basket_el_right {
+        padding: 10px 15px 15px 30px;
+        width: 226px;
+        position: relative
+    }
+
+    .new_basket_el_left, .new_basket_el_right {
+        display: table-cell;
+        vertical-align: middle
+    }
+
+    .new_basket_el_left_img {
+        width: 300px
+    }
+
+    .new_basket_el_left_img, .new_basket_el_left_title {
+        display: table-cell;
+        vertical-align: middle
+    }
+
+    .basket_page_left_col {
+        float: left;
+        width: 72%
+    }
+
+    .basket_page_right_col {
+        float: right;
+        width: 28%;
+        padding-left: 10px
+    }
+
+    .vhod_page_block {
+        display: table;
+        width: 100%
+    }
+
+    .vhod_page_left_col, .vhod_page_right_col {
+        width: 50%;
+        display: table-cell;
+        vertical-align: top
+    }
+
+    .vhod_page_left_col {
+        border-right: 1px solid #dfdfdf;
+        padding: 0 6% 0 4%
+    }
+
+    .vhod_page_right_col {
+        padding: 0 4% 0 6%
+    }
+
+    #basket_items_list {
+        padding-right: 28%
+    }
+
+    .basket_page_itog_block.active {
+        position: fixed;
+        top: 0;
+        width: 28%;
+        max-width: 325px;
+        z-index: 360
+    }
+
+    .reg_form_double_block:after {
+        content: '';
+        display: block;
+        clear: both
+    }
+
+    .reg_form_double_block .reg_form_el:nth-child(2n) {
+        float: right
+    }
+
+    .reg_form_double_block .reg_form_el {
+        float: left;
+        width: 49%
+    }
+
+    .kredit_text_page_bank_el {
+        float: left;
+        width: 50%
+    }
+
+    .news-list .index_video_el_list:nth-child(3n) {
+        margin-right: 0
+    }
+
+    .news-list .index_video_el_list {
+        display: inline-block;
+        width: 31%;
+        margin-right: 1.5%;
+        vertical-align: top
+    }
+
+    #back_top {
+        position: fixed;
+        bottom: 125px;
+        left: 15px;
+        z-index: 350;
+        width: 94px;
+        height: 128px;
+        display: block;
+        background: url(/img/button_up.png?v1) no-repeat center center;
+        cursor: pointer
+    }
+	.new_pcp_block {
+		text-align:center;
+	}
+	.new_pcp_block .pageItem {
+		display:inline-block;
+		vertical-align:top;
+		width:30%;
+		margin:0 0.5% 20px;
+	}
+	
+	.mobile_header_telephone_geo>li:first-child {
+		width:300px;
+	}
+    .donload_application_l_col {
+        float:left;
+        width:17%;
+    }
+    .donload_application_r_col {
+        float:right;
+        width:80%;
+    }
+}

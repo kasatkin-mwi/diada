@@ -1,0 +1,22 @@
+div.subscribe-edit .red {
+	color:red;
+}
+div.subscribe-edit .green {
+	color:green;
+}
+div.subscribe-edit .errorcolor {
+	color:red;
+}
+div.subscribe-edit .successcolor {
+	color:green;
+}
+	
+.lk_form_tit {
+	margin-top:45px;
+}
+.subscribe-edit .lk_white_bg {
+	padding-top:5px;
+}
+.show_confirmation_el>.reg_form_el p {
+	margin-top:45px;
+}

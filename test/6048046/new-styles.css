@@ -1,0 +1,32 @@
+.buy_element_button.newcat_buy.in_basket_button {
+	padding: 5px 5px;
+	font-size: 14px;
+	color: #fff;
+	background: #c41b1c;
+	max-width: 100px;
+	line-height: 1;
+}
+.rekom_slider_bl .rekom_slider .in_basket_button {
+	background: #c41b1c;
+	border: 1px solid #c41b1c;
+	color: #fff;
+	padding-left: 10px;
+	width: 108px;
+	text-align: center;
+	line-height: 1;
+	padding: 2px 0px;
+	font-weight: bold;
+	font-family: latoregular;
+}
+.rekom_slider_bl .rekom_slider .in_basket_button:hover{
+	background: #fff;
+	color: #c41b1c;
+}
+.right_column .carousel_slider_brend_block .product-item-small-card .big_data_el_bl .big_data_el .big_data_el_bot .red_buy.in_basket_button {
+	white-space: normal;
+	padding: 5px 0px;
+	max-width: 104px;
+	background: #c41b1c;
+	color: #fff;
+	border-color: #c41b1c;
+}

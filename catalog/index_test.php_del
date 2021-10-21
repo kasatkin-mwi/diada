@@ -1,0 +1,2622 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Diada-arms.ru");
+?>
+<div class="content">
+	<div class="left_column">
+		
+	</div>
+		<div class="center_column">
+
+				<h1 id="bx_1847241719_221">
+			Пневматические винтовки		</h1>
+	<div class="small_razdel_firearm">
+				<div class="razdel_firearm_block" id="bx_1847241719_1222">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/vse-vintovki/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/ca8/pnevmaticheskaya-vintovka-diana-340-n_tec-premium.jpg"></span>
+						<span class="razdel_firearm_name">Вcе пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_229">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/pcp/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/82c/edg2.png"></span>
+						<span class="razdel_firearm_name">РСР всех марок</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_225">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/46c/maxresdefault.jpg"></span>
+						<span class="razdel_firearm_name">HATSAN (Турция)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1147">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/bt_65/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/d42/4298056_hatsan-bt-65_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan  BT 65</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_705">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/serija_125/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/838/4298052_hatsan-125_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan 125</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_707">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/serija_135/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/4f7/4298053_hatsan-135_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan 135</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1541">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/at44-10/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/511/4298055_hatsan-at44_10_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan AT44-10</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_708">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/dominator/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/a3e/4298058_hatsan-dominator_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan Dominator</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1149">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/galatian/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/316/4298059_hatsan-galatian_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan Galatian</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1148">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/striker/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/0a4/4298060_hatsan-striker_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan Striker</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_706">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/hatsan/torpedo/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/b95/4298061_hatsan-torpedo_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Hatsan Torpedo</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_223">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/33f/1.jpg"></span>
+						<span class="razdel_firearm_name">GAMO (Испания)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_710">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/big_cat/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/6f3/4298041_gamo-big-cat_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Gamo Big Cat</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1544">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/cfr/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/52c/4298042_gamo-cfr_3922874.jpeg"></span>
+						<span class="razdel_firearm_name">Gamo CFR</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1545">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/cfx/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/480/4298043_gamo-cfx_3922874.jpeg"></span>
+						<span class="razdel_firearm_name">Gamo CFX</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_711">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/serija_delta_fox/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/e62/4298044_gamo-delta-fox_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Gamo Delta Fox</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_709">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/hunter/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/dd4/4298045_gamo-hunter_3922874.jpeg"></span>
+						<span class="razdel_firearm_name">Gamo Hunter</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_697">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/shadow/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/b90/4298046_gamo-shadow_3922874.jpeg"></span>
+						<span class="razdel_firearm_name">Gamo Shadow</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_714">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/socom/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/4f8/4298049_gamo-socom_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Gamo Socom</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_713">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gamo/whisper/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/ba3/4298050_gamo-whisper_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Gamo Whisper</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_228">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/15e/crosman_logo_1_.png"></span>
+						<span class="razdel_firearm_name">CROSMAN (США)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_695">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/2100b/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/fa5/4298032_crosman-2100b_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Crosman 2100B</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_701">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/benjamin/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/59b/4298033_crosman-benjamin_3922874.jpeg"></span>
+						<span class="razdel_firearm_name">Crosman Benjamin</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1542">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/fury/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/9df/4298034_crosman-fury_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Crosman Fury</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_687">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/optimus/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/1af/98a22f1e0322d124ee65ab59e2ef9cf4.jpg"></span>
+						<span class="razdel_firearm_name">Crosman Optimus</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1543">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/titan/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/80b/4298037_crosman-titan_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Crosman Titan</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_689">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/trail/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/8eb/4298038_crosman-trail_3922874.jpg"></span>
+						<span class="razdel_firearm_name">Crosman Trail</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_691">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/vantage/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/d44/4298039_crosman-vantage_3922874.jpeg"></span>
+						<span class="razdel_firearm_name">Crosman Vantage</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_692">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/crosman/venom/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/3bd/20170705fo7k2ykfbyvoi39l_wjgzv_large.jpeg"></span>
+						<span class="razdel_firearm_name">Crosman Venom</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_274">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/edgun/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/135/d512e6cd525ddfad84582390e52383ba.jpg"></span>
+						<span class="razdel_firearm_name">EDGUN (Россия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_272">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/ataman/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/e30/ataman.png"></span>
+						<span class="razdel_firearm_name">ATAMAN (Россия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1595">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/ataman/m2r/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/862/ataman-m2r_3997761.jpg"></span>
+						<span class="razdel_firearm_name">Ataman M2R</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1596">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/ataman/ml-15/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/843/ataman-ml-15_3997761.jpg"></span>
+						<span class="razdel_firearm_name">Ataman ML15</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1594">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/ataman/maestro/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/0a5/ataman-maestro_3997761.png"></span>
+						<span class="razdel_firearm_name">Ataman Маэстро</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1593">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/ataman/ultra-c/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/fd4/ataman-ultra-c_3997761.jpg"></span>
+						<span class="razdel_firearm_name">Аtaman ULTRA-C</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_569">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/cricket/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/70d/kalibr.jpg"></span>
+						<span class="razdel_firearm_name">KALIBR/Сricket (Чехия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1337">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/horhe-jager-rossiya/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/5cb/horhe_jager.jpg"></span>
+						<span class="razdel_firearm_name">HORHE-JAGER (Россия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_226">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/diana/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/91d/diana.png"></span>
+						<span class="razdel_firearm_name">DIANA (Германия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_185">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/izhevsk/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/1b1/r2pm9jgrf6u.jpg"></span>
+						<span class="razdel_firearm_name">ИЖЕВСК (Россия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_704">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/izhevsk/mr_512/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">МР-512</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_224">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/umarex/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/1d6/umarex_1.jpg"></span>
+						<span class="razdel_firearm_name">UMAREX (Германия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_275">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/evanix/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/934/i.jpg"></span>
+						<span class="razdel_firearm_name">EVANIX (Корея)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_306">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/alfamax/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/a2a/alfamax.jpg"></span>
+						<span class="razdel_firearm_name">ALFAMAX</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_652">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/stoeger/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/a6f/stoegerbig.jpg"></span>
+						<span class="razdel_firearm_name">STOEGER (Италия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1338">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/stalker-kitay/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/b33/stalker.jpg"></span>
+						<span class="razdel_firearm_name">STALKER (Китай)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_308">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/swiss_arms/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/7c0/producer_57.png"></span>
+						<span class="razdel_firearm_name">SWISS ARMS (Швейцария)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_255">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/aurora/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/7b7/1354962947_642712.png"></span>
+						<span class="razdel_firearm_name">AURORA (Китай)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_614">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/tss-fortune-co-ltd/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/c32/free_vector_tss_2_029644_tss_2.png"></span>
+						<span class="razdel_firearm_name">TSS FORTUNE (Китай)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_651">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/walther/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/25f/logo_walther.jpg"></span>
+						<span class="razdel_firearm_name">WALTHER/ Спортивные  (Германия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_220">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/air_arms/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/d5d/air_arms_logo1.gif"></span>
+						<span class="razdel_firearm_name">AIR ARMS (Англия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_222">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/fx/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/a1b/logo_fx_cortado.jpg"></span>
+						<span class="razdel_firearm_name">FX (Швеция)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_633">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/strong/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/913/strong_investments_logo.gif"></span>
+						<span class="razdel_firearm_name">STRONG (Турция)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_273">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/cyber_gun/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/2ed/producer_71.jpg"></span>
+						<span class="razdel_firearm_name">CYBER GUN (Тайвань)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_276">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/smersh/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/c8c/smersh_logo.jpg"></span>
+						<span class="razdel_firearm_name">SMERSH (Россия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_307">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/steyr/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/d76/steyr_new_logo_enl.jpg"></span>
+						<span class="razdel_firearm_name">STEYR (Австрия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_263">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/weihrauch/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/919/xxl_weihrauch.sport.jpg"></span>
+						<span class="razdel_firearm_name">WEIHRAUCH (Германия)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_227">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/norica/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/7c6/norica_logo.png"></span>
+						<span class="razdel_firearm_name">NORICA (Испания)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_247">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/cometa/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/0ff/i-_1_.jpg"></span>
+						<span class="razdel_firearm_name">COMETA (Испания)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_632">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/ares/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/a0b/aresx.jpg"></span>
+						<span class="razdel_firearm_name">ARES (Турция)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_613">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/shanghai/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/03c/i-_2_.jpg"></span>
+						<span class="razdel_firearm_name">SHANGHAI (Китай)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1311">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/analogi-boevykh-vintovok/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/43d/pistolet_pulemyet-shpagina-_ppsh_.jpg"></span>
+						<span class="razdel_firearm_name">Аналоги боевых винтовок</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1312">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/analogi-boevykh-vintovok/m16/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/013/m16.jpg"></span>
+						<span class="razdel_firearm_name">M16</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1313">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/analogi-boevykh-vintovok/vinchester/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/207/vinchester.jpg"></span>
+						<span class="razdel_firearm_name">Winchester (Винчестер)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1314">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/analogi-boevykh-vintovok/remington-870/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/bd1/remington-870.jpg"></span>
+						<span class="razdel_firearm_name">Винтовка Remington 870</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1315">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/analogi-boevykh-vintovok/snayperskaya-vintovka-aw-awp/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/22c/snayperskaya-vintovka-aw-awp.jpg"></span>
+						<span class="razdel_firearm_name">Снайперская винтовка AWP (Слон)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1464">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/analogi-boevykh-vintovok/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">АК (Калашников)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1465">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/analogi-boevykh-vintovok/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Пистолет-пулемёт Шпагина (ППШ)</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1134">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskie-vintovki-do-5000-rubley/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/5f1/5000.jpg"></span>
+						<span class="razdel_firearm_name">Пневматические винтовки до 5000 рублей</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1120">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskie-vintovki-do-8000-rubley/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/838/stoeger-x5-synthetic-4_5-mm-_30153_.jpg"></span>
+						<span class="razdel_firearm_name">Пневматические винтовки до 10000 рублей</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1135">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskie-vintovki-do-10000/">
+																		<span class="razdel_firearm_img"><img src="/upload/iblock/1fc/20000.jpg"></span>
+						<span class="razdel_firearm_name">Пневматические винтовки до 20000 рублей</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1500">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/bull_pup/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Булл-пап</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1504">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/gazoballonnye/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Газобаллонные</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1502">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/dlja-otdyha/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Для отдыха и развлечений</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1492">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/dlja_ohoty/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Для охоты</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1503">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/dlja-detej/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Для ребенка</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1493">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/dlja_sportivnoj_strelby/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Для спортивной стрельбы</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1512">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/ispanija/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Испанские</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1489">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/kalibr_4_5mm/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Калибр 4,5 мм</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1490">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/kalibr_5_5mm/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Калибр 5,5 мм</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1491">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/kalibr_6_35mm/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Калибр 6,35 мм</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1511">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/kitaj/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Китайские пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1505">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/klassicheskie/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Классические</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1496">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/kompressionnye/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Компрессионные пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1498">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/mnogozarjadnye/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Многозарядные пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1497">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/multikompressionnye/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Мультикомпрессионные пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1510">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/germanija/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Немецкие</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1499">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/odnozarjadnye/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Однозарядные пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1494">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/pruzhinno-porshnevye-vitaja-pruzhina/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Пневматические винтовки с витой пружиной</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1513">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/s_opticheskim_pricelom/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Пневматические винтовки с оптическим прицелом</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1501">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/podhodjat-dlja-ohoty/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Пневматические винтовки, подходящие для охоты</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1495">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/nitro-porshen/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Пружинно-поршневые пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1508">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/derevo/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">С деревянным прикладом</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1509">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/plastik/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">С пластиковым прикладом</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1506">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/skladnye/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Складные пневматические винтовки</span>
+					</a>
+				</div>
+							<div class="razdel_firearm_block" id="bx_1847241719_1507">
+					<a class="razdel_firearm" href="/catalog/pnevmaticheskie_vintovki/teleskopicheskie/">
+																		<span class="razdel_firearm_img"><img src=""></span>
+						<span class="razdel_firearm_name">Телескопические</span>
+					</a>
+				</div>
+			<div class="clear"></div>
+</div>
+
+		<div class="sortirovka_block">
+			<ul class="sortirovka not_style">
+				<li>Сортировать по:</li>
+									<li><a class="" href="/catalog/pnevmaticheskie_vintovki/index.php?sort=price&amp;order=asc">цене</a></li>
+									<li><a class="sort_active_bottom" href="/catalog/pnevmaticheskie_vintovki/index.php?sort=show_counter&amp;order=desc">популярности</a></li>
+									<li><a class="" href="/catalog/pnevmaticheskie_vintovki/index.php?sort=name&amp;order=asc">названию</a></li>
+							</ul>
+			<ul class="vid_tovara not_style display_none_m display_none_mp">
+				<li>Показывать:</li>
+				<li><a class="table_vid_tovara js_table_vid_tovara active_table_vid_tovara" href="/catalog/pnevmaticheskie_vintovki/index.php?view=table">таблицей</a></li>
+				<li><a class="list_vid_tovara js_list_vid_tovara " href="/catalog/pnevmaticheskie_vintovki/index.php?view=list">списком</a></li>
+			</ul>
+			<div class="clear"></div>
+		</div>
+
+		
+		<div class="catalog_list">
+<!--RestartBuffer-->
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_3836">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/gamo_cfr_whisper_plastik/">Пневматическая винтовка GAMO CFR Whisper (Пластик)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/gamo_cfr_whisper_plastik/"><img src="/upload/iblock/911/9115ba0d64c09e8c0698d587985ecbfe.JPG"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/911/9115ba0d64c09e8c0698d587985ecbfe.JPG">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					18690 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		18690 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="3836" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=3836">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>305</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,4</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Подствольное взведение</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=3836" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_14817">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-benjamin-titan-np/">Пневматическая винтовка Crosman Benjamin Titan NP</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-benjamin-titan-np/"><img src="/upload/iblock/449/449a9ef7da08e5aa5485c1edb3b6a405.JPG"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/449/449a9ef7da08e5aa5485c1edb3b6a405.JPG">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					14950 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		14950 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="14817" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=14817">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>305</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,1</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=14817" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_14818">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-benjamin-titan-xs/">Пневматическая винтовка Crosman Benjamin Titan XS</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-benjamin-titan-xs/"><img src="/upload/iblock/278/2783aacf35bf3e8f75d63704696ab0f2.JPG"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/278/2783aacf35bf3e8f75d63704696ab0f2.JPG">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					16390 руб.<span>18740 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		16390 руб.<span>18740 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="14818" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=14818">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>305</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>4,180</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=14818" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_14820">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-fury-np/">Пневматическая винтовка Crosman Fury NP (оптика 4x32)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-fury-np/"><img src="/upload/iblock/c0e/c0efcd5b928f370b6621bb28d51a4132.JPG"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/c0e/c0efcd5b928f370b6621bb28d51a4132.JPG">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					10690 руб.<span>12300 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		10690 руб.<span>12300 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="14820" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=14820">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>365</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>2,9</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=14820" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_14826">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-pcp-evanix-speed/">Пневматическая винтовка PCP Evanix Speed</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-pcp-evanix-speed/"><img src="/upload/iblock/fed/fedfdb24614269b3d20ab29f6a30d8d4.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/fed/fedfdb24614269b3d20ab29f6a30d8d4.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					91890 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		91890 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="14826" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=14826">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>380</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,9</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Электровзвод</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>10 пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=14826" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_14872">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-pcp-evanix-giant-black/">Пневматическая винтовка PCP Evanix Giant Black</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-pcp-evanix-giant-black/"><img src="/upload/iblock/02f/02f86478cb5f40f94e00bb272ac532e5.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/02f/02f86478cb5f40f94e00bb272ac532e5.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					124490 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		124490 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="14872" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=14872">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>380</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,8</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Электровзвод</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>10,20(двойной) пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=14872" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_22223">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-ataman-m2r-bull-pap-novyy-dizayn-5-5-orekh-magazin-v-komplekte/">Пневматическая винтовка «Ataman M2R Булл-пап 815/RB 5.5»</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-ataman-m2r-bull-pap-novyy-dizayn-5-5-orekh-magazin-v-komplekte/"><img src="/upload/iblock/78d/pnevmaticheskaya-vintovka-ataman-m2r-bull_pap-novyy-dizayn-5.5-_orekh_magazin-v-komplekte_.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/78d/pnevmaticheskaya-vintovka-ataman-m2r-bull_pap-novyy-dizayn-5.5-_orekh_magazin-v-komplekte_.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					76990 руб.<span>85000 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		76990 руб.<span>85000 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="22223" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=22223">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево (Орех)</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой затвор</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>8 пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=22223" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_22731">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-edgun-matador-r3m-6-35-mm-udlinennyy-bullpap/">Пневматическая винтовка EDgun Матадор R3M 6,35 мм, удлиненный буллпап</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-edgun-matador-r3m-6-35-mm-udlinennyy-bullpap/"><img src="/upload/iblock/ebc/ebc359147111ae9d88f47c40a6a4e096.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/ebc/ebc359147111ae9d88f47c40a6a4e096.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					68480 руб.<span>75000 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		68480 руб.<span>75000 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="22731" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=22731">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>315</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,1</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Покраска (бук), пропитка (орех), ламинат</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовое взведение</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>Не менее 90 выстрелов с одной заправки (магазин 10 пуль)</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=22731" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_22739">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-karabin-ataman-ml15-6-35-mm/">Пневматическая винтовка Ataman CARBINE ML15 C16/RB 6.35 </a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-karabin-ataman-ml15-6-35-mm/"><img src="/upload/iblock/65a/65a9a59dadc4edcf139fc6e09e376b95.png"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/65a/65a9a59dadc4edcf139fc6e09e376b95.png">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					50990 руб.<span>58890 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		50990 руб.<span>58890 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="22739" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=22739">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Ёмкость магазина:</li>
+						<li>8 пуль</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Бук</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/c):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой затвор</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Длина винтовки (мм):</li>
+						<li>1000</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Производитель:</li>
+						<li>Ataman</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Страна производитель:</li>
+						<li>Россия</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=22739" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_22740">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-bull-pap-ataman-ml-15-5-5-mm-buk/">Пневматическая винтовка Ataman  BULLPUP ML15 B15/RB 5.5</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-bull-pap-ataman-ml-15-5-5-mm-buk/"><img src="/upload/iblock/f87/pnevmaticheskaya-vintovka-ataman-bullpup-ml15-b15-rb-5.5.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/f87/pnevmaticheskaya-vintovka-ataman-bullpup-ml15-b15-rb-5.5.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					48990 руб.<span>53000 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		48990 руб.<span>53000 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="22740" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=22740">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Ёмкость магазина:</li>
+						<li>10 пуль</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Бук</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули м/с:</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой затвор</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Длина винтовки (мм):</li>
+						<li>1000</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Производитель:</li>
+						<li>Ataman</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Страна производитель:</li>
+						<li>Россия</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=22740" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_22741">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-bull-pap-ataman-ml-15-6-35-mm-buk/">Пневматическая винтовка Ataman BULLPUP ML15 B16/RB 6.35</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-bull-pap-ataman-ml-15-6-35-mm-buk/"><img src="/upload/iblock/624/b96324a182e317d9d849bc81f691ca4e.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/624/b96324a182e317d9d849bc81f691ca4e.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					54990 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		54990 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="22741" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=22741">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Ёмкость магазина:</li>
+						<li>8 пуль</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Бук</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой затвор</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Длина винтовки (мм):</li>
+						<li>1000</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Производитель:</li>
+						<li>Ataman</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Страна производитель:</li>
+						<li>Россия</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=22741" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_23731">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-mp-512-44-murena/">Пневматическая винтовка МР-512-44 Мурена</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-mp-512-44-murena/"><img src="/upload/iblock/1d2/murena.png"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/1d2/murena.png">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					5954 руб.<span>7990 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		5954 руб.<span>7990 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="23731" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=23731">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули м/с:</li>
+						<li>173</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>2,98</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Длина (мм):</li>
+						<li>1100</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=23731" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_24402">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/mr-512-28/">Пневматическая винтовка МР-512-28 (кал 4.5 пласт., ложа с пазом под оптику)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/mr-512-28/"><img src="/upload/iblock/fe5/pnevmaticheskaya-vintovka-mr_512-_28-_kal-4.5-plast._-lozha-s-pazom-pod-optiku_.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/fe5/pnevmaticheskaya-vintovka-mr_512-_28-_kal-4.5-plast._-lozha-s-pazom-pod-optiku_.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					4090 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		4090 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="24402" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=24402">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>150</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>2,8</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>:</li>
+						<li></li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=24402" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_26129">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/edgun-leshiy-6-35/">Пневматическая винтовка EdGun «Леший» (6,35 мм)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/edgun-leshiy-6-35/"><img src="/upload/iblock/7dc/pnevmaticheskaya-vintovka-edgun-leshiy-5_5-mm.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/7dc/pnevmaticheskaya-vintovka-edgun-leshiy-5_5-mm.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					67420 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		67420 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="26129" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=26129">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>280</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>2</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Переломка</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=26129" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_26179">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-m2r-416c-sl/">Пневматическая винтовка  Ataman BULLPUP M2R 416C/SL 6.35 (магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-m2r-416c-sl/"><img src="/upload/iblock/b74/pnevmaticheskaya-vintovka-ataman-bullpup-m2r-416c-_sl_-6.35.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/b74/pnevmaticheskaya-vintovka-ataman-bullpup-m2r-416c-_sl_-6.35.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					87990 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		87990 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="26179" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=26179">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,7</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево (Орех)</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули:</li>
+						<li>300 м/с</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Биатлонный</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>8 пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=26179" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_26265">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/gamo-delta-fox-gt-3j/">Пневматическая винтовка GAMO Delta Fox GT (3 Дж)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/gamo-delta-fox-gt-3j/"><img src="/upload/iblock/2bc/pnevmaticheskaya-vintovka-gamo-delta-fox-gt.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/2bc/pnevmaticheskaya-vintovka-gamo-delta-fox-gt.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					6780 руб.<span>7550 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		6780 руб.<span>7550 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="26265" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=26265">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>175</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>2,1</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=26265" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_26444">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-616-rb-sl/">Пневматическая винтовка ATAMAN Tactical Carbine Type 4 M2R 616/RB (SL) 6.35 (магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-616-rb-sl/"><img src="/upload/iblock/41d/pnevmaticheskaya-vintovka-ataman-tactical-carbine-type-4-m2r-616-rb-_sl_-6.35.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/41d/pnevmaticheskaya-vintovka-ataman-tactical-carbine-type-4-m2r-616-rb-_sl_-6.35.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					87990 руб.<span>94500 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		87990 руб.<span>94500 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="26444" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=26444">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Биатлонный затвор</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>10 пуль</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>:</li>
+						<li></li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=26444" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_26552">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-gamo-black-bear-plastik/">Пневматическая винтовка GAMO Black Bear (пластик)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-gamo-black-bear-plastik/"><img src="/upload/iblock/32b/pnevmaticheskaya-vintovka-gamo-black-bear-_plastik_.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/32b/pnevmaticheskaya-vintovka-gamo-black-bear-_plastik_.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					11990 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		11990 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="26552" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=26552">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>305</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,1</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=26552" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_26962">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-m2r-815-sl/">Пневматическая винтовка ATAMAN M2R 815/SL 5.5 (магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-m2r-815-sl/"><img src="/upload/iblock/d1e/815.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/d1e/815.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					76990 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		76990 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="26962" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=26962">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево (Орех)</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Биатлонный</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>8 пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=26962" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_27230">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-216-rb-6-35/">Пневматическая винтовка ATAMAN TACTICAL CARBINE TYPE 1 M2R 216/RB 6.35 (магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-216-rb-6-35/"><img src="/upload/iblock/a1c/pnevmaticheskaya-vintovka-ataman-tactical-carbine-type-1-m2r-215-rb-5.5-_magazin-v-komplekte_-2.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/a1c/pnevmaticheskaya-vintovka-ataman-tactical-carbine-type-1-m2r-215-rb-5.5-_magazin-v-komplekte_-2.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					87990 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		87990 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="27230" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=27230">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>4 - 4,3 кг</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево (Орех)</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>8пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=27230" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_27231">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-215-rb-5-5/">Пневматическая винтовка ATAMAN TACTICAL CARBINE TYPE 1 M2R 215/RB 5.5 (магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-215-rb-5-5/"><img src="/upload/iblock/cc9/pnevmaticheskaya-vintovka-ataman-tactical-carbine-type-1-m2r-215-rb-5.5-_magazin-v-komplekte_-2.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/cc9/pnevmaticheskaya-vintovka-ataman-tactical-carbine-type-1-m2r-215-rb-5.5-_magazin-v-komplekte_-2.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					76990 руб.<span>80000 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		76990 руб.<span>80000 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="27231" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=27231">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>4 - 4,3 кг</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево (Орех)</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>8пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=27231" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_27463">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-cst8m22xkt-3j/">Пневматическая винтовка Crosman CST8M22XKT (3J)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-crosman-cst8m22xkt-3j/"><img src="/upload/iblock/e35/pnevmaticheskaya-vintovka-crosman-cst8m22xkt-_3j_.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/e35/pnevmaticheskaya-vintovka-crosman-cst8m22xkt-_3j_.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					37900 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		37900 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="27463" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=27463">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>250</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>2,7</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Переломом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>:</li>
+						<li></li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=27463" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_27471">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman_maestro_na17_51w_5_5/">Пневматическая винтовка Ataman Маэстро NA17 51W 5.5</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman_maestro_na17_51w_5_5/"><img src="/upload/iblock/df8/pnevmaticheskaya-vintovka-ataman-maestro-na17-51w-5.5.png"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/df8/pnevmaticheskaya-vintovka-ataman-maestro-na17-51w-5.5.png">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					25000 руб.<span>29500 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		25000 руб.<span>29500 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="27471" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=27471">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,4 кг</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>210</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=27471" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_27487">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-bullpup-826c-sl/">Пневматическая винтовка Ataman Bullpup M2R 826C/SL 6.35 (магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-bullpup-826c-sl/"><img src="/upload/iblock/73c/pnevmaticheskaya-vintovka-ataman-bullpup-m2r-826-sl-6.35-_magazin-v-komplekte_.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/73c/pnevmaticheskaya-vintovka-ataman-bullpup-m2r-826-sl-6.35-_magazin-v-komplekte_.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					87990 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		87990 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="27487" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=27487">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,7</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево с покрытием Soft-touch</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Биатлонный</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>8пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=27487" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_27488">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-bullpup-m2r-435-sl/">Пневматическая винтовка  ATAMAN BULLPUP M2R 435/SL 5.5 (Зелёный)(магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-bullpup-m2r-435-sl/"><img src="/upload/iblock/71e/pnevmaticheskaya-vintovka-ataman-bullpup-m2r-435-sl-5.5-_zelyenyy_magazin-v-komplekte_.png"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/71e/pnevmaticheskaya-vintovka-ataman-bullpup-m2r-435-sl-5.5-_zelyenyy_magazin-v-komplekte_.png">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					76990 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		76990 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="27488" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=27488">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,7</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево с покрытием Soft-touch</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Биатлонный</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>10 пуль</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>:</li>
+						<li></li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=27488" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_27504">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-umarex-nxg-apx/">Пневматическая винтовка Umarex NXG APX</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-umarex-nxg-apx/"><img src="/upload/iblock/422/pnevmaticheskaya-vintovka-umarex-nxg-apx.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/422/pnevmaticheskaya-vintovka-umarex-nxg-apx.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					15800 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		15800 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="27504" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=27504">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>175</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>1,54</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовое взведение</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=27504" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_14792">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-stoeger-atac-combo-4-16x40ao-4-5-mm-30702/">Пневматическая винтовка Stoeger Atac Combo 4-16x40AO 4.5 мм. (30702)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-stoeger-atac-combo-4-16x40ao-4-5-mm-30702/"><img src="/upload/iblock/5f9/5f9cf51ceb0237950366ad2519c388f6.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/5f9/5f9cf51ceb0237950366ad2519c388f6.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					18525 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		18525 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="14792" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=14792">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>365</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>4,1</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Пластик</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Перелом ствола</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>1 пуля</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=14792" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_14877">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-umarex-hammerli-ar-20-silver-pro-pcp-dioptr-pritsel/">Пневматическая винтовка Umarex Hammerli AR-20 Silver Pro (PCP, диоптр.прицел)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-umarex-hammerli-ar-20-silver-pro-pcp-dioptr-pritsel/"><img src="/upload/iblock/c2d/c2d5aa47724c61b9f1ee9db6e03ee249.JPG"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/c2d/c2d5aa47724c61b9f1ee9db6e03ee249.JPG">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					84720 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		84720 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="14877" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=14877">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>4,5</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=14877" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_26953">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/ataman-m2r-116c-rb/">Пневматическая винтовка ATAMAN CARBINE M2R 116C/RB 6.35 (магазин в комплекте)</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/ataman-m2r-116c-rb/"><img src="/upload/iblock/20c/116.jpg"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/20c/116.jpg">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					88000 руб.																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		88000 руб.															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="26953" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=26953">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>6,35</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>4 - 4,3 кг</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево (Орех)</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой затвор</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>8пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=26953" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+	<div class="table_element_catalog_block parent_block" id="bx_3966226736_22193">
+		<div class="list_element_catalog table_element_catalog">
+			<a class="list_element_title" href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-ataman-m2r-karabin-standart-6-35-orekh-magazin-v-komplekte/">Пневматическая винтовка Ataman Carbine M2R 116/RB 6.35</a>
+			<p class="list_element_img">
+									<a href="/catalog/pnevmaticheskie_vintovki/pnevmaticheskaya-vintovka-ataman-m2r-karabin-standart-6-35-orekh-magazin-v-komplekte/"><img src="/upload/iblock/f4a/f4ab4db73a04d9373544751aee06a5fc.JPG"></a>
+							</p>
+			<div class="display_none_c">
+				<ul class="not_style">
+					<li>
+													<img src="/upload/iblock/f4a/f4ab4db73a04d9373544751aee06a5fc.JPG">
+											</li>
+				</ul>
+				<ul class="not_style">
+					<li class="money_element">
+																					87990 руб.<span>95000 руб.</span>
+																		</li>
+				</ul>
+			</div>
+			<ul class="table_buy_money">
+				<li class="money_element display_none_m display_none_mp display_none_p">
+																		87990 руб.<span>95000 руб.</span>
+															</li>
+				<li class="buy_element">
+					<div class="buy_number">
+						<a class="js_number_prev" href=""><img src="/img/number_prev.png" alt=""></a>
+						<input name="count" class="number" type="text" value="1">
+						<a class="js_number_next" href=""><img src="/img/number_next.png" alt=""></a>
+					</div>
+					<div class="clear"></div>
+				</li>
+				<li class="buy_element_button_block">
+											<a class="buy_element_button" data-id="22193" href="/catalog/pnevmaticheskie_vintovki/index.php?action=ADD2BASKET&amp;id=22193">Купить</a>
+										<div class="clear"></div>
+				</li>
+			</ul>
+			<div class="table_element_catalog_light">
+				<div class="display_none_m display_none_mp display_none_p">
+									<ul class="opisanie_element_catalog not_style">
+						<li>Калибр (мм):</li>
+						<li>5,5</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Вес (кг):</li>
+						<li>3,6</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Материал приклада:</li>
+						<li>Дерево (Орех)</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Скорость пули (м/с):</li>
+						<li>300</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Тип взведения:</li>
+						<li>Болтовой затвор</li>
+					</ul>
+										<ul class="opisanie_element_catalog not_style">
+						<li>Зарядность:</li>
+						<li>10 пуль</li>
+					</ul>
+									</div>
+
+				<p class="add_sravnenie"><label><div class="jq-checkbox" unselectable="on" style="user-select: none; display: inline-block; position: relative; overflow: hidden;"><input type="checkbox" data-url="/catalog/compare/?action=ADD_TO_COMPARE_LIST&amp;id=22193" style="position: absolute; z-index: -1; opacity: 0; margin: 0px; padding: 0px;"><div class="jq-checkbox__div"></div></div>Добавить в сравнение</label></p>
+			</div>
+		</div>
+	</div>
+
+<div class="clear"></div>
+<div class="catalog_page_top_all_produce"></div>
+<div class="ajax-pager-wrap">
+                      <a class="ajax-pager-link index_more_produce" data-wrapper-class="catalog_list" href="/catalog/pnevmaticheskie_vintovki/index.php?PAGEN_2=2">показать еще 30</a>
+                  </div><div class="catalog_page_navigator_block">
+	<div class="catalog_page_navigator_kol">Показано 30 из 589</div>
+		<div class="catalog_page_navigator">
+								<a href="" class="active"><span>1</span></a>
+										<a href="/catalog/pnevmaticheskie_vintovki/?PAGEN_2=2"><span>2</span></a>
+										<a href="/catalog/pnevmaticheskie_vintovki/?PAGEN_2=3"><span>3</span></a>
+										<a href="/catalog/pnevmaticheskie_vintovki/?PAGEN_2=4"><span>4</span></a>
+										<a href="/catalog/pnevmaticheskie_vintovki/?PAGEN_2=5"><span>5</span></a>
+									<a href="/catalog/pnevmaticheskie_vintovki/?PAGEN_2=2"><span><img src="/img/navigator_right_arrow.png" alt=""></span></a>
+		</div>
+</div></div>
+<!--RestartBuffer-->
+	</div>
+</div>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

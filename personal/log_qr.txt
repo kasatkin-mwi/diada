@@ -1,0 +1,1196 @@
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1300</AMOUNT><ORDER_NUMBER>233780</ORDER_NUMBER><ORDER_DESCRIPTION>233780 (19.11.2020 18:22:34)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><BACK_URL_OK>https://www.diada-arms.ru/personal/payment_qr.php</BACK_URL_OK><BACK_URL_FAIL>https://www.diada-arms.ru/personal/payment_qr.php</BACK_URL_FAIL><CLIENT_NAME>53453</CLIENT_NAME><CLIENT_ADDRESS>Россия, Санкт-Петербург,  Уличная д.111 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ruslan.khrushch@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>45345345345</CLIENT_PHONE><CLIENT_IP>80.82.43.225</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>100</AMOUNT><ORDER_NUMBER>246653</ORDER_NUMBER><ORDER_DESCRIPTION>246653 (15.02.2021 13:15:18)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Руслан</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ruslan.khrushch@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79153167600</CLIENT_PHONE><CLIENT_IP>213.87.136.52</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+15.02.2021 13:18<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>14999488</id>
+    <ticket>gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM</ticket>
+    <ok_code>yAUUwwkEJO</ok_code>
+    <failure_code>GxheLcfwVE</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1693000</AMOUNT><ORDER_NUMBER>246595</ORDER_NUMBER><ORDER_DESCRIPTION>246595 (15.02.2021 04:51:35)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Маевский Максим Сергеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Приморский край, Владивосток,  До востребования д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>tromix.vl@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79046294546</CLIENT_PHONE><CLIENT_IP>217.138.216.20</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+16.02.2021 13:09<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15004205</id>
+    <ticket>SzjfyOwD000015004205GGOIgYadfNevzUgvNGtM</ticket>
+    <ok_code>sSlXprVWYj</ok_code>
+    <failure_code>fofAHZkAQa</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1693000</AMOUNT><ORDER_NUMBER>246595</ORDER_NUMBER><ORDER_DESCRIPTION>246595 (15.02.2021 04:51:35)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Маевский Максим Сергеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Приморский край, Владивосток,  До востребования д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>tromix.vl@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79046294546</CLIENT_PHONE><CLIENT_IP>217.138.216.20</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+16.02.2021 13:09<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15004206</id>
+    <ticket>LJOuYIHQ000015004206UDDOKxyhkyBzDfzvKBFW</ticket>
+    <ok_code>MAGCZkTVJW</ok_code>
+    <failure_code>VaUozVhRso</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>495000</AMOUNT><ORDER_NUMBER>246945</ORDER_NUMBER><ORDER_DESCRIPTION>246945 (17.02.2021 03:08:43)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Масленко Валентина</CLIENT_NAME><CLIENT_ADDRESS>Россия, Самарская область, Тольятти,  40 лет Победы д.47 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>davadamant@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79178230675</CLIENT_PHONE><CLIENT_IP>178.57.199.70</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+17.02.2021 12:19<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15008664</id>
+    <ticket>fXUqptAX000015008664vbZyHcgEgNDNDUyNsRja</ticket>
+    <ok_code>YnxLeTWbJf</ok_code>
+    <failure_code>fAVXkoZdub</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>89500</AMOUNT><ORDER_NUMBER>247273</ORDER_NUMBER><ORDER_DESCRIPTION>247273 (18.02.2021 19:22:52)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Кудрявцев Алексей Витальевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Костромская область, Межевской район, Георгиевское село,  Колхозная д.24 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>legion23588@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79109281410</CLIENT_PHONE><CLIENT_IP>109.197.205.62</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+18.02.2021 20:01<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15016239</id>
+    <ticket>meZZQvpW000015016239pfiDOqVhNeepKypUgulv</ticket>
+    <ok_code>pfjuDHsVyE</ok_code>
+    <failure_code>XzyuFxfTYZ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>984900</AMOUNT><ORDER_NUMBER>247769</ORDER_NUMBER><ORDER_DESCRIPTION>247769 (21.02.2021 15:59:55)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Казаков Алексей Петрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ставропольский край, Новоалександровский район, Новоалександровск,  Ленина д.13 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>alekseikazakow@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-909-755-95-34</CLIENT_PHONE><CLIENT_IP>109.234.24.165</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.02.2021 19:09<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15028619</id>
+    <ticket>dVZXgrXN000015028619WDTZdoyJkpyffgIDmGQY</ticket>
+    <ok_code>CSOYdmWBvs</ok_code>
+    <failure_code>NegXFtAavV</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>358000</AMOUNT><ORDER_NUMBER>247638</ORDER_NUMBER><ORDER_DESCRIPTION>247638 (20.02.2021 19:37:22)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Лещенко Игорь Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Краснодарский край,  Красная д.36 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>igor.leshenko@icloud.com</CLIENT_EMAIL><CLIENT_PHONE>+79182330186</CLIENT_PHONE><CLIENT_IP>45.133.98.52</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.02.2021 09:35<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15033322</id>
+    <ticket>jjtEaHjs000015033322xQyblbyqUmUNUIpfDIJz</ticket>
+    <ok_code>rBOkkXyqGR</ok_code>
+    <failure_code>bdHWIxnglt</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>927000</AMOUNT><ORDER_NUMBER>247878</ORDER_NUMBER><ORDER_DESCRIPTION>247878 (22.02.2021 13:58:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Маслова Ирина Алексеевна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Волгоградская область, Новониколаевский район,  Волгоградская обл, Новониколаевский р-н, поселок Комсомольский, ул Народная, д 5 д.Волгоградская обл, Новониколаевский р-н, поселок Комсомольский, ул Народная, д 5 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ira.maslov2010@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>8-937-558-01-82</CLIENT_PHONE><CLIENT_IP>31.180.150.77</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.02.2021 20:46<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15035600</id>
+    <ticket>SnlDiGMB000015035600yFVubmfCHsPUpsPgPAwV</ticket>
+    <ok_code>vDouLBFrVZ</ok_code>
+    <failure_code>mvPhKSWVfJ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>85000</AMOUNT><ORDER_NUMBER>248185</ORDER_NUMBER><ORDER_DESCRIPTION>248185 (24.02.2021 15:47:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Альберт</CLIENT_NAME><CLIENT_ADDRESS>Россия, Челябинская область, Усть-Катав,  Станционная д.66 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>samsonalik@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89124062861</CLIENT_PHONE><CLIENT_IP>80.83.238.102</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+24.02.2021 17:30<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15039134</id>
+    <ticket>yLfMROlL000015039134ytHicsEAtgDzPDfKvWuE</ticket>
+    <ok_code>SDGXuODUkk</ok_code>
+    <failure_code>NrLntxAtTG</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>85000</AMOUNT><ORDER_NUMBER>248185</ORDER_NUMBER><ORDER_DESCRIPTION>248185 (24.02.2021 15:47:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Альберт</CLIENT_NAME><CLIENT_ADDRESS>Россия, Челябинская область, Усть-Катав,  Станционная д.66 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>samsonalik@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89124062861</CLIENT_PHONE><CLIENT_IP>80.83.238.102</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+24.02.2021 17:44<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15039221</id>
+    <ticket>IOGieGaM000015039221LWYclcojUDgmIvIDUBUG</ticket>
+    <ok_code>oBPjdZNCpM</ok_code>
+    <failure_code>zzKWLuNNqW</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>85000</AMOUNT><ORDER_NUMBER>248185</ORDER_NUMBER><ORDER_DESCRIPTION>248185 (24.02.2021 15:47:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Альберт</CLIENT_NAME><CLIENT_ADDRESS>Россия, Челябинская область, Усть-Катав,  Станционная д.66 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>samsonalik@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89124062861</CLIENT_PHONE><CLIENT_IP>80.83.238.102</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+24.02.2021 17:44<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15039223</id>
+    <ticket>XVsIMsni000015039223evOUyKJdODeeypfImSeu</ticket>
+    <ok_code>RCuyWZgDIg</ok_code>
+    <failure_code>FLwiWCztbk</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>738400</AMOUNT><ORDER_NUMBER>248477</ORDER_NUMBER><ORDER_DESCRIPTION>248477 (26.02.2021 13:23:56)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Романов Виталий Михайлович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Краснодарский край, Красноармейский район, Полтавская станица,  Просвещения д.71 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>vitaliy_romanov_199@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89184551109</CLIENT_PHONE><CLIENT_IP>62.140.248.223</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+26.02.2021 14:54<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15047800</id>
+    <ticket>mrYVCmKQ000015047800QMpJhsvGOBvmBPvyscCN</ticket>
+    <ok_code>NyogTqYTLn</ok_code>
+    <failure_code>FIpBDMNDAH</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1063000</AMOUNT><ORDER_NUMBER>249177</ORDER_NUMBER><ORDER_DESCRIPTION>249177 (02.03.2021 15:12:11)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Арцыбасов Александр Олегович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ямало-Ненецкий автономный округ, Тазовский район, Тазовский посёлок,  ул Пристанская д.д 37А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gredo888@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79195584818</CLIENT_PHONE><CLIENT_IP>85.140.18.235</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+02.03.2021 16:25<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15067944</id>
+    <ticket>nIvcIiZG000015067944weefSIPIZImUmUIefYWE</ticket>
+    <ok_code>IlQtoLCqSh</ok_code>
+    <failure_code>ULijfXjrZr</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>819000</AMOUNT><ORDER_NUMBER>249108</ORDER_NUMBER><ORDER_DESCRIPTION>249108 (02.03.2021 08:42:01)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Анасстасиади Наталья Николаевна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край, Красноярск,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>nata_anastasiadi@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79233627432</CLIENT_PHONE><CLIENT_IP>95.156.103.190</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+04.03.2021 05:34<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15075530</id>
+    <ticket>UYOvBlYB000015075530KTkLLQahupzIDevIyyJy</ticket>
+    <ok_code>BHjWqNbYUq</ok_code>
+    <failure_code>lkDepXmqSj</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1957500</AMOUNT><ORDER_NUMBER>250548</ORDER_NUMBER><ORDER_DESCRIPTION>250548 (11.03.2021 10:14:14)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Пехименко Дмитрий Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Оренбургская область, Орск,  Инженерный переулок д.28 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>d_r_o@inbox.ru</CLIENT_EMAIL><CLIENT_PHONE>+79058452300</CLIENT_PHONE><CLIENT_IP>83.146.113.32</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+11.03.2021 15:00<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15107289</id>
+    <ticket>gUJtnjxm000015107289VzivDRQxRKNfzzyfyfpl</ticket>
+    <ok_code>etHZHReEwY</ok_code>
+    <failure_code>PBgijQBYxL</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>759900</AMOUNT><ORDER_NUMBER>250832</ORDER_NUMBER><ORDER_DESCRIPTION>250832 (12.03.2021 16:17:28)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Кокоулин Михаил Станиславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Пермский край, Александровск,  Мехоношина д.8 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>citramon1969@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79026405317</CLIENT_PHONE><CLIENT_IP>37.76.157.249</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+12.03.2021 19:37<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15113568</id>
+    <ticket>vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt</ticket>
+    <ok_code>HFLPMgyUsw</ok_code>
+    <failure_code>SqNCnjZCSW</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>64000</AMOUNT><ORDER_NUMBER>251910</ORDER_NUMBER><ORDER_DESCRIPTION>251910 (19.03.2021 10:54:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Грешников Александр Михайлович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край, Богучанский район,  Лесная д.12 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>saniagreshnikov@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89029451687</CLIENT_PHONE><CLIENT_IP>176.59.138.232</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+19.03.2021 13:27<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15145180</id>
+    <ticket>POttTbKN000015145180PbEnPPYGrKUzBBsIsLKt</ticket>
+    <ok_code>qBUrabIWhu</ok_code>
+    <failure_code>MlnnJRWZRZ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>9815000</AMOUNT><ORDER_NUMBER>252039</ORDER_NUMBER><ORDER_DESCRIPTION>252039 (19.03.2021 21:28:36)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Малинов Владимир Валентинович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Томская область, Александровский район,  Засаймочная д.11 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>vlad0469@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-913-843-20-24</CLIENT_PHONE><CLIENT_IP>188.162.4.14</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+20.03.2021 20:04<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15151100</id>
+    <ticket>uxemPFKX000015151100JwuiUVJJyfBKPmfPywML</ticket>
+    <ok_code>GUtMghbgEI</ok_code>
+    <failure_code>gVOZSAuQuM</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>9815000</AMOUNT><ORDER_NUMBER>252039</ORDER_NUMBER><ORDER_DESCRIPTION>252039 (19.03.2021 21:28:36)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Малинов Владимир Валентинович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Томская область, Александровский район,  Засаймочная д.11 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>vlad0469@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-913-843-20-24</CLIENT_PHONE><CLIENT_IP>188.162.4.14</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+20.03.2021 20:04<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15151101</id>
+    <ticket>HDaWijSy000015151101oeoYcUAjvKsymNUNzNHu</ticket>
+    <ok_code>eacZsrcRda</ok_code>
+    <failure_code>srOcILbUDq</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>9815000</AMOUNT><ORDER_NUMBER>252039</ORDER_NUMBER><ORDER_DESCRIPTION>252039 (19.03.2021 21:28:36)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Малинов Владимир Валентинович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Томская область, Александровский район,  Засаймочная д.11 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>vlad0469@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-913-843-20-24</CLIENT_PHONE><CLIENT_IP>188.162.4.14</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+20.03.2021 20:06<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15151107</id>
+    <ticket>YXLnPezc000015151107mDjCLgOYSvDfIBPszWhb</ticket>
+    <ok_code>fVljlSxPgn</ok_code>
+    <failure_code>HsvXphDpwf</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>84000</AMOUNT><ORDER_NUMBER>252401</ORDER_NUMBER><ORDER_DESCRIPTION>252401 (22.03.2021 14:47:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Ершов Андрей Николаевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Новосокольнический район, Новосокольники,  ул.Советская  д.17 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>andreyershov11072018@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79113999211</CLIENT_PHONE><CLIENT_IP>109.238.100.12</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+22.03.2021 16:53<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15158455</id>
+    <ticket>ithKawzi000015158455HADiiVAoavpIyUvfzhMZ</ticket>
+    <ok_code>FKQJhAakAy</ok_code>
+    <failure_code>owWEbWLnLx</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>229000</AMOUNT><ORDER_NUMBER>252409</ORDER_NUMBER><ORDER_DESCRIPTION>252409 (22.03.2021 15:10:43)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Дмитриева Светлана Александровна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Башкортостан, Бирский район,  Новоселов д.12 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>artem1995cs@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89603883697</CLIENT_PHONE><CLIENT_IP>178.214.253.133</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+26.03.2021 06:46<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15175978</id>
+    <ticket>oDjmKeJB000015175978gztruRDILeIfePBpmNHI</ticket>
+    <ok_code>dSonjWTWZs</ok_code>
+    <failure_code>nGNEVeiBSA</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>3337500</AMOUNT><ORDER_NUMBER>253589</ORDER_NUMBER><ORDER_DESCRIPTION>253589 (29.03.2021 12:36:18)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Платонов Григорий Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Хабаровский край, Хабаровск,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>PlatonovGrAl@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79141587957</CLIENT_PHONE><CLIENT_IP>87.225.100.110</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.03.2021 12:43<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15188769</id>
+    <ticket>SDlzwurc000015188769eTbYhWWEheDmUepDvnFx</ticket>
+    <ok_code>gwIBSRSXrD</ok_code>
+    <failure_code>oJXjYgQazG</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>898400</AMOUNT><ORDER_NUMBER>254765</ORDER_NUMBER><ORDER_DESCRIPTION>254765 (05.04.2021 12:16:23)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Буняк Игорь Петрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Вологодская область,  Пионерская  д.8 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gosha-doc@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79218229318</CLIENT_PHONE><CLIENT_IP>178.69.77.59</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+05.04.2021 13:30<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15223697</id>
+    <ticket>rczSUuWR000015223697biIXnoVifpNyevmfNPHa</ticket>
+    <ok_code>nvfFiLcgwk</ok_code>
+    <failure_code>UuMmeoqwmB</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>518200</AMOUNT><ORDER_NUMBER>255231</ORDER_NUMBER><ORDER_DESCRIPTION>255231 (08.04.2021 09:18:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Дагаев Михаил Геннадьевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ростовская область, Аксайский район, Аксай,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>mihail1912@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89198880515</CLIENT_PHONE><CLIENT_IP>188.93.66.78</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+08.04.2021 10:24<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15240178</id>
+    <ticket>dVqpEhDC000015240178mBLMenPVYIszsBDpPieD</ticket>
+    <ok_code>THReaLcvnO</ok_code>
+    <failure_code>uinEmpGaiP</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>518200</AMOUNT><ORDER_NUMBER>255231</ORDER_NUMBER><ORDER_DESCRIPTION>255231 (08.04.2021 09:18:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Дагаев Михаил Геннадьевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ростовская область, Аксайский район, Аксай,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>mihail1912@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89198880515</CLIENT_PHONE><CLIENT_IP>188.93.66.78</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+08.04.2021 10:27<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15240196</id>
+    <ticket>FawiJNwS000015240196UNXNFErOoIvgzPUPySpo</ticket>
+    <ok_code>KOaFnRypjS</ok_code>
+    <failure_code>RdiRagzXps</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>3898000</AMOUNT><ORDER_NUMBER>255059</ORDER_NUMBER><ORDER_DESCRIPTION>255059 (07.04.2021 09:27:28)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Озерицкий Александр</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>Ozer-taksist50@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79031228513</CLIENT_PHONE><CLIENT_IP>81.177.127.196</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+08.04.2021 15:26<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15241895</id>
+    <ticket>uMGQPTZy000015241895pouyWWYyLzUpvPIeNhfi</ticket>
+    <ok_code>otNqnGOYGZ</ok_code>
+    <failure_code>CYtRGCXfTf</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>191700</AMOUNT><ORDER_NUMBER>255522</ORDER_NUMBER><ORDER_DESCRIPTION>255522 (10.04.2021 08:28:02)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>ионов иван александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ленинградская область, Бокситогорский район,  киевская  д.17 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>89218742898@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79218742898</CLIENT_PHONE><CLIENT_IP>178.67.107.163</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+10.04.2021 11:06<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15250099</id>
+    <ticket>awWbtgDb000015250099RMSiZxDSkPeBKzIBgIgA</ticket>
+    <ok_code>OzurLRfMPH</ok_code>
+    <failure_code>uCqJwsxQfC</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>70000</AMOUNT><ORDER_NUMBER>256167</ORDER_NUMBER><ORDER_DESCRIPTION>256167 (13.04.2021 21:16:07)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Данилов Дмитрий Петрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Башкортостан, Уфа,  Тухвата Янаби  д.53 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>Racingtime@bk.ru</CLIENT_EMAIL><CLIENT_PHONE>+79279564777</CLIENT_PHONE><CLIENT_IP>85.26.234.142</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+14.04.2021 10:19<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15268297</id>
+    <ticket>UVZSBMZe000015268297TeZZzhApWIPIgpNgswhu</ticket>
+    <ok_code>ehJyfJNWCa</ok_code>
+    <failure_code>FNQiQUzhUk</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>418000</AMOUNT><ORDER_NUMBER>256686</ORDER_NUMBER><ORDER_DESCRIPTION>256686 (16.04.2021 17:41:29)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Кашапов Альберт Нафисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Татарстан, Муслюмовский район,  Днепрова д.16 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>shygan777@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+79870026022</CLIENT_PHONE><CLIENT_IP>178.207.25.168</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+16.04.2021 18:05<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15284312</id>
+    <ticket>HwCDMbvy000015284312PnhsXHUhZDzKDzKDIPWG</ticket>
+    <ok_code>uKwFzcWhDb</ok_code>
+    <failure_code>xiJQNfRiGt</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>418000</AMOUNT><ORDER_NUMBER>256686</ORDER_NUMBER><ORDER_DESCRIPTION>256686 (16.04.2021 17:41:29)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Кашапов Альберт Нафисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Татарстан, Муслюмовский район,  Днепрова д.16 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>shygan777@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+79870026022</CLIENT_PHONE><CLIENT_IP>178.207.25.168</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+16.04.2021 18:07<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15284323</id>
+    <ticket>OvmIZjRa000015284323bWHBzjtixvyfDDffgzyk</ticket>
+    <ok_code>VFuEOpgLiF</ok_code>
+    <failure_code>MLotjEwpxE</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1304200</AMOUNT><ORDER_NUMBER>256819</ORDER_NUMBER><ORDER_DESCRIPTION>256819 (17.04.2021 17:12:42)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Липатов Дмитрий Николаевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Рязанская область, Рязань,   Вишневая  д.25 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>dmitry.lipatov@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79209577944</CLIENT_PHONE><CLIENT_IP>109.195.163.217</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+17.04.2021 17:26<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15288172</id>
+    <ticket>epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs</ticket>
+    <ok_code>HpqmjSrXwm</ok_code>
+    <failure_code>pMqULiDTQn</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>2152100</AMOUNT><ORDER_NUMBER>257862</ORDER_NUMBER><ORDER_DESCRIPTION>257862 (23.04.2021 23:15:57)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Варсеев Алексей</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,  нахимовский пр д.31 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>Vars.msk@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>89153348497</CLIENT_PHONE><CLIENT_IP>213.87.151.97</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+24.04.2021 11:57<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15320891</id>
+    <ticket>aGTnJjaQ000015320891FCNwAzhuCvUNmpImsMXq</ticket>
+    <ok_code>NYRstDSxGp</ok_code>
+    <failure_code>qEwvwMNizJ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>81000</AMOUNT><ORDER_NUMBER>258866</ORDER_NUMBER><ORDER_DESCRIPTION>258866 (29.04.2021 07:14:08)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Тимур Мамадалиев</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Татарстан, Мамадышский район, Мамадыш,  Галактионова  д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>tima_3011@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-922-450-73-43</CLIENT_PHONE><CLIENT_IP>31.173.103.101</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.04.2021 11:14<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15345974</id>
+    <ticket>HDoYJJLw000015345974KhnYDcnYUyDmmNNzevhV</ticket>
+    <ok_code>OkWzfFjSzc</ok_code>
+    <failure_code>QrJBJPiXEV</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>2151000</AMOUNT><ORDER_NUMBER>256649</ORDER_NUMBER><ORDER_DESCRIPTION>256649 (16.04.2021 14:44:42)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Айбек Мухамбеталин</CLIENT_NAME><CLIENT_ADDRESS> пр.Мира д.5а кв.</CLIENT_ADDRESS><CLIENT_EMAIL>nur_87.15.07@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>87021351106</CLIENT_PHONE><CLIENT_IP>178.90.225.24</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.04.2021 15:54<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15347643</id>
+    <ticket>RkQmUiXE000015347643bhXZeGcPkBpUNzsNzsKK</ticket>
+    <ok_code>BcuQAUpDxw</ok_code>
+    <failure_code>AXphNsMKWE</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>562000</AMOUNT><ORDER_NUMBER>259450</ORDER_NUMBER><ORDER_DESCRIPTION>259450 (02.05.2021 17:47:16)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Обанин Никита Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Тыва, Кызылский район, Каа-Хем посёлок городского типа,  ул. пограничная д.8 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>nikitaobanin@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79232679226</CLIENT_PHONE><CLIENT_IP>185.193.197.145</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.05.2021 18:23<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15365601</id>
+    <ticket>BnMCyWJB000015365601iCDPKAQBkeKDevgIpERd</ticket>
+    <ok_code>dYMWNPLKqj</ok_code>
+    <failure_code>wqrTOKwVAG</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>154000</AMOUNT><ORDER_NUMBER>259941</ORDER_NUMBER><ORDER_DESCRIPTION>259941 (06.05.2021 09:00:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Гатиятов Раушан Рашитович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Татарстан,  Зеленая д.27 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>raushan188@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89083345855</CLIENT_PHONE><CLIENT_IP>85.233.72.198</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+06.05.2021 16:23<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15378245</id>
+    <ticket>vJFSNuYN000015378245IzOhNdVBOvNIIKzIgaTT</ticket>
+    <ok_code>zgOyJbqmVP</ok_code>
+    <failure_code>CFnEqtITxs</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>154000</AMOUNT><ORDER_NUMBER>259941</ORDER_NUMBER><ORDER_DESCRIPTION>259941 (06.05.2021 09:00:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Гатиятов Раушан Рашитович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Татарстан,  Зеленая д.27 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>raushan188@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89083345855</CLIENT_PHONE><CLIENT_IP>85.233.72.198</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+06.05.2021 16:30<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15378269</id>
+    <ticket>cFjEMQxS000015378269uGVjDhYkvppIyIyBmtNt</ticket>
+    <ok_code>arAmAptNUA</ok_code>
+    <failure_code>VgQRdDJOVU</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>154000</AMOUNT><ORDER_NUMBER>259941</ORDER_NUMBER><ORDER_DESCRIPTION>259941 (06.05.2021 09:00:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Гатиятов Раушан Рашитович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Татарстан,  Зеленая д.27 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>raushan188@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89083345855</CLIENT_PHONE><CLIENT_IP>85.233.72.198</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+06.05.2021 16:33<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15378286</id>
+    <ticket>MWzouTTt000015378286HgaPUatBLpefUegDseHY</ticket>
+    <ok_code>qWYHzcScYQ</ok_code>
+    <failure_code>KhPkPIkulH</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>7739000</AMOUNT><ORDER_NUMBER>261004</ORDER_NUMBER><ORDER_DESCRIPTION>261004 (13.05.2021 14:31:49)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Афиногенов Леонид Евгеньевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Липецкая область, Елец,  Коммунаров д.54 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>leonmt@inbox.ru</CLIENT_EMAIL><CLIENT_PHONE>+79508015882</CLIENT_PHONE><CLIENT_IP>95.167.214.123</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+13.05.2021 16:52<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15409218</id>
+    <ticket>KAFDqBMP000015409218MGjwPkAnEsKzzfmUyqXy</ticket>
+    <ok_code>KbQQKZOreY</ok_code>
+    <failure_code>GrVLSiUNJM</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1311900</AMOUNT><ORDER_NUMBER>261508</ORDER_NUMBER><ORDER_DESCRIPTION>261508 (17.05.2021 10:21:01)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Репа Оксана Михайловна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Приморский край,  Мелиоративная д.4 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>valeriya.repa@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79818007850</CLIENT_PHONE><CLIENT_IP>217.66.159.39</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+17.05.2021 12:15<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15425853</id>
+    <ticket>JeSIJbxi000015425853ECtVNGLfIBymPINsBCRu</ticket>
+    <ok_code>htGtygJrdd</ok_code>
+    <failure_code>oYYfvmcvjI</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>3238000</AMOUNT><ORDER_NUMBER>262197</ORDER_NUMBER><ORDER_DESCRIPTION>262197 (21.05.2021 07:16:52)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Скурков Семён Геннадьевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Томская область, Асиновский район, Асино,  Клубная д.18 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>semen.skurkov@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-913-855-41-75</CLIENT_PHONE><CLIENT_IP>213.87.120.182</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.05.2021 11:26<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15448532</id>
+    <ticket>mDAASSzE000015448532IbxVtQGoRBIegfBBBqeT</ticket>
+    <ok_code>MYxLPWNQxf</ok_code>
+    <failure_code>aQXeXCqedv</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>3238000</AMOUNT><ORDER_NUMBER>262197</ORDER_NUMBER><ORDER_DESCRIPTION>262197 (21.05.2021 07:16:52)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Скурков Семён Геннадьевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Томская область, Асиновский район, Асино,  Клубная д.18 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>semen.skurkov@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-913-855-41-75</CLIENT_PHONE><CLIENT_IP>213.87.120.182</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.05.2021 11:32<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15448572</id>
+    <ticket>wERcScGd000015448572VRpIYEOnEBmsppKfPGjw</ticket>
+    <ok_code>DVNsToQvib</ok_code>
+    <failure_code>XwoexIlKVg</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>203000</AMOUNT><ORDER_NUMBER>262835</ORDER_NUMBER><ORDER_DESCRIPTION>262835 (25.05.2021 19:20:42)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Прохоров Алексей Иванович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Карачаево-Черкесская Республика, Урупский район,  Шоссейная д.2 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ivan.prokhorov50@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79283921381</CLIENT_PHONE><CLIENT_IP>185.108.193.137</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+25.05.2021 20:13<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15471189</id>
+    <ticket>LJYYuGbe000015471189gRKYhedAdUsvezNDNXbZ</ticket>
+    <ok_code>KfxshHhHCW</ok_code>
+    <failure_code>gWhfdtwNxr</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>203000</AMOUNT><ORDER_NUMBER>262835</ORDER_NUMBER><ORDER_DESCRIPTION>262835 (25.05.2021 19:20:42)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Прохоров Алексей Иванович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Карачаево-Черкесская Республика, Урупский район,  Шоссейная д.2 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ivan.prokhorov50@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79283921381</CLIENT_PHONE><CLIENT_IP>185.108.193.137</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+25.05.2021 20:22<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15471243</id>
+    <ticket>wFwudyVw000015471243pGwbdPHUEvgBmmyKBnKo</ticket>
+    <ok_code>WdKajxWgGI</ok_code>
+    <failure_code>pYKzlUuBcE</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>687700</AMOUNT><ORDER_NUMBER>262902</ORDER_NUMBER><ORDER_DESCRIPTION>262902 (26.05.2021 11:40:42)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Захарчук Евгений Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край,  2высокая д.4 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>1212-91@inbox.ru</CLIENT_EMAIL><CLIENT_PHONE>89135908027</CLIENT_PHONE><CLIENT_IP>171.33.250.217</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+26.05.2021 13:46<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15474731</id>
+    <ticket>eEBeAABU000015474731gDVILfiJagveeDpBmBVr</ticket>
+    <ok_code>mvqSuhdHpm</ok_code>
+    <failure_code>uODyxVAtQC</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>687700</AMOUNT><ORDER_NUMBER>262902</ORDER_NUMBER><ORDER_DESCRIPTION>262902 (26.05.2021 11:40:42)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Евгений Захарчук</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край,  2высокая д.4 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>1212-91@inbox.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-913-590-80-27</CLIENT_PHONE><CLIENT_IP>171.33.250.217</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+26.05.2021 19:56<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15477246</id>
+    <ticket>DMDSYCll000015477246CGUauBjipDUyUKKsPhyn</ticket>
+    <ok_code>pWZKHWEKkq</ok_code>
+    <failure_code>HzGQiwqbNc</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>687700</AMOUNT><ORDER_NUMBER>262902</ORDER_NUMBER><ORDER_DESCRIPTION>262902 (26.05.2021 11:40:42)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Евгений Захарчук</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край,  2высокая д.4 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>1212-91@inbox.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-913-590-80-27</CLIENT_PHONE><CLIENT_IP>171.33.250.217</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+26.05.2021 19:56<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15477247</id>
+    <ticket>uRacxivM000015477247MyoePmBbNgIfzyByvORu</ticket>
+    <ok_code>MJBREWHQne</ok_code>
+    <failure_code>rPpQIiCKQr</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>983200</AMOUNT><ORDER_NUMBER>258676</ORDER_NUMBER><ORDER_DESCRIPTION>258676 (28.04.2021 05:55:02)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Иванов Пётр Петрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Амурская область, Сковородинский район, Сковородино,  Дзержинского д.1Б кв.</CLIENT_ADDRESS><CLIENT_EMAIL>CliffP26@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79146091823</CLIENT_PHONE><CLIENT_IP>80.83.238.18</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.06.2021 11:45<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15519830</id>
+    <ticket>mulFRqgX000015519830czHTZsvOpePUfKDDfgyI</ticket>
+    <ok_code>ySBcyeIZwQ</ok_code>
+    <failure_code>yTBRZRvtuO</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>63000</AMOUNT><ORDER_NUMBER>264251</ORDER_NUMBER><ORDER_DESCRIPTION>264251 (04.06.2021 13:46:55)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Лапин Матвей Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Мурманская область, Апатиты,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>lapin111104@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+79508921232</CLIENT_PHONE><CLIENT_IP>176.59.66.218</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+04.06.2021 14:13<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15526701</id>
+    <ticket>drOSGfTt000015526701BwWXqpAYpmyKKmpBpKnE</ticket>
+    <ok_code>xvuoJmfwyq</ok_code>
+    <failure_code>mmSfVkUKiw</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>63000</AMOUNT><ORDER_NUMBER>264251</ORDER_NUMBER><ORDER_DESCRIPTION>264251 (04.06.2021 13:46:55)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Лапин Матвей Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Мурманская область, Апатиты,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>lapin111104@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+79508921232</CLIENT_PHONE><CLIENT_IP>176.59.66.218</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+04.06.2021 14:14<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15526715</id>
+    <ticket>hzGXIxpe000015526715XVtDjpUzhmvUKeNvfKyF</ticket>
+    <ok_code>QpObGxsJbu</ok_code>
+    <failure_code>DxyaSNmMMD</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>800</AMOUNT><ORDER_NUMBER>265324</ORDER_NUMBER><ORDER_DESCRIPTION>265324 (11.06.2021 12:03:41)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Геннадий Майдук</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>diada.director@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79161287816</CLIENT_PHONE><CLIENT_IP>185.8.5.218</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+11.06.2021 12:17<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15566892</id>
+    <ticket>THnFZjSB000015566892mYVYHYjIPmyIKessBCFQ</ticket>
+    <ok_code>pSotzocGTW</ok_code>
+    <failure_code>RaaDGcqhmx</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>800</AMOUNT><ORDER_NUMBER>265324</ORDER_NUMBER><ORDER_DESCRIPTION>265324 (11.06.2021 12:03:41)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Геннадий Майдук</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>diada.director@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79161287816</CLIENT_PHONE><CLIENT_IP>185.8.5.218</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+11.06.2021 12:17<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15566893</id>
+    <ticket>YWOguDJs000015566893rqigbNGkfgBgPDyBDEqB</ticket>
+    <ok_code>zpYXdrAMyC</ok_code>
+    <failure_code>CxcGMOLQiv</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>800</AMOUNT><ORDER_NUMBER>265324</ORDER_NUMBER><ORDER_DESCRIPTION>265324 (11.06.2021 12:03:41)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Геннадий Майдук</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>diada.director@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79161287816</CLIENT_PHONE><CLIENT_IP>185.8.5.218</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+11.06.2021 12:17<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15566899</id>
+    <ticket>ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR</ticket>
+    <ok_code>YYPLsmYoaO</ok_code>
+    <failure_code>uzIGXpIipj</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>800</AMOUNT><ORDER_NUMBER>265328</ORDER_NUMBER><ORDER_DESCRIPTION>265328 (11.06.2021 12:26:06)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Иванов Иван</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>79161287816@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>11111</CLIENT_PHONE><CLIENT_IP>213.87.137.242</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+11.06.2021 12:32<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15567035</id>
+    <ticket>BPmhAidQ000015567035acVfFERHrgDzIegBKyuX</ticket>
+    <ok_code>nBjmmqGCgu</ok_code>
+    <failure_code>VDLhvzksyR</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1187000</AMOUNT><ORDER_NUMBER>265179</ORDER_NUMBER><ORDER_DESCRIPTION>265179 (10.06.2021 23:03:16)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Айвазов Арам</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,  пр-д Березовой рощи д.6 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>1896589@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79031896589</CLIENT_PHONE><CLIENT_IP>109.252.45.186</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+11.06.2021 19:15<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15570293</id>
+    <ticket>QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB</ticket>
+    <ok_code>ETfUMiiyjo</ok_code>
+    <failure_code>jUIUuQgdPt</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1102000</AMOUNT><ORDER_NUMBER>265852</ORDER_NUMBER><ORDER_DESCRIPTION>265852 (15.06.2021 14:14:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Вдовин Павел Алексеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край, Железногорск,  Григорьева 6 д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>pingvdovinpavel@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>89231290410</CLIENT_PHONE><CLIENT_IP>31.204.24.48</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+15.06.2021 14:38<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15587888</id>
+    <ticket>WBwzqJzV000015587888jdPWnedtcpDPmsIfymSh</ticket>
+    <ok_code>bbvPzqxCNc</ok_code>
+    <failure_code>jQEPwBLJRK</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1102000</AMOUNT><ORDER_NUMBER>265852</ORDER_NUMBER><ORDER_DESCRIPTION>265852 (15.06.2021 14:14:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Вдовин Павел Алексеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край, Железногорск,  Григорьева 6 д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>pingvdovinpavel@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>89231290410</CLIENT_PHONE><CLIENT_IP>31.204.24.48</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+15.06.2021 14:39<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15587894</id>
+    <ticket>WjXQKfkj000015587894WBpidFhCcKNzyKBBzoPx</ticket>
+    <ok_code>QmHuRjPnQX</ok_code>
+    <failure_code>msSprQBIjR</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1102000</AMOUNT><ORDER_NUMBER>265852</ORDER_NUMBER><ORDER_DESCRIPTION>265852 (15.06.2021 14:14:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Вдовин Павел Алексеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край, Железногорск,  Григорьева 6 д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>pingvdovinpavel@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>89231290410</CLIENT_PHONE><CLIENT_IP>31.204.24.48</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+15.06.2021 14:43<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15587933</id>
+    <ticket>mDwXZxwt000015587933lHACmUxXkyDKmUDgIlyl</ticket>
+    <ok_code>xhdfiDaUSH</ok_code>
+    <failure_code>trXkYPgSwl</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1102000</AMOUNT><ORDER_NUMBER>265852</ORDER_NUMBER><ORDER_DESCRIPTION>265852 (15.06.2021 14:14:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Вдовин Павел Алексеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Красноярский край, Железногорск,  Григорьева 6 д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>pingvdovinpavel@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>89231290410</CLIENT_PHONE><CLIENT_IP>31.204.24.48</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+15.06.2021 14:49<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15587983</id>
+    <ticket>hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb</ticket>
+    <ok_code>eONnVEwQnz</ok_code>
+    <failure_code>XTwaHDWiJq</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>181000</AMOUNT><ORDER_NUMBER>265904</ORDER_NUMBER><ORDER_DESCRIPTION>265904 (15.06.2021 18:54:53)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Марченков Михаил викторович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Архангельская область, Онежский район, Малошуйка деревня,  Набережная д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>marchenkov1979P@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+79539327813</CLIENT_PHONE><CLIENT_IP>176.59.4.28</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+15.06.2021 19:42<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15590490</id>
+    <ticket>gobUMqeV000015590490jhsXbWVVxpyvNBIspZFf</ticket>
+    <ok_code>lCkqKPAiIe</ok_code>
+    <failure_code>RPpaPAnkNM</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>164000</AMOUNT><ORDER_NUMBER>265886</ORDER_NUMBER><ORDER_DESCRIPTION>265886 (15.06.2021 16:33:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Худолей Николай Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,  Рябиновая  д.владение 38б кв.</CLIENT_ADDRESS><CLIENT_EMAIL>z9700700@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+ ‭79269828718‬</CLIENT_PHONE><CLIENT_IP>141.136.76.242</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+16.06.2021 14:00<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15594899</id>
+    <ticket>ZExfnjMi000015594899hmvSIDAjZfzpBvsNPbsp</ticket>
+    <ok_code>lYiVGUVPvs</ok_code>
+    <failure_code>sFEgpBXspZ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>164000</AMOUNT><ORDER_NUMBER>265886</ORDER_NUMBER><ORDER_DESCRIPTION>265886 (15.06.2021 16:33:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Худолей Николай Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,  Рябиновая  д.владение 38б кв.</CLIENT_ADDRESS><CLIENT_EMAIL>z9700700@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+‭79269828718‬</CLIENT_PHONE><CLIENT_IP>141.136.76.242</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+16.06.2021 14:05<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15594943</id>
+    <ticket>HhEFinvE000015594943AFbdTbnRPIvesgfypKXp</ticket>
+    <ok_code>vanopZYOSG</ok_code>
+    <failure_code>fTyLjhsvNt</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>134900</AMOUNT><ORDER_NUMBER>266044</ORDER_NUMBER><ORDER_DESCRIPTION>266044 (16.06.2021 16:57:36)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Ушенина Мария Валерьевна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Саратовская область, Аркадакский район, Аркадак,  Ленина д.169 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>mrojdestvenskaya@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89168018882</CLIENT_PHONE><CLIENT_IP>85.140.6.121</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+16.06.2021 18:31<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15596865</id>
+    <ticket>QXIMbUpE000015596865kORYHsCezpmIeepssLHk</ticket>
+    <ok_code>zDUyGRuJsa</ok_code>
+    <failure_code>XCqwHmsckj</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>124800</AMOUNT><ORDER_NUMBER>266406</ORDER_NUMBER><ORDER_DESCRIPTION>266406 (19.06.2021 09:56:00)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Русеева Ирина Александровна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Амурская область, Белогорск,  Ленина д.40 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ira.ruseeva@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89145512441</CLIENT_PHONE><CLIENT_IP>80.83.238.88</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+19.06.2021 10:51<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15611050</id>
+    <ticket>rLmTFSei000015611050RMkHWXIMXNvvIegpPYCW</ticket>
+    <ok_code>VaJfBFFNuX</ok_code>
+    <failure_code>jmlKxJnGvG</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>124800</AMOUNT><ORDER_NUMBER>266406</ORDER_NUMBER><ORDER_DESCRIPTION>266406 (19.06.2021 09:56:00)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Русеева Ирина Александровна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Амурская область, Белогорск,  Ленина д.40 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ira.ruseeva@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>79145512441</CLIENT_PHONE><CLIENT_IP>80.83.238.88</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+19.06.2021 10:53<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15611059</id>
+    <ticket>dYSfcNyv000015611059tMJUKbdXsemyDBmggcpP</ticket>
+    <ok_code>xztduJSQSm</ok_code>
+    <failure_code>nOVZQpAdNA</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>124800</AMOUNT><ORDER_NUMBER>266406</ORDER_NUMBER><ORDER_DESCRIPTION>266406 (19.06.2021 09:56:00)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Русеева Ирина Александровна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Амурская область, Белогорск,  Ленина д.40 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ira.ruseeva@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>79145512441</CLIENT_PHONE><CLIENT_IP>80.83.238.88</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+19.06.2021 10:55<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15611068</id>
+    <ticket>lPOtCuSs000015611068DGuHEnHDbpNsmfsmBnvA</ticket>
+    <ok_code>nhobzvsugZ</ok_code>
+    <failure_code>UUeluxeULJ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>124800</AMOUNT><ORDER_NUMBER>266406</ORDER_NUMBER><ORDER_DESCRIPTION>266406 (19.06.2021 09:56:00)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Русеева Ирина Александровна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Амурская область, Белогорск,  Ленина д.40 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ira.ruseeva@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89145512441</CLIENT_PHONE><CLIENT_IP>213.87.102.143</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+20.06.2021 05:20<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15614284</id>
+    <ticket>AoWGjkEP000015614284oJRQRFMitmBvIyIBsUHG</ticket>
+    <ok_code>UbUQeMIHzp</ok_code>
+    <failure_code>rTmlWpdydj</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>3332700</AMOUNT><ORDER_NUMBER>266659</ORDER_NUMBER><ORDER_DESCRIPTION>266659 (21.06.2021 09:10:54)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Луста Игорь Юрьевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Краснодарский край, Тихорецкий район, Тихорецк,  Поветкина д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>liy70@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79135302814</CLIENT_PHONE><CLIENT_IP>80.67.220.3</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.06.2021 09:16<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15618397</id>
+    <ticket>hCnuzdEr000015618397VcDhvVqfPNvPyUyfmNdS</ticket>
+    <ok_code>oPNIuXetbO</ok_code>
+    <failure_code>vIUSQyEmNK</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>3332700</AMOUNT><ORDER_NUMBER>266659</ORDER_NUMBER><ORDER_DESCRIPTION>266659 (21.06.2021 09:10:54)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Луста Игорь Юрьевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Краснодарский край, Тихорецкий район, Тихорецк,  Поветкина д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>liy70@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79135302814</CLIENT_PHONE><CLIENT_IP>80.67.220.3</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.06.2021 09:20<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15618415</id>
+    <ticket>eTJlfYfO000015618415HbLzBknfdPmUsyspfxxD</ticket>
+    <ok_code>OjwrUXAYqd</ok_code>
+    <failure_code>hJbYGEVkxq</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>3332700</AMOUNT><ORDER_NUMBER>266659</ORDER_NUMBER><ORDER_DESCRIPTION>266659 (21.06.2021 09:10:54)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Луста Игорь Юрьевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Краснодарский край, Тихорецкий район, Тихорецк,  Поветкина д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>liy70@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79135302814</CLIENT_PHONE><CLIENT_IP>80.67.220.3</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.06.2021 09:21<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15618421</id>
+    <ticket>tEhxbZhS000015618421vzAfRqyzhzsfsyfgmiyc</ticket>
+    <ok_code>YskaVEffxR</ok_code>
+    <failure_code>NdQbCeoXoO</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>124800</AMOUNT><ORDER_NUMBER>266406</ORDER_NUMBER><ORDER_DESCRIPTION>266406 (19.06.2021 09:56:00)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Русеева  Ирина Александровна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Амурская область, Белогорск,  Ленина д.40 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ira.ruseeva@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89145512441</CLIENT_PHONE><CLIENT_IP>80.83.234.234</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.06.2021 12:06<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15619531</id>
+    <ticket>kGkBTZbg000015619531FCbXwYEnkBUsUpfKUZla</ticket>
+    <ok_code>yeadxngZYK</ok_code>
+    <failure_code>WHrquptthZ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>124800</AMOUNT><ORDER_NUMBER>266406</ORDER_NUMBER><ORDER_DESCRIPTION>266406 (19.06.2021 09:56:00)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Русеева Ирина Александровна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Амурская область, Белогорск,  Ленина д.40 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ira.ruseeva@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>78245512441</CLIENT_PHONE><CLIENT_IP>80.83.234.234</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.06.2021 12:08<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15619549</id>
+    <ticket>wgjqhjoe000015619549xCpZfALUgyDNPByyzozm</ticket>
+    <ok_code>vifCsctJDc</ok_code>
+    <failure_code>VkISmgaApn</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>106000</AMOUNT><ORDER_NUMBER>266745</ORDER_NUMBER><ORDER_DESCRIPTION>266745 (21.06.2021 15:58:35)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Макаров Валерий Вячеславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ставропольский край, Ипатовский район, Ипатово,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>Mac.Wel@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-903-441-17-07</CLIENT_PHONE><CLIENT_IP>84.54.255.97</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+21.06.2021 16:43<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15621981</id>
+    <ticket>HNSmsouk000015621981SarTyMYHfeUBIfDBPPsm</ticket>
+    <ok_code>VWaVFwGCse</ok_code>
+    <failure_code>dCWSFPpTmX</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>361000</AMOUNT><ORDER_NUMBER>266910</ORDER_NUMBER><ORDER_DESCRIPTION>266910 (22.06.2021 21:49:06)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Дудкин Евгений Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,  Магнитогорская д.21 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>dudkinevgeny@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79046481777</CLIENT_PHONE><CLIENT_IP>185.97.201.34</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 12:08<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15632417</id>
+    <ticket>hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss</ticket>
+    <ok_code>UxkLfAKUoS</ok_code>
+    <failure_code>mRFlUCvkkf</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1193000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 15:35<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15633781</id>
+    <ticket>DwFRMoWX000015633781aoVEIiqjzKDvImmDppwQ</ticket>
+    <ok_code>WgwsoDSsbR</ok_code>
+    <failure_code>miyRYEpgXY</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>2386000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 16:51<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634285</id>
+    <ticket>BFbLTyrD000015634285vGicGMugbfmfIUBDpqQS</ticket>
+    <ok_code>kLfvKkgeSh</ok_code>
+    <failure_code>GidanDBmdL</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>2386000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 16:52<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634298</id>
+    <ticket>BFYluPfQ000015634298vUBwRpTbYeyINsUyNXtl</ticket>
+    <ok_code>tnMKuPJkMh</ok_code>
+    <failure_code>ZEkSLSJeAD</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>2386000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 16:59<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634342</id>
+    <ticket>lLHPTxKq000015634342vRThaXaXEyvppvysDuRo</ticket>
+    <ok_code>jbwCBpEgHn</ok_code>
+    <failure_code>eNmRIHNbAC</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1193000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 17:04<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634375</id>
+    <ticket>TIbpHFHS000015634375hdtrfRjIcPszsfepBtjD</ticket>
+    <ok_code>uPEMxKqdVx</ok_code>
+    <failure_code>NzCQhFIDIG</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1193000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 17:28<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634514</id>
+    <ticket>QOOOWXsv000015634514HpyTyGDEJsfzpKUyzmzT</ticket>
+    <ok_code>MMcybvNaIz</ok_code>
+    <failure_code>nMiJwttaMc</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1193000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 17:29<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634520</id>
+    <ticket>vtphuzdw000015634520TrMpRgUYDUpPPKpIfkUb</ticket>
+    <ok_code>yiactiEjOj</ok_code>
+    <failure_code>fNyBtEfhpc</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1193000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 17:32<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634530</id>
+    <ticket>mUbGGPib000015634530vtYKugbaazgmBNKBzOww</ticket>
+    <ok_code>uhMidpmTvf</ok_code>
+    <failure_code>IJilnfOKvz</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1193000</AMOUNT><ORDER_NUMBER>266973</ORDER_NUMBER><ORDER_DESCRIPTION>266973 (23.06.2021 15:19:19)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Карагозян Вартан Сумбатович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Дзержинский,  Алексеевская д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>gavrilina_2@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89261298794</CLIENT_PHONE><CLIENT_IP>178.218.156.10</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+23.06.2021 17:57<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15634697</id>
+    <ticket>VWqTfISD000015634697WQpKmsZsxzvNIKImpCeU</ticket>
+    <ok_code>MNXkCaSjSr</ok_code>
+    <failure_code>XRjnfunJdZ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>6452600</AMOUNT><ORDER_NUMBER>267140</ORDER_NUMBER><ORDER_DESCRIPTION>267140 (24.06.2021 20:16:54)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Маркин Евгений Николаевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Калужская область, Калуга,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>Ppsixi@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+79038108193</CLIENT_PHONE><CLIENT_IP>95.107.123.245</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+25.06.2021 10:18<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15642356</id>
+    <ticket>IkyJQKRa000015642356HaBTBqPXMyNmKeDvBnOo</ticket>
+    <ok_code>TONgdRcMuW</ok_code>
+    <failure_code>RypEkdGxBq</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>5098000</AMOUNT><ORDER_NUMBER>266999</ORDER_NUMBER><ORDER_DESCRIPTION>266999 (23.06.2021 17:53:33)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Максим</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Реутов,  Реутовских Ополченцев д.14 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>auto_1622190768@diada-email.ru</CLIENT_EMAIL><CLIENT_PHONE>89168394818</CLIENT_PHONE><CLIENT_IP>194.15.118.26</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+25.06.2021 15:06<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15644421</id>
+    <ticket>YQGtiWNc000015644421jzHYJrgWJUzsBvIIykSY</ticket>
+    <ok_code>ykAFHeEANA</ok_code>
+    <failure_code>DuMnjmiytU</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>5098000</AMOUNT><ORDER_NUMBER>266999</ORDER_NUMBER><ORDER_DESCRIPTION>266999 (23.06.2021 17:53:33)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Максим</CLIENT_NAME><CLIENT_ADDRESS>Россия, Московская область, Реутов,  Реутовских Ополченцев д.14 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>auto_1622190768@diada-email.ru</CLIENT_EMAIL><CLIENT_PHONE>89168394818</CLIENT_PHONE><CLIENT_IP>194.15.118.26</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+25.06.2021 15:06<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15644423</id>
+    <ticket>mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj</ticket>
+    <ok_code>JsQvydgFZe</ok_code>
+    <failure_code>zpkEFvHhlb</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>8658100</AMOUNT><ORDER_NUMBER>267222</ORDER_NUMBER><ORDER_DESCRIPTION>267222 (25.06.2021 16:33:50)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Богуцкий Владимир Александрович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Краснодарский край, Краснодар,  генерала шифрина д.7 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ustas.v@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79284057925</CLIENT_PHONE><CLIENT_IP>178.155.4.126</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+25.06.2021 16:51<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15645136</id>
+    <ticket>jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws</ticket>
+    <ok_code>kSQbicdSvC</ok_code>
+    <failure_code>vuftCaTKiN</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>7050000</AMOUNT><ORDER_NUMBER>265874</ORDER_NUMBER><ORDER_DESCRIPTION>265874 (15.06.2021 15:44:24)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Ковцун Сергей Сергеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ямало-Ненецкий автономный округ, Надым,  Сенькина д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>serkov80@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89224519552</CLIENT_PHONE><CLIENT_IP>93.170.126.4</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+26.06.2021 16:38<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15649907</id>
+    <ticket>mRsFKPsc000015649907OwJLaxSrFvymmvIKUCFa</ticket>
+    <ok_code>xkaiqULnkW</ok_code>
+    <failure_code>SMtqYwwhiz</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>7050000</AMOUNT><ORDER_NUMBER>265874</ORDER_NUMBER><ORDER_DESCRIPTION>265874 (15.06.2021 15:44:24)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Ковцун Сергей Сергеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ямало-Ненецкий автономный округ, Надым,  Сенькина д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>serkov80@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89224519552</CLIENT_PHONE><CLIENT_IP>93.170.126.4</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+26.06.2021 16:50<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15649955</id>
+    <ticket>wDNlGVvt000015649955ayjkKTPyogsepyPPBOte</ticket>
+    <ok_code>bNauubwxPn</ok_code>
+    <failure_code>CMyNBsMSQr</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>146000</AMOUNT><ORDER_NUMBER>267371</ORDER_NUMBER><ORDER_DESCRIPTION>267371 (26.06.2021 22:53:50)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Вторушин Валерий Николаевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Тюменская область, Уватский район,  Авиаторов д.9 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>w@uvatregion.ru</CLIENT_EMAIL><CLIENT_PHONE>89220033273</CLIENT_PHONE><CLIENT_IP>83.169.216.94</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+27.06.2021 10:46<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15652045</id>
+    <ticket>wWkhJpBH000015652045JcAlfHNuxyNemvymKCvA</ticket>
+    <ok_code>nzXOPghXKv</ok_code>
+    <failure_code>QUoOcQIOLd</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>146000</AMOUNT><ORDER_NUMBER>267371</ORDER_NUMBER><ORDER_DESCRIPTION>267371 (26.06.2021 22:53:50)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Вторушин Валерий Николаевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Тюменская область, Уватский район,  Авиаторов д.9 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>w@uvatregion.ru</CLIENT_EMAIL><CLIENT_PHONE>89220033273</CLIENT_PHONE><CLIENT_IP>83.169.216.94</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+27.06.2021 10:53<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15652062</id>
+    <ticket>TiUjDDHO000015652062MoUXfVZCzIgvKUNyvQRo</ticket>
+    <ok_code>upagFVBWra</ok_code>
+    <failure_code>sqDBjyaSHF</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>15916400</AMOUNT><ORDER_NUMBER>267480</ORDER_NUMBER><ORDER_DESCRIPTION>267480 (28.06.2021 02:03:25)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Сафеев Рустем Рузбекович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Башкортостан, Уфа,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>allbisv@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79174115555</CLIENT_PHONE><CLIENT_IP>109.187.51.1</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+28.06.2021 18:41<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15659624</id>
+    <ticket>fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn</ticket>
+    <ok_code>AfhUhcHJNa</ok_code>
+    <failure_code>tWhhbGxccY</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>188.128.68.19</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+28.06.2021 19:04<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15659736</id>
+    <ticket>dNuVgcwT000015659736bFdcPAvoyzBvgDzppobF</ticket>
+    <ok_code>VBiSCQIZwd</ok_code>
+    <failure_code>smibxhtCkW</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>188.128.68.19</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+28.06.2021 19:04<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15659737</id>
+    <ticket>pvsDedih000015659737PtNdVwSLypNPgpyyNjhS</ticket>
+    <ok_code>xKDMNHdQEL</ok_code>
+    <failure_code>hdpDFUPPfv</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>188.128.68.19</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+28.06.2021 21:17<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15660427</id>
+    <ticket>fVbJqGbU000015660427DvoScavIMmyKPNgBUKZN</ticket>
+    <ok_code>tLKezaEZQX</ok_code>
+    <failure_code>UUTdulqnZm</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>188.128.68.19</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+28.06.2021 21:34<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15660493</id>
+    <ticket>uMMMIInQ000015660493nVdUtWEBXUgKNfpsfAMx</ticket>
+    <ok_code>yvvzTawWcx</ok_code>
+    <failure_code>NTZEIjLzgo</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>188.128.68.19</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+28.06.2021 21:41<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15660514</id>
+    <ticket>YneRsVon000015660514BttAqgSMfBKsBmmmeGEj</ticket>
+    <ok_code>SWBHRUzSaa</ok_code>
+    <failure_code>SeZRtEBGfY</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>188.128.68.156</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.06.2021 07:08<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15661321</id>
+    <ticket>lOXpCaqx000015661321uUevhGaaAfvegfKgPTok</ticket>
+    <ok_code>pczaAsxhbY</ok_code>
+    <failure_code>LkzyNaxadT</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>178.65.170.223</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.06.2021 08:03<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15661442</id>
+    <ticket>KYlOKqHD000015661442WwvcLStsRegDpvBvDBdV</ticket>
+    <ok_code>LNcQECjTnp</ok_code>
+    <failure_code>DoPpyOXgnf</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>+79211103988</CLIENT_PHONE><CLIENT_IP>178.65.170.223</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.06.2021 08:12<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15661454</id>
+    <ticket>JmtkEkJn000015661454ToVziHmrkfpPgKvzygWL</ticket>
+    <ok_code>iLlhXlAdGi</ok_code>
+    <failure_code>JlipoHLLJk</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89211103988</CLIENT_PHONE><CLIENT_IP>178.65.170.223</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.06.2021 08:25<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15661503</id>
+    <ticket>jIfguEym000015661503nQtUEHZlapfDzmIesRoh</ticket>
+    <ok_code>TzIUDfDFrG</ok_code>
+    <failure_code>BljRNltTcA</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>637800</AMOUNT><ORDER_NUMBER>267547</ORDER_NUMBER><ORDER_DESCRIPTION>267547 (28.06.2021 13:19:58)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Махмутов Александр Хорисович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Псковская область, Невельский район, Невель,  Декабристов д.3А кв.</CLIENT_ADDRESS><CLIENT_EMAIL>makhmutov201330@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89211103988</CLIENT_PHONE><CLIENT_IP>178.65.170.223</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.06.2021 08:31<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15661524</id>
+    <ticket>skleuOJq000015661524dvYtgqiRqezpKyKUBBzl</ticket>
+    <ok_code>wZSRzYhiPM</ok_code>
+    <failure_code>FkCJzAWogT</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>7050000</AMOUNT><ORDER_NUMBER>265874</ORDER_NUMBER><ORDER_DESCRIPTION>265874 (15.06.2021 15:44:24)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Ковцун Сергей Сергеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ямало-Ненецкий автономный округ, Надым,  Сенькина д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>serkov80@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89224519552</CLIENT_PHONE><CLIENT_IP>93.170.126.4</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.06.2021 17:19<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15665141</id>
+    <ticket>DPdQCScI000015665141npbzwYUUOmDmegpIegfV</ticket>
+    <ok_code>aboFwWhYrX</ok_code>
+    <failure_code>RortGzdqxQ</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>7050000</AMOUNT><ORDER_NUMBER>265874</ORDER_NUMBER><ORDER_DESCRIPTION>265874 (15.06.2021 15:44:24)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Ковцун Сергей Сергеевич</CLIENT_NAME><CLIENT_ADDRESS>Россия, Ямало-Ненецкий автономный округ, Надым,  Сенькина д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>serkov80@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89224519552</CLIENT_PHONE><CLIENT_IP>93.170.126.4</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+29.06.2021 17:22<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15665171</id>
+    <ticket>kepCFvvE000015665171KSYlSZPvJDzefvggsDNb</ticket>
+    <ok_code>KKaZWiSZsO</ok_code>
+    <failure_code>mRFlIsVsJU</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>2187000</AMOUNT><ORDER_NUMBER>267811</ORDER_NUMBER><ORDER_DESCRIPTION>267811 (30.06.2021 11:19:20)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Инна</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,  Нижняя д.3 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>inusik_83@mail.ru</CLIENT_EMAIL><CLIENT_PHONE>89266052335</CLIENT_PHONE><CLIENT_IP>31.173.81.5</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+30.06.2021 11:42<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15668750</id>
+    <ticket>ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU</ticket>
+    <ok_code>zjxCXzlLGh</ok_code>
+    <failure_code>tDcpqMFQlB</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>762400</AMOUNT><ORDER_NUMBER>267431</ORDER_NUMBER><ORDER_DESCRIPTION>267431 (27.06.2021 15:43:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Бейбалаев Рамазан</CLIENT_NAME><CLIENT_ADDRESS>Россия, Республика Дагестан, Магарамкентский район,  Ул. Гагарина  д.1 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>Skyline05438@ya.ru</CLIENT_EMAIL><CLIENT_PHONE>89965225705</CLIENT_PHONE><CLIENT_IP>185.210.143.185</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+30.06.2021 17:39<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15671439</id>
+    <ticket>qyyamGFu000015671439WruUCKskayIPyeDNIHbd</ticket>
+    <ok_code>QluSJPTLRD</ok_code>
+    <failure_code>QhjGbagsbs</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>114000</AMOUNT><ORDER_NUMBER>267872</ORDER_NUMBER><ORDER_DESCRIPTION>267872 (30.06.2021 16:17:39)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Нехоткин Никита</CLIENT_NAME><CLIENT_ADDRESS> Ул.Космонавтов  д.25 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>san-plast@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89202155744</CLIENT_PHONE><CLIENT_IP>176.59.65.244</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+30.06.2021 19:53<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15672374</id>
+    <ticket>dbZAwDKs000015672374CabxGKGOHgyfzgPIBUft</ticket>
+    <ok_code>SmRNmXiHGV</ok_code>
+    <failure_code>uAETZnSipS</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>114000</AMOUNT><ORDER_NUMBER>267872</ORDER_NUMBER><ORDER_DESCRIPTION>267872 (30.06.2021 16:17:39)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Нехоткин Никита</CLIENT_NAME><CLIENT_ADDRESS> Ул.Космонавтов  д.25 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>san-plast@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89202155744</CLIENT_PHONE><CLIENT_IP>176.59.65.244</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+30.06.2021 19:54<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15672382</id>
+    <ticket>mhqCUDfN000015672382BsOQCgXkyNefKBIgpOPL</ticket>
+    <ok_code>BsWLNvhKyS</ok_code>
+    <failure_code>XmqbwbWVnR</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>114000</AMOUNT><ORDER_NUMBER>267872</ORDER_NUMBER><ORDER_DESCRIPTION>267872 (30.06.2021 16:17:39)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Нехоткин Никита</CLIENT_NAME><CLIENT_ADDRESS> Ул.Космонавтов  д.25 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>san-plast@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89202155744</CLIENT_PHONE><CLIENT_IP>176.59.65.244</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+30.06.2021 19:54<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15672383</id>
+    <ticket>XtpXvUGW000015672383NIHcfOwGABspKDypyoJI</ticket>
+    <ok_code>OwnfVIVWVk</ok_code>
+    <failure_code>RghackpBGU</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>114000</AMOUNT><ORDER_NUMBER>267872</ORDER_NUMBER><ORDER_DESCRIPTION>267872 (30.06.2021 16:17:39)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Нехоткин Никита</CLIENT_NAME><CLIENT_ADDRESS> Ул.Космонавтов  д.25 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>san-plast@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>89202155744</CLIENT_PHONE><CLIENT_IP>213.87.149.159</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+30.06.2021 19:58<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15672409</id>
+    <ticket>VdjIstlD000015672409kzjdAgTFasIpDvPDIqzB</ticket>
+    <ok_code>WMAwemYJhb</ok_code>
+    <failure_code>SRPoHDpOlt</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>1175000</AMOUNT><ORDER_NUMBER>268084</ORDER_NUMBER><ORDER_DESCRIPTION>268084 (02.07.2021 09:37:59)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Александр</CLIENT_NAME><CLIENT_ADDRESS>Россия, Москва,  Зеленодольская д.32 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>sitelot@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>79853517318</CLIENT_PHONE><CLIENT_IP>213.251.249.179</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+02.07.2021 10:31<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15681343</id>
+    <ticket>TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET</ticket>
+    <ok_code>MtDcghcOZQ</ok_code>
+    <failure_code>wWoLcpQPkn</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>300</AMOUNT><ORDER_NUMBER>268086</ORDER_NUMBER><ORDER_DESCRIPTION>268086 (02.07.2021 09:57:29)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Руслан</CLIENT_NAME><CLIENT_ADDRESS>Россия, Санкт-Петербург,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ruslan.khrushch@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79153167600</CLIENT_PHONE><CLIENT_IP>185.8.5.209</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+02.07.2021 11:19<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15681700</id>
+    <ticket>Uuubkqet000015681700UHTBFbnPaDseUzUgpepa</ticket>
+    <ok_code>lHIEtqYcEP</ok_code>
+    <failure_code>YFOnADSjhE</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>300</AMOUNT><ORDER_NUMBER>268086</ORDER_NUMBER><ORDER_DESCRIPTION>268086 (02.07.2021 09:57:29)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Руслан</CLIENT_NAME><CLIENT_ADDRESS>Россия, Санкт-Петербург,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ruslan.khrushch@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79153167600</CLIENT_PHONE><CLIENT_IP>185.8.5.209</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+02.07.2021 11:21<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15681711</id>
+    <ticket>QvrcALZi000015681711PKRPnyXKFzyIvyIzBRdJ</ticket>
+    <ok_code>ukdwCknDte</ok_code>
+    <failure_code>EymjHwOVKN</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>300</AMOUNT><ORDER_NUMBER>268086</ORDER_NUMBER><ORDER_DESCRIPTION>268086 (02.07.2021 09:57:29)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Тестовый</CLIENT_NAME><CLIENT_ADDRESS>Россия, Санкт-Петербург,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>ruslan.khrushch@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+79153167600</CLIENT_PHONE><CLIENT_IP>185.8.5.209</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+02.07.2021 11:52<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15681956</id>
+    <ticket>jNOEHSMF000015681956UyTYDQPbUvKvpsesgRqV</ticket>
+    <ok_code>wqniGlfgPT</ok_code>
+    <failure_code>riuTCaQHSi</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>49000</AMOUNT><ORDER_NUMBER>268207</ORDER_NUMBER><ORDER_DESCRIPTION>268207 (03.07.2021 09:20:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Арсентьев Олег Вячеславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Иркутская область,  Ербанова д.28 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>arsoleg@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-914-898-82-35</CLIENT_PHONE><CLIENT_IP>185.54.179.61</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.07.2021 13:21<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <response_code>4</response_code>
+    <response_message>Внутренняя ошибка системы Не удалось зарегистировать QR-код в СБП</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>49000</AMOUNT><ORDER_NUMBER>268207</ORDER_NUMBER><ORDER_DESCRIPTION>268207 (03.07.2021 09:20:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Арсентьев Олег Вячеславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Иркутская область,  Ербанова д.28 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>arsoleg@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-914-898-82-35</CLIENT_PHONE><CLIENT_IP>185.54.179.61</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.07.2021 13:22<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <response_code>4</response_code>
+    <response_message>Внутренняя ошибка системы Не удалось зарегистировать QR-код в СБП</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>49000</AMOUNT><ORDER_NUMBER>268207</ORDER_NUMBER><ORDER_DESCRIPTION>268207 (03.07.2021 09:20:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Арсентьев Олег Вячеславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Иркутская область,  Ербанова д.28 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>arsoleg@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-914-898-82-35</CLIENT_PHONE><CLIENT_IP>185.54.179.61</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.07.2021 13:22<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <response_code>4</response_code>
+    <response_message>Внутренняя ошибка системы Не удалось зарегистировать QR-код в СБП</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>49000</AMOUNT><ORDER_NUMBER>268207</ORDER_NUMBER><ORDER_DESCRIPTION>268207 (03.07.2021 09:20:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Арсентьев Олег Вячеславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Иркутская область,  Ербанова д.28 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>arsoleg@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-914-898-82-35</CLIENT_PHONE><CLIENT_IP>185.54.179.61</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.07.2021 13:22<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <response_code>4</response_code>
+    <response_message>Внутренняя ошибка системы Не удалось зарегистировать QR-код в СБП</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>49000</AMOUNT><ORDER_NUMBER>268207</ORDER_NUMBER><ORDER_DESCRIPTION>268207 (03.07.2021 09:20:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Арсентьев Олег Вячеславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Иркутская область,  Ербанова д.28 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>arsoleg@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-914-898-82-35</CLIENT_PHONE><CLIENT_IP>185.54.179.61</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.07.2021 13:23<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <response_code>4</response_code>
+    <response_message>Внутренняя ошибка системы Не удалось зарегистировать QR-код в СБП</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>49000</AMOUNT><ORDER_NUMBER>268207</ORDER_NUMBER><ORDER_DESCRIPTION>268207 (03.07.2021 09:20:03)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Арсентьев Олег Вячеславович</CLIENT_NAME><CLIENT_ADDRESS>Россия, Иркутская область,  Ербанова д.28 кв.</CLIENT_ADDRESS><CLIENT_EMAIL>arsoleg@yandex.ru</CLIENT_EMAIL><CLIENT_PHONE>+7-914-898-82-35</CLIENT_PHONE><CLIENT_IP>185.54.179.61</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+03.07.2021 13:23<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <response_code>4</response_code>
+    <response_message>Внутренняя ошибка системы Не удалось зарегистировать QR-код в СБП</response_message>
+</order_response>
+xml=<?xml version='1.0' encoding='utf-8'?><NEW_ORDER><SHOP_ID>36472</SHOP_ID><SHOP_PASSWD>wnxYdZeBRk</SHOP_PASSWD><AMOUNT>5124600</AMOUNT><ORDER_NUMBER>268670</ORDER_NUMBER><ORDER_DESCRIPTION>268670 (06.07.2021 19:09:31)</ORDER_DESCRIPTION><LANGUAGE>RU</LANGUAGE><BACK_URL>https://www.diada-arms.ru</BACK_URL><CLIENT_NAME>Виктор Самыков</CLIENT_NAME><CLIENT_ADDRESS>Беларусь, Минская область, Минск,   д. кв.</CLIENT_ADDRESS><CLIENT_EMAIL>samykov@gmail.com</CLIENT_EMAIL><CLIENT_PHONE>+375296066020</CLIENT_PHONE><CLIENT_IP>37.215.29.241</CLIENT_IP><IS_QR>1</IS_QR></NEW_ORDER>
+06.07.2021 19:43<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<order_response>
+    <id>15704153</id>
+    <ticket>TGvqiMrD000015704153yUTpeEtYwgIDfzyvBydR</ticket>
+    <ok_code>iSfhXMEJBi</ok_code>
+    <failure_code>USjQdOOgID</failure_code>
+    <response_code>0</response_code>
+    <response_message>Успешное выполнение запроса</response_message>
+</order_response>

@@ -1,0 +1,1 @@
+<?$GLOBALS["APPLICATION"]->SetTitle("test");?>

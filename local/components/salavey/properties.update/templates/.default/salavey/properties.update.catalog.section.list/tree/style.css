@@ -1,0 +1,13 @@
+ul ul {
+	padding-left: 20px;
+}
+
+.sections_filter {
+	background: #efeeee;
+	width: 25%;
+}
+
+.sections_filter h3 {
+	padding-top: 10px;
+	text-align: center;
+}

@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Мишени";
+$arDirProperties = Array(
+
+);
+?>

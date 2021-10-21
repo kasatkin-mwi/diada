@@ -1,0 +1,23 @@
+Array
+(
+    [temp] => 
+    [subject] => юрий № 11096
+    [email_from] => info@diada-arms.ru
+    [email] => zakaz@kreditotdel.ru, info@diada-arms.ru
+    [_ga] => GA1.2.301789440.1534428558
+    [_ym_uid] => 1534428558327970834
+    [_ym_d] => 1534428558
+    [BX_USER_ID] => 430ce7d7f92d9a110bb404c0d2e619c2
+    [BITRIX_SM_locationId] => 1969
+    [BITRIX_SM_UIDL] => salavey
+    [BITRIX_SM_LOGIN] => Salavey
+    [BITRIX_SM_RCM_PRODUCT_LOG] => 67383-random-1548682375.27081-random-1548682958.27473-random-1548682958.58208-random-1548683133.62455-random-1550061784.2592-c2a896d31c3d400aa0117c2f276104b0c7b4466f-1551186743.26948-random-1551258756
+    [BITRIX_SM_GUEST_ID] => 5626081
+    [BITRIX_SM_SALE_UID] => 22622674
+    [BITRIX_SM_NCC] => Y
+    [BITRIX_SM_SOUND_LOGIN_PLAYED] => Y
+    [BITRIX_CONVERSION_CONTEXT_s1] => {"ID":1,"EXPIRE":1552683540,"UNIQUE":["conversion_visit_day"]}
+    [BITRIX_SM_LAST_SETTINGS] => 
+    [BITRIX_SM_LAST_VISIT] => 15.03.2019 11:43:55
+    [PHPSESSID] => f22da99e44c3052aa7f36c8a8e2fed55
+)

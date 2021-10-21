@@ -1,0 +1,7 @@
+/index.php
+/catalog
+/contacts
+/personal/order/
+/personal/cart/
+/otziv/
+/auth/

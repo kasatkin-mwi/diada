@@ -1,0 +1,241 @@
+RemoveHandler .html .htm
+AddType application/x-httpd-php .php .htm .html .phtml 
+
+php_value auto_prepend_file /home/c/cw05889/testdiada.webtm.ru/public_html/d-url-rewriter.php
+
+RewriteCond %{HTTP:X-HTTPS} !1
+RewriteRule ^(.*)$ https://www.diada-arms.ru/$1 [R=301,L]
+
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/khvostoviki-dlya-strel-interloper/khvostovik-arb-14-16/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/khvostoviki-dlya-strel-interloper/arb-14-16/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/chekhly/chekho-aspid-cherny/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/chekhly/aspid-cherny/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/instrumenty-dlya-arbaletov-lukov-i-aksessuarov/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/instrumenty/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/nabory-aksessuarov/nabor-dlya-arbaleta-aspid/(.*)$  https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/nabory/dlya-arbaleta-aspid/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/nabory-aksessuarov/nabor-tf8000/(.*)$  https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/nabory/tf8000/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/nabory-aksessuarov/nabor-tp1000/(.*)$  https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/nabory/tp1000/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/nabory-aksessuarov/nabor-tp1000-camo/(.*)$  https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/nabory/tp1000-camo/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/nabory-aksessuarov/nabor-tp2000/(.*)$  https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/nabory/tp2000/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/nabory-aksessuarov/nabor-tp2000-camo/(.*)$  https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/nabory/tp2000-camo/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/pritsely_dlya_arbaletov/pritsel-4x32-interloper/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/pritsely_dlya_arbaletov/4x32-interloper/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/pritsely_dlya_arbaletov/pritsel-4x32-podsvetka-int/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/pritsely_dlya_arbaletov/4x32-podsvetka-int/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/pritsely_dlya_arbaletov/pritsel-interloper-1x40/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/pritsely_dlya_arbaletov/interloper-1x40/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/vosk/dlya-tetivy-interloper/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/vosk/dlya-tetivy-interloper/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/vosk/dlya-tetivy-s-silikonom/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/vosk/dlya-tetivy-s-silikonom/$1? [R=301,NE,NC,L]
+
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/nabor_strel_dlya_arbaleta_16/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/nabor_16/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/nabor_strel_dlya_arbaleta_yarrow_20_alyuminiy_6_sht_chernye/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/nabor_yarrow_20_alyuminiy_6_sht_chernye/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/nabor-strel-dlya-arbaleta-yarrow-14-alyuminiy-6-sht-chernye/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/nabor-yarrow-14-alyuminiy-6-sht-chernye/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela_arbaletnaya_alyuminievaya_14/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/alyuminievaya_14/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela_arbaletnaya_karbonovaya_20/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/karbonovaya_20/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-20-mk-ca20/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/20-mk-ca20/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-arbaletnaya-alyuminievaya-16/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/alyuminievaya-16/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-horton-20-al/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/horton-20-al/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-mk-al14-bk/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/mk-al14-bk/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-mk-al20r/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/mk-al20r/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-mk-ca22/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/mk-ca22/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-piledriver-2052138ca/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/piledriver-2052138ca/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-piledriver-2252139/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/piledriver-2252139/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-vector16/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/vector16/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strela-vector22/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/vector22/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/strely_dlya_arbaleta/strely-bolty-man-kung-12-sht-tsvetnye/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/strely_dlya_arbaleta/bolty-man-kung-12-sht-tsvetnye/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/khronografy/hronograf-e9800-x/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/khronografy/e9800-x/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/khronografy/khronograf_chrony_alpha_red/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/khronografy/chrony_alpha_red/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/khronografy/khronograf_ibkh_713/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/khronografy/ibkh_713/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/khronografy/khronograf-ass-0014/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/khronografy/ass-0014/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/khronografy/khronograf-ass-0015/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/khronografy/ass-0015/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/khronografy/khronograf-ass-0021-strelets/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/khronografy/ass-0021-strelets/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/khronografy/khronograf-nastvolnyy-xcortech-x3200/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/khronografy/nastvolnyy-xcortech-x3200/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen_9/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/9/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen_chernaya_megaline_50sht/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/chernaya_megaline_50sht/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen_metallicheskaya_krysa/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/metallicheskaya_krysa/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen_utka_50_sht/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/utka_50_sht/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen_vorona_50_sht_/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/vorona_50_sht_/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen-25chb-140x140/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/25chb-140x140/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen-9-m-9p/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/9-m-9p/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen-interloper-vlagostoykaya-40-sm/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/interloper-vlagostoykaya-40-sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen-khuligan-s-bitoy/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/khuligan-s-bitoy/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen-khuligan-s-nozhom/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/khuligan-s-nozhom/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen-lovushka-dlya-pul-4-utochki-usilennaya/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/lovushka-dlya-pul-4-utochki-usilennaya/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/misheni/mishen-remington-yabloko-50-sht-/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/misheni/remington-yabloko-50-sht-/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderato-mr-512-60-61-5/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/mr-512-60-61-5/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator_dlya_crosman/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/dlya_crosman/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator_dlya_mr_512_60_61_izhmekh_baykal/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/dlya_mr_512_60_61_izhmekh_baykal/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-4465135/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/4465135/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-512/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/512/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-dlya-hatsan-khatsan-at-44-bt-65/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/dlya-hatsan-khatsan-at-44-bt-65/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-hatsan/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/hatsan/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-hatsan-galatian-1-2-unf/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/hatsan-galatian-1-2-unf/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-k-umarex-walther-1250-dominator/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/k-umarex-walther-1250-dominator/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-mr-512/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/mr-512/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-trud-3/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/trud-3/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-trud-4/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/trud-4/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/moderatory/moderator-universal/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/moderatory/universal/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki_mototsikletnye_oddi_ym677_37676/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/mototsikletnye_oddi_ym677_37676/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki_strelkovye_puma_dymchatye/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/strelkovye_puma_dymchatye/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki_strelkovye_sporty_nabor_s_3_linzami_smennymi/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/strelkovye_sporty_nabor_s_3_linzami_smennymi/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki_zashchitnye_dlya_igry_v_straykbol_military_tactical_shooting_googglese/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/zashchitnye_dlya_igry_v_straykbol_military_tactical_shooting_googglese/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki_zashchitnye_o15_khammer_rosomz_temnye_11535/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/zashchitnye_o15_khammer_rosomz_temnye_11535/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki-gletcher-317s/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/gletcher-317s/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki-strelkovye-gletcher-glg-313/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/strelkovye-gletcher-glg-313/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/ochki_dlya_strelby/ochki-strelkovye-glg-312/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/ochki_dlya_strelby/strelkovye-glg-312/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/remni_dlya_oruzhiya/remen-chern-karabin/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/remni_dlya_oruzhiya/chern-karabin/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/remni_dlya_oruzhiya/remen-cherny-3/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/remni_dlya_oruzhiya/cherny-3/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/remni_dlya_oruzhiya/remen-chernyy-dvoynaya-proshitaya-stropa-odin-karabin/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/remni_dlya_oruzhiya/chernyy-dvoynaya-proshitaya-stropa-odin-karabin/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/remni_dlya_oruzhiya/remen-didzhital-stropa-karabin/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/remni_dlya_oruzhiya/didzhital-stropa-karabin/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/remni_dlya_oruzhiya/remen-pesoch-karabin/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/remni_dlya_oruzhiya/pesoch-karabin/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/remni_dlya_oruzhiya/remen-pesochny-3/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/remni_dlya_oruzhiya/pesochny-3/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/coshki-na-viver/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/na-viver/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/coshki-stvola-210-260/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/stvola-210-260/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/coshki-viver-210-250/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/viver-210-250/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/rukoyatka-viver-soshki/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/rukoyatka-viver/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki_leapers_dlya_ustanovki_na_picatinny_15_20sm_utg_tl_bp78/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/leapers_dlya_ustanovki_na_picatinny_15_20sm_utg_tl_bp78/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki_leapers_nereguliruemye_utg_tl_bp70/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/leapers_nereguliruemye_utg_tl_bp70/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-420-700-bh-bp04/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/420-700-bh-bp04/$1? [R=301,NE,NC,L]
+
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-1a2-model-25-12-25/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/1a2-model-25-12-25/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-harris-1a2-brm-6-9-6/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/harris-1a2-brm-6-9-6/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-harris-1a2-h-13-5-23/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/harris-1a2-h-13-5-23/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-harris-1a2l-9-13/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/harris-1a2l-9-13/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-harris-1a2-lm-9-13-6/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/harris-1a2-lm-9-13-6/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-harris-s-25-12-25/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/harris-s-25-12-25/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-harris-seriya-s-l-9-13/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/harris-seriya-s-l-9-13/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/soshki-harris-ser-s-model-lm-9-13-6/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/harris-ser-s-model-lm-9-13-6/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-utg-360206304-s-tl-bp03/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/utg-360206304-s-tl-bp03/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-utg-360-tl-bp01/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/utg-360-tl-bp01/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-utg-360-tl-bp02/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/utg-360-tl-bp02/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-weaver-21-25-krep/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/weaver-21-25-krep/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-weaver-27-37/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/weaver-27-37/$1? [R=301,NE,NC,L]
+
+
+RewriteRule ^catalog/fonari/fonari-kitay/fonar-podstvolnyy-s-zumom-5000-lum-bh-fl01/(.*)$ https://www.diada-arms.ru/catalog/fonari/kitay/podstvolnyy-s-zumom-5000-lum-bh-fl01/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e53-250-lyum-svetodiod-cree-xp-g-r5/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e53-250-lyum-svetodiod-cree-xp-g-r5/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e61-80-lyum-svetodiod-cree-xp-e-led/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e61-80-lyum-svetodiod-cree-xp-e-led/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e63-150-lyum-svetodiod-cree-xp-e-led/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e63-150-lyum-svetodiod-cree-xp-e-led/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e64/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e64/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e74-80-lyum-svetodiod-cree-xp-g-r5/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e74-80-lyum-svetodiod-cree-xp-g-r5/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e76-230-lyum-svetodiod-cree-xp-g-r5/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e76-230-lyum-svetodiod-cree-xp-g-r5/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e77-200-lyum-svetodiod-cree-xp-g-r5/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e77-200-lyum-svetodiod-cree-xp-g-r5/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e82-100-lyumen-svetodiod-cree-xp-g-r5-moskva/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e82-100-lyumen-svetodiod-cree-xp-g-r5-moskva/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e85-100-lyum-svetodiod-cree-xp-g-r5/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e85-100-lyum-svetodiod-cree-xp-g-r5/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/remington/fonar-remington-e91-100-lyum-svetodiod-cree-xp-g-r5/(.*)$ https://www.diada-arms.ru/catalog/fonari/remington/e91-100-lyum-svetodiod-cree-xp-g-r5/$1? [R=301,NE,NC,L]
+
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_operativnye/kobura_operativnaya_aniks/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_operativnye/aniks/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_operativnye/kobura_operativnaya_beretta/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_operativnye/beretta/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_operativnye/kobura_operativnaya_srosman_c_41/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_operativnye/srosman_c_41/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_operativnye/kobura_operativnaya_umarex/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_operativnye/umarex/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_operativnye/kobura_stich_operativnaya_pod_gletcher_sw/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_operativnye/stich_pod_gletcher_sw/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_operativnye/kobura_universalnaya_kombinirovannaya_pm_psm_pmm_tkan_sinteticheskaya_8789014001/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_operativnye/universalnaya_kombinirovannaya_pm_psm_pmm_tkan_sinteticheskaya_8789014001/$1? [R=301,NE,NC,L]
+
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_aps_stechkin_plastik/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/aps_stechkin_plastik/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_dsh_aniks_101s_tkan_sinteticheskaya/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/dsh_aniks_101s_tkan_sinteticheskaya/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_dsh_pm_kordura/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/dsh_pm_kordura/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_dsh_pm_sluzhebnaya_kordura/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/dsh_pm_sluzhebnaya_kordura/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_dsh_walther_p88_kozha_chernaya/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/dsh_walther_p88_kozha_chernaya/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_dsh_walther_p99_kozha_chernaya/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/dsh_walther_p99_kozha_chernaya/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_rrk_s/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/rrk_s/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_skif_a_3000_kozha/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/skif_a_3000_kozha/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_poyasnaya_universalnaya_gletcher_gla06_41156/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/universalnaya_gletcher_gla06_41156/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_sha_pm_pps_kozha_belyy_8789015094/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/sha_pm_pps_kozha_belyy_8789015094/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_shtatnaya_k_pm_temno_korichnevaya_kozha/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/shtatnaya_k_pm_temno_korichnevaya_kozha/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_stalker_poyasnaya/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/stalker/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_stich_poyasnaya_pod_tt_lyuks_model_1/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/stich_pod_tt_lyuks_model_1/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura_universalnaya_skrytogo_nosheniya_pm_psm_pmm_tkan_sinteticheskaya_8789008021/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/universalnaya_skrytogo_nosheniya_pm_psm_pmm_tkan_sinteticheskaya_8789008021/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-beretta-m-92/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/beretta-m-92/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-dsh-tt/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/dsh-tt/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-gletcher-aps/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/gletcher-aps/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-gletcher-brt92/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/gletcher-brt92/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-gletcher-clt-1911/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/gletcher-clt-1911/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-gletcher-glock/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/gletcher-glock/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-poyasnaya-dlya-pm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/poyasnaya-dlya-pm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/kobury_poyasnye/kobura-s-blokirovkoy-clock-shgl1-01/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/kobury_poyasnye/s-blokirovkoy-clock-shgl1-01/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/chekhol_100_sm_s_remnyem_oliv_dlya_oruzhiya_16191001_902/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/chekhol_100_sm_s_remnyem_oliv_dlya_oruzhiya_16191001_902/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/keys_110_bez_optiki_kordura_porolon_iskusstvennaya_kozha_8789003055/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/keys_bez_optiki_kordura_porolon_iskusstvennaya_kozha_8789003055/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/keys_110_bez_optiki_pv_8789003013/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/keys_bez_optiki_pv_8789003013/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/keys_110_bez_optiki_tkan_sinteticheskaya_8789003003/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/keys_bez_optiki_tkan_sinteticheskaya_8789003003/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/keys_110_s_optikoy_kordura_porolon_iskusstvennaya_kozha_8789003054/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/keys_s_optikoy_kordura_porolon_iskusstvennaya_kozha_8789003054/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/keys_110_s_optikoy_porolon_kordura_8789003041/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/keys_s_optikoy_porolon_kordura_8789003041/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/keys_110_s_optikoy_pv_8789003021/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/keys_s_optikoy_pv_8789003021/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/keys_110_s_optikoy_tkan_sinteticheskaya_8789003004/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/keys_s_optikoy_tkan_sinteticheskaya_8789003004/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_120sm/keys_120_s_optikoy_pv_8789003025/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/120sm/keys_s_optikoy_pv_8789003025/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_120sm/keys_120_s_optikoy_tkan_sinteticheskaya_8789003006/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/120sm/keys_s_optikoy_tkan_sinteticheskaya_8789003006/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_120sm/keys_dlya_ruzhya_plavayushchiy_s_karmanami_120_135_sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/120sm/keys_dlya_ruzhya_plavayushchiy_s_karmanami_135_sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_120sm/keys-120--format-oliva/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/120sm/keys-format-oliva/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_120sm/keys-bga120/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/120sm/keys-bga/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/chekhol_dlya_ruzhya_125_sm_bez_optiki_5017/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/chekhol_dlya_ruzhya_bez_optiki_5017/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/chekhol_dlya_ruzhya_125_sm_s_optikoy_5016/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/chekhol_dlya_ruzhya_s_optikoy_5016/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys_125_bez_optiki_kordura_porolon_iskusstvennaya_kozha_8789003057/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys_bez_optiki_kordura_porolon_iskusstvennaya_kozha_8789003057/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys_125_bez_optiki_kozha_8789003036/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys_bez_optiki_kozha_8789003036/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys_125_bez_optiki_porolon_kordura_8789003044/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys_bez_optiki_porolon_kordura_8789003044/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys_125_s_optikoy_kordura_porolon_iskusstvennaya_kozha_izh_81_8789003068/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys_s_optikoy_kordura_porolon_iskusstvennaya_kozha_izh_81_8789003068/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys_125_s_optikoy_porolon_kordura_8789003045/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys_s_optikoy_porolon_kordura_8789003045/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys_125_s_optikoy_pv_8789003068/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys_s_optikoy_pv_8789003068/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys_125_s_optikoy_tkan_sinteticheskaya_8789003008/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys_s_optikoy_tkan_sinteticheskaya_8789003008/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/keys-125-s-optikoy-holster-club-kozha-soty/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/keys-s-optikoy-holster-club-kozha-soty/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_130sm/keys_130_s_optikoy_porolon_kordura_8789003118/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/130sm/keys_s_optikoy_porolon_kordura_8789003118/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_135sm/chekhol_dlya_ruzhya_135_sm_s_optikoy_5018/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/135sm/chekhol_dlya_ruzhya_sm_s_optikoy_5018/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_135sm/keys_135_bez_optiki_pv_8789003075/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/135sm/keys_bez_optiki_pv_8789003075/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_135sm/keys_135_bez_optiki_tkan_sinteticheskaya_8789003011/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/135sm/keys_bez_optiki_tkan_sinteticheskaya_8789003011/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_135sm/keys_135_s_o_green_way_kozha/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/135sm/keys_s_o_green_way_kozha/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_135sm/keys_135_s_optikoy_kordura_porolon_iskusstvennaya_kozha_8789003060/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/135sm/keys_s_optikoy_kordura_porolon_iskusstvennaya_kozha_8789003060/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_135sm/keys_135s_optikoy_tkan_sinteticheskaya_8789003012/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/135sm/keys_s_optikoy_tkan_sinteticheskaya_8789003012/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_140sm/chekhol_dlya_oruzhiya_s_remnem_schwarz_140_sm_16191002_904/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/140sm/chekhol_dlya_oruzhiya_s_remnem_schwarz_140_sm_16191002_904/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_140sm/gunmate_zashchitnyy_chekhol_dlya_ruzhya_140_sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/140sm/gunmate_zashchitnyy_chekhol_dlya_ruzhya/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_dlya_pistoletov/chekhol_dlya_pistoleta_universalnyy/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/dlya_pistoletov/chekhol_universalnyy/$1? [R=301,NE,NC,L]
+
+
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_120sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/120sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_125sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/125sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_130sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/130sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_dlya_pistoletov/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/dlya_pistoletov/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_135sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/135sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_140sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/140sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_do_100sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/do_100sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/kobury_chekhly_keysy/keysy_i_chekhly_110sm/(.*)$ https://www.diada-arms.ru/catalog/kobury_chekhly_keysy/110sm/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/fonari/fonari-kitay/(.*)$ https://www.diada-arms.ru/catalog/fonari/kitay/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/aksessuary/soshki/soshki-harris/adapter_4_dlya_soshek_na_stvol_harris_ha4/(.*)$ https://www.diada-arms.ru/catalog/aksessuary/soshki/harris/adapter_4_dlya_soshek_na_stvol_harris_ha4/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/nabory-aksessuarov/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/nabory/$1? [R=301,NE,NC,L]
+RewriteRule ^catalog/arbalety_i_luki/aksessuary_dlya_arbaletov_i_lukov/(.*)$ https://www.diada-arms.ru/catalog/arbalety_i_luki/aksessuary/$1? [R=301,NE,NC,L]
+
+RewriteRule ^(s-stat) - [L] 
+
+Options -Indexes 
+ErrorDocument 404 /404.php
+<IfModule mod_php7.c>
+	php_flag allow_call_time_pass_reference 1
+	php_flag session.use_trans_sid off
+
+	php_value display_errors 1
+	php_value upload_max_filesize 10M
+	php_value mbstring.internal_encoding UTF-8
+	php_value mbstring.func_overload 2
+	php_flag apc.cache_by_default Off
+</IfModule>
+
+<IfModule mod_headers.c>
+     Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
+
+<IfModule mod_rewrite.c>
+    Options +FollowSymLinks
+	RewriteEngine On
+	# RewriteCond %{HTTP_HOST} ^www.diada-arms.ru [NC]
+	# RewriteRule ^(.*) http://www.diada-arms.ru/$1 [R=302,L]
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-l
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME} !/bitrix/urlrewrite.php$
+	RewriteRule ^(.*)$ /bitrix/urlrewrite.php [L]
+	RewriteRule .* - [E=REMOTE_USER:%{HTTP:Authorization}]
+</IfModule>
+
+<IfModule mod_dir.c>
+	DirectoryIndex index.php index.html
+</IfModule>
+
+<IfModule mod_expires.c>
+	ExpiresActive on
+	ExpiresByType image/jpeg "access plus 3 day"
+	ExpiresByType image/gif "access plus 3 day"
+</IfModule>
+php_value default_charset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml

@@ -1,0 +1,75 @@
+.refund_bl{
+    position: relative;
+}
+#return_form input.error,#return_form textarea.error{
+    border: 1px solid #c41a1c;
+}
+#return_form label.error{
+    background-color: #db2828!important;
+    border-color: #db2828!important;
+    color: #fff!important;
+    
+    margin-top: 1em;
+    margin-right: 0;
+    font-size: .85714286rem;
+    display: inline-block;
+    line-height: 1;
+    vertical-align: baseline;
+    background-image: none;
+    padding: .5833em .833em;
+    text-transform: none;
+    border: 0 solid transparent;
+    border-radius: .28571429rem;
+    transition: background .1s ease;
+    position: relative;
+    
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-duration: 300ms;
+    animation-duration: 300ms;
+    -webkit-animation-timing-function: ease;
+    animation-timing-function: ease;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    /*color: #c41a1c;
+    position: absolute;
+    min-width: 200px;
+    bottom: -30px; */
+}
+#return_form .jq-checkbox label.error{
+    position: absolute;
+    left: -82px;
+    bottom: -38px;
+    min-width: 340px;   
+}
+#return_form .jq-file label.error{
+    position: absolute;
+    bottom: -45px;
+    left: 0;   
+}
+#return_form label.error:before {
+    background-color: inherit;
+    border-style: solid;
+    border-color: inherit;
+    position: absolute;
+    content: '';
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    background-image: none;
+    z-index: 2;
+    width: .6666em;
+    height: .6666em;
+    -webkit-transition: background .1s ease;
+    transition: background .1s ease;
+    border-width: 1px 0 0 1px;
+    -webkit-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+    -ms-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+    transform: translateX(-50%) translateY(-50%) rotate(45deg);
+    top: 0;
+    left: 50%;
+    
+}
+.refund_form_el .jq-file{
+    overflow: initial!important;    
+}

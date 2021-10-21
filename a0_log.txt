@@ -1,0 +1,14 @@
+Array
+(
+    [LOCATION] => 0000073738
+    [PAYER] => rewerwerwerwer
+    [PHONE] => +1(112)323-4234
+    [EMAIL] => 
+)
+Array
+(
+    [LOCATION] => 0000073738
+    [PAYER] => ssfsdfsdfsf sfsdfs
+    [PHONE] => +7(889)789-89-75
+    [EMAIL] => TuFdKyM@diada-email.ru
+)

@@ -1,0 +1,16 @@
+.adm-bus-table-caption-toggle{
+    float:right;
+    cursor:pointer;
+}
+.adm-bus-table-caption-toggle:hover{
+    opacity:0.8;
+}
+.adm-detail-content-table.edit-table.hide{
+    display:none;
+}
+#list-tbl .prop_link{
+    margin-top: 10px;
+}
+#sale-adm-comments-view{
+    background: #edff54; color:#000!important;padding: 0 3px;font-weight: bold;width:auto;display: table;
+}

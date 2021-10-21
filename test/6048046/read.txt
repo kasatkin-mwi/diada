@@ -1,0 +1,9 @@
+Нужно добавить в /js/main.js и /js/main.min.js :
+После:
+$(e).addClass("in_basket_button").text("В корзину").attr("href","/personal/cart/")
+Вставить:
+,($(e).hasClass("newcat_buy")||$(e).hasClass("buy_element_button")||$(e).hasClass("red_buy"))&&$(e).text("Перейти в корзину")
+Должно получиться:
+$(e).addClass("in_basket_button").text("В корзину").attr("href","/personal/cart/"),($(e).hasClass("newcat_buy")||$(e).hasClass("buy_element_button")||$(e).hasClass("red_buy"))&&$(e).text("Перейти в корзину")
+
+Затем нужно добавить CSS равила из файла /test/6048046/new-styles.css

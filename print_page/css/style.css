@@ -1,0 +1,212 @@
+:focus {
+	outline: none;
+}
+.clear {
+	clear:both !important;
+}
+.clear_after:after {
+	content:'';
+	clear:both;
+	display:block;
+}
+body {
+    width: 100%;
+    font-family: latoregular;
+    font-size: 16px;
+    color: #000;
+    margin: 0 auto;
+    position: relative;
+    left: 0;
+    transition: top 1s ease-in-out 1s;
+    background: #fff;
+}
+img {
+	max-width:100%;
+}
+.detail_page_title {
+    font-size: 24px;
+    font-family: latolight;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #e6e6e6;
+	margin-bottom:15px;
+}
+header, section {
+	max-width:1200px;
+	margin:0 auto;
+}
+.detail_complect_dop_info_black_title {
+    font-family: latolight;
+    font-size: 15px;
+    color: #686767;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.detail_complect_dop_info_red_title {
+    font-family: latoblack;
+    font-size: 15px;
+    color: #c41a1c;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+.detail_complect_dop_info_list {
+    list-style: none !important;
+    margin-bottom: 10px !important;
+    counter-reset: list;
+    font-size: 12px;
+}
+.detail_complect_dop_info_list > li {
+    margin-bottom: 0 !important;
+    padding-left: 15px;
+    position: relative;
+}
+.detail_complect_dop_info_list > li:before {
+    content: counters(list, ".") ")";
+    counter-increment: list;
+    position: absolute;
+    left: 0;
+    width: 10px;
+    text-align: right;
+    height: 12px;
+    top: 0;
+    vertical-align: bottom;
+    display: block;
+}
+.detail_complect_dop_info_price {
+    font-family: latoblack;
+    font-size: 17px;
+    color: #c41a1c;
+    margin-bottom: 25px;
+}
+.detail_complect_dop_info_img_block {
+	text-align:center;
+}
+.detail_complect_dop_info_img_el {
+    display: inline-block;
+    width: 57px;
+    height: 57px;
+    line-height: 57px;
+    vertical-align: middle;
+    text-align: center;
+    margin-right: 15px;
+}
+.detail_complect_dop_info_img_el img {
+    max-height: 100%;
+    vertical-align: middle;
+}
+h2, .h2 {
+    font-family: latobold;
+    font-size: 21px;
+    color: #000;
+    margin-bottom: 20px;
+}
+.detail_table_option {
+    font-family: latoregular;
+    font-size: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+.detail_table_option tr:first-child {
+    border-top: 1px solid #e6e6e6;	
+}
+.detail_table_option tr {
+    border-bottom: 1px solid #e6e6e6;
+}
+.detail_table_option td:first-child,
+.detail_table_option td:nth-child(3) {
+    font-family: latobold;
+	padding-right:10px;
+    /* width: 255px; */
+}
+.detail_table_option td:nth-child(3) {
+	padding-left:15px;
+	border-left:1px solid #e6e6e6;
+}
+.detail_table_option td {
+    padding: 2px 5px 2px 0;
+}
+a {
+    color: #000;
+}
+a:hover {
+    text-decoration: none;
+}
+.detail_complect_dop_info_list a:hover {
+    color: #c41a1c;
+    text-decoration: underline;
+}
+.detail_complect_dop_info_list a {
+    text-decoration: none;
+}
+.header_logo {
+	/* display:inline-block;
+	width:23%;
+	vertical-align:middle; */
+	text-align:right;
+	margin-bottom:5px;
+}
+.header_info {
+	display:inline-block;
+	width:40%;
+	vertical-align:middle;
+	text-align:right;
+	font-size:16px;
+}
+.header_info>div {
+	margin-bottom:5px;
+}
+.header_info_www {
+	color:#c41a1c;
+}
+.header_info_tel {
+	font-size:14px;
+}
+.header_info_tel>span {
+	font-family:latobold;
+	font-size:18px;
+	font-size:16px;
+}
+header {
+	padding:10px 0 10px;
+}
+.produce_img {
+	/* margin:20px auto 20px; */
+	display:inline-block;
+	width:59%;
+	height:175px;
+	line-height:175px;
+	text-align:left;
+}
+.produce_img img {
+	vertical-align:middle;
+	max-width:100%;
+	max-height:100%;
+}
+.produce_complect_el:nth-child(3n) {
+	margin-right:0;
+}
+.produce_complect_el {
+	width:32%;
+	float:left;
+	margin-right:2%;
+	margin-bottom:10px;
+}
+.produce_complect_el_price {
+	font-size:16px;
+	margin-bottom:5px;
+}
+.produce_complect_el_price>span {
+	font-family:latobold;
+	color:#c41a1c;
+	font-size:18px;
+	/* padding-left:20px; */
+	display:block;
+	padding-top:2px;
+}
+.detail_complect_el_old_price {
+	font-family: latolight;
+    font-size: 16px;
+    color: #686767;
+	margin-left:5px;
+    /* display: block; */
+    text-decoration: line-through;
+}

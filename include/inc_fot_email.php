@@ -1,0 +1,1 @@
+<a class="mail" href="mailto:info@diada-arms.ru">info@diada-arms.ru</a>

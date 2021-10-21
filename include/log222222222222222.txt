@@ -1,0 +1,4 @@
+Array
+(
+    [0] => /home/c/cw05889/testdiada.webtm.ru/public_html/upload/15526395068
+)

@@ -1,0 +1,47 @@
+Array
+(
+    [PRODUCT_ID] => 14365
+    [PRICE] => 1820
+    [CURRENCY] => RUB
+    [QUANTITY] => 1
+    [NAME] => Арбалет пистолетного типа Man Kung MK-80A4PL «Кобра» (рукоять из пластика) (комплект Мастер)
+    [DETAIL_PAGE_URL] => /catalog/arbalety_i_luki/arbalet-pistoletnogo-tipa-mk-80a4pl-kobra/
+    [NOTES] => 1_2
+    [LID] => s1
+    [BASE_PRICE] => 2840
+    [DISCOUNT_PRICE] => 1020
+    [DISCOUNT_NAME] => Величина скидки за комплект
+    [CAN_BUY] => Y
+    [MODULE] => catalog
+    [IGNORE_CALLBACK_FUNC] => Y
+    [LAST_DISCOUNT] => Y
+    [CUSTOM_PRICE] => Y
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [NAME] => Комплектация
+                    [VALUE] => комплект Мастер
+                    [SORT] => 1
+                )
+
+            [1] => Array
+                (
+                    [NAME] => Товар №1
+                    [CODE] => PRODUCT №1
+                    [VALUE] => Арбалет пистолетного типа Man Kung MK-80A4PL «Кобра» (рукоять из пластика)
+                    [SORT] => 100
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Товар №2
+                    [CODE] => PRODUCT №2
+                    [VALUE] => Стрелы (болты) Man Kung MK-AL, набор 12 шт. (алюминиевые)
+                    [SORT] => 200
+                )
+
+        )
+
+    [PRODUCT_PROVIDER_CLASS] => CCatalogProductProvider
+)

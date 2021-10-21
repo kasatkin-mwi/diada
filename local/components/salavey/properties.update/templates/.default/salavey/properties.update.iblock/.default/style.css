@@ -1,0 +1,8 @@
+.iblock_select {
+	padding: 40px 0;
+	margin-top: 40px;
+}
+
+.iblock_select .hidden {
+	display: none;
+}

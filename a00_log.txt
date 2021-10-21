@@ -1,0 +1,7 @@
+Array
+(
+    [LOCATION] => 0000073738
+    [PAYER] => rewerwerwerwer
+    [PHONE] => +1(112)323-4234
+    [EMAIL] => 
+)

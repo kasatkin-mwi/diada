@@ -1,0 +1,90 @@
+.red_button:disabled{opacity:.5}.add_text_comment .jq-selectbox__dropdown ul li{display:block}#js_mobile_text_el_light{position:relative}.form_success_block{font-size:1.2em;background:#fdfdfd;border:0;padding:130px 10px;margin:15px 5px;text-align:center;color:#00b01a;overflow:hidden}.error{color:#c41a1c}
+input[type="text"].error, input[type="password"].error, select.error, textarea.error, .jq-checkbox.error {
+    box-shadow: none;
+    border-color: #c41a1c;
+    position: relative;
+}
+.det_status_kol_l {
+    width: 60%;
+    font-size: 14px;
+    text-align: left;
+}
+.nal_est, .nal_sklad {
+    color: #00b01a;
+}
+.nal_zakaz {
+    color: #04acfa;
+}
+.nal_snyato{color:#605f5f}
+.nal_net{color:#c62123}
+
+.det_status_kol_bl {
+    display: flex;
+    align-items: center;
+    justify-content: spece-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.det_status_kol_r {
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+}
+.det_status_kol_bl .buy_number {
+    float: none;
+    display: flex;
+    align-items: stretch;
+}
+.det_status_kol_bl .buy_number a:first-child {
+    border-radius: 4px 0 0 4px;
+}
+.det_status_kol_bl .buy_number a:last-child {
+    border-radius: 0 4px 4px 0;
+}
+.det_status_kol_bl .buy_number a {
+    width: 20px;
+    background: #e6e6e6;
+    position: relative;
+}
+.det_status_kol_bl .buy_number a, .det_status_kol_bl .buy_number input {
+    display: block;
+}
+.buy_number a, .buy_number input {
+    display: table-cell;
+    padding: 0 2px;
+    vertical-align: middle;
+}
+.det_status_kol_bl .buy_number input {
+    width: 40px;
+    height: 28px;
+    border: none;
+    border-top: 1px solid #e6e6e6;
+    border-bottom: 2px solid #e6e6e6;
+    border-radius: 0;
+    font-size: 16px;
+    color: #000;
+    text-align: center;
+    padding: 0 2px;
+}
+.det_status_kol_bl .buy_number a:before {
+    content: '';
+    left: 50%;
+    top: 50%;
+    display: block;
+    margin: -7px 0 0 -3px;
+    border-right: 7px solid #605f5f;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    position: absolute;
+}
+.det_status_kol_bl .buy_number a:last-child:before {
+    transform: rotate(180deg);
+}
+.det_status_kol_bl .buy_number a img {
+    display: none;
+}
+.det_status_kol_bl .buy_number input::-webkit-outer-spin-button,
+.det_status_kol_bl .buy_number input::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    margin: 0;
+}

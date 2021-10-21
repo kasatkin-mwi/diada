@@ -1,0 +1,101 @@
+.elem_update_wrapper {
+	padding: 10px;
+	width: 50%;
+}
+
+.elem_update_wrapper label {
+	cursor: pointer;
+}
+
+.elem_update_wrapper select {
+max-width: 80%;
+}
+
+.elem_update_wrapper .clear_all_bt {
+  font-size:14px;
+  color:#999999;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:115px;
+  height:20px;
+  margin-left:10px;
+  text-decoration:none;
+  background:#e8e8e8;
+  border-radius:10px;
+  line-height:1;
+  font-weight:normal;
+}
+.elem_update_wrapper .clear_all_bt .fa {
+  margin-right:3px;
+}
+.elem_update_wrapper .clear_all_bt:hover {
+  color:#898989;
+}
+.elem_update_wrapper .check_circle_bt {
+  font-size:14px;
+  color:#329800;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:115px;
+  height:20px;
+  margin-left:10px;
+  text-decoration:none;
+  background:#d6eacc;
+  border-radius:10px;
+  line-height:1;
+  font-weight:normal;
+}
+.elem_update_wrapper .check_circle_bt .fa {
+  margin-right:3px;
+}
+.elem_update_wrapper .check_circle_bt:hover {
+  color:#328800;
+}
+.elem_update_wrapper .success {
+	color: green;
+}
+.elem_update_wrapper .error {
+	color: red;
+}
+/* 
+.elem_update_wrapper .props_block {
+	display: flex;
+}
+ */
+.elem_update_wrapper .prop_select {
+	/* max-height:50vh;
+	overflow-y:auto; */
+	padding-right: 20px;
+}
+
+.elem_update_wrapper .elements{
+	padding-top:40px;
+	/* max-height:50vh; */
+	/* overflow-y:auto; */
+}
+.elem_update_wrapper .submit_btns{
+	padding-top: 20px;
+}
+
+.elem_update_wrapper .btn {
+    height: 42px;
+    width: 100%;
+    max-width: 260px;
+    background-color: rgb(45, 86, 167);
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: normal;
+    position: relative;
+    white-space: normal;
+    font-size: 16px;
+    padding: 5px;
+    cursor: pointer;
+    transition: all 0.25s;
+    line-height: 29px;
+    text-shadow: -1px 2px 1px rgba(5, 5, 5, 0.3);
+    background: rgb(50, 96, 187);
+    background: linear-gradient(to bottom, rgb(50, 96, 187) 0%, rgb(44, 86, 166) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3260bb', endColorstr='#2c56a6', GradientType=0);
+}

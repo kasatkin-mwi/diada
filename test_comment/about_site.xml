@@ -1,0 +1,1083 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Salavey</LastAuthor>
+  <Created>2017-09-21T13:30:59Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8190</WindowHeight>
+  <WindowWidth>16380</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <MaxChange>0.0001</MaxChange>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="198" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="45.75" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="564.75"/>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Купил и не пожалел. Любителям понаслаждаться стрельбой  советую</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Когда увидел его цену в #PRICE# рублей, сразу приобрел. Так как в других магазина его цена на порядок выше.</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.5625">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Долго искал редкую модель винтовки #Crosman#, Diada-Arms оказался единственным магазином который смог привезти ее. Спасибо вам!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Уже не в первый раз заказываю в Вашем магазине, всем доволен! Молодцы!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Спасибо сотрудникам магазина за профессиональную консультацию и оперативную доставку</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Коллекционирую пневматические винтовки, все модели были приобретены в Вашем магазине, всегда быстро отправляете заказ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Всегда быстро реагируете на заказ, ни разу не пришлось самому напоминать о себе, быстрая отправка</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Привезли покупку курьером через несколько часов, очень оперативно! Спасибо!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Часто заказываю у вас товары для охоты, цены ниже чем где-либо и большой выбор</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобная система кредита, купил винтовку #Ataman# о которой давно мечтал!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Много лет покупаю в вашем магазине, всегда радуете чем-то новым</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень толковые менеджеры! Помогли определиться с выбором и подобрали все необходимые комплектующие</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Самая оперативная доставка чем где-либо еще!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Качественно, удобно, есть из чего выбрать</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Вежливые менеджеры, отлично разбираются в том что они продают, могут подсказать и помочь!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отлично придумали с системой подарочных сертификатов, когда не знал что подарить брату на День Рождения — сертификат решил проблему!</Data></Cell>
+   </Row>
+   <Row ss:Height="45">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Часто заказываю в интернет-магазинах, много раз приходилось сталкиваться с недобросовестностью продавцов и доставки, но с вашим магазином я всегда уверен что покупка придет в срок и надлежащем виде! Всем рекомендую данный магазин!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстрая доставка, удобная система оплаты!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень удобная система готовых комплектов - уже все подобрано что нужно</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Покупал в подарок пистолет, менеджеры предложили необычную услугу — сделать именную гравировку! Спасибо за помощь в выборе и оперативность!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">При оформлении заказа дополнительно заказал услугу красивой подарочной упаковки, очень удобная функция</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Вечером оформила заказ на сайте, утром уже позвонили и к вечеру уже привезли! Спасибо за быструю реакцию!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно и быстро, сколько раз заказывал — всегда оставался крайне доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстро перезвонили и оформили доставку на следующее же утро, все что нужно оказалось в наличии!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оперативно собирают заказ! Из всех магазинов в которых искал здесь оказались самые низкие цены!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Уважительное отношение к клиентам, когда не успевал в ваш магазин до закрытия — позвонил предупредил, в итоге меня ждали сколько потребовалось</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Огромный ассортимент, удобный самовывоз и доставка, всегда вовремя и без проблем! Очень рекомендую данный магазин!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Рекомендую всем этот магазин! Выбор, цены, консультация продавцов — все на высшем уровне!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Широкий ассортимент, быстро доставляют!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все отлично, всегда есть выбор!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Мгновенная реакция на заказ, не ожидал такой оперативности! Спасибо за помощь в выборе!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Вежливое общение, всегда готовы помочь клиенту</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Часто бывают акции на многие категории товаров, очень выгодно покупать у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отличный клиентоориентированный магазин, теперь всегда буду покупать только у Вас!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстро принимают заказ, быстро отправляют!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Большой ассортимент и отличное обслуживание! Качественно и удобно!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Спасибо вам за оперативность! Мне все понравилось!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Найти можно почти все что только существует у брендов пневматики, очень хороший выбор</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Можно забрать товар день в день, магазин находится в центре города, очень удобно!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ассортимент лучше чем где бы то ни было! Удобная доставка!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Вежливые консультанты и курьеры, очень грамотно могут помочь определиться с покупкой</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Скорость обработки заказа, доставка, невысокие цены — все очень здорово! Теперь буду заказывать только у Вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобная доставка, есть много пунктов самовывоза, что существенно экономит время</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстрая работа сотрудников, индивидуальный подход к клиенту, качественная продукция</Data></Cell>
+   </Row>
+   <Row ss:Height="45">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Пришел в магазин за винтовкой — проконсультировали, продемонстрировали несколько моделей, помогли выбрать то что лучше всего подходит новичку , а не просто впарили самый дорогой вариант, как это часто делают в других магазинах. Спасибо!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Низкая цена, близость магазина от метро, оперативность!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Недорого, широкий ассортимент. Грамотные консультанты</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">В третий раз покупаю у вас, теперь я ваш постоянный клиент, всем очень доволен!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Сорвался в магазин неожиданно после работы, думал сначала что ничего не будет на складе, но выбор оказался очень хорошим! Посоветовали, подсказали, спасибо консультантам Diada-Arms!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Качество товара лучше чем где-либо, еще ни разу не пожалел о том что купил у Вас</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доволен, помогли выбрать, пришло именно то что заказывал, причем очень быстро. Непременно буду покупать теперь только у вас</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Перезвонили через 10 минут после того как сделал заказ — не ожидал такой быстрой реакции! Курьерская доставка тоже порадовала, все в срок без опазданий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ненавязчиво и при этом по делу, менеджеры — консультанты знают что продают, очень профессионально!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все понравилось, заказ быстро обработали, забрал винтовку в тот же день. Отличная работа!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доставили все вовремя, без задержек, спасибо</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Надежный магазин, проверенный временем. Давно заказываю у вас, все всегда быстро и в срок!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Общительные и вежливые консультанты, очень клиентоориентированный магазин, с вами приятно иметь дело!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобное расположение магазина (почти в центре города), много раз покупал у вас, все очень здорово</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все что покупал у вас всегда радовало качеством и ценой! Являюсь вашим постоянным клиентом вот уже три года</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Лучший магазин в своем сегменте! Самые низкие цены чем где-либо еще!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Менеджеры помогают с подбором дополнительных товаров, но при этом ненавязчиво, очень хорошее отношение к клиентам!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Самые компетентные сотрудники из всех с кем доводилось общаться! Отличный сервис!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Заказом доволен. Все пришло в срок, даже раньше.</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень удобно забирать самовывозом, магазин удобно расположен недалеко от метро. Оперативно связались при оформлении заказа, объяснили как добраться.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстро и удобно, пожалуй лучший магазин пневматики!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Обслуживание клиента на уровне! Быстро упаковали заказ, в магазине провел не больше 5 минут!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Широкий выбор товаров, в том числе редких моделей, которые уже сняты с продажи в других магазинах</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень хорошо организована работа с клиентами — менеджеры проконсультировали по всем возникшим вопросам, быстро оформили и отправили заказ, впредь буду покупать только у Вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доставка выполнена вовремя, все пришло в лучшем виде! Спасибо!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приехал — выбрал -купил! Отлаженная работа консультантов, наглядно показали несколько вариантов, помогли определиться с выбором!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Не первый раз здесь покупаю, очень доволен вашей работой</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень позитивные впечатления о работе Вашего магазина и его сотрудников, теперь рекомендую всем знакомым!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доставили в удобное для меня время и оперативно, остался доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно произвести и забрать заказ, цены ниже чем где-либо еще!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доставляют заказ своевременно, в оговоренные сроки, несмотря на то что товар шел через почти всю страну. Очень рад что обратился именно к вам</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">И сайт, и система обработки заказов ориентированы на то чтобы клиенту было удобно, отличный магазин</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оперативно, многое есть в наличии на складе! Отдельно хотелось бы отметить работу сотрудников, очень толковых ребят — спасибо за помощь в выборе!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Опытные продавцы, знают и разбираются в товаре! Низкие цены!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Консультанты не заставляют долго ждать, сколько раз делал заказ — сразу перезванивают и оформляют доставку!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Адекватные цены, ребята работают быстро и грамотно!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень надежный магазин! Всегда доволен вашим товаром!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Товар всегда соответствует описанию, быстрая доставка, вежливые курьеры</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Рядом с метро, многое из того что есть на сайте имеется в наличии в магазине, если позвонить предупредить о приезде заранее — всегда задержутся и подождут</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Всегда покупаю только у вас, дешевле и качественнее не найти!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Единственный магазин, в котором есть абсолютно все что возможно!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Несколько раз заказывал с доставкой до моего города, ни разу не пожалел</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Покупал, покупаю и буду покупать! Всегда есть из чего выбрать!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доставка всегда в указанный срок, ни разу не приходилось ждать дольше чем требуется</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приемлемые цены, хороший выбор, ни разу не пожалел!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">При возникших вопросах сотрудники всегда готовы подсказать и помочь, очень уважительное отношение к покупателю!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстро оформили заказ, быстро отправили, очень слаженная работа магазина и доставки</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Цены всегда очень радуют, дешевле еще не нашел нигде!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отличный магазин с адекватными ценами, буду покупать у Вас снова!</Data></Cell>
+   </Row>
+   <Row ss:Height="45">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Долго ждал когда в продаже появится нужный мне редкий товар, ни в одном магазине его не было, оставил заявку в «Diada-Arms» — через пару недель позвонили и сообщили что товар появился в наличии! Видно что магазин дорожит своими клиентами! Успехов вам!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Не в первый раз у вас покупаю, все организовано просто отлично и очень оперативно</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Индивидуальный подход к покупателям, сколько раз покупал — всегда консультировали по всем неясным вопросам, приятно быть вашим клиентом!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень подкованные в технических вопросах сотрудники, настоящие профессионалы в своем деле!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстрая реакция на заказ, скорость доставки просто огонь! Не ожидал, буду заказывать снова!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Не к чему придраться, магазин просто супер!!!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Искреннее вам спасибо за помощь с покупкой, ни в одном магазине кроме вашего мне не могли дать такой четкой консультации по товару! Одним словом — профессионалы</Data></Cell>
+   </Row>
+   <Row ss:Height="45">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">При покупке возникло много вопросов по товару, все толково объяснили, когда получил заказ и вновь возникли вопросы — опять обратился к менеджерам, терпеливо отвечали на все вопросы,  подсказали, помогли, спасибо вам!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень удачная покупка, всем крайне доволен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстрая доставка до пункта самовывоза, очень удобно и оперативно</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">В первый раз столкнулся с таким профессиональным подходом к клиенту, приятно удивлен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приветливое и вежливое общение с клиентами, быстрая работа по оформлению и доставке, молодцы!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Магазин оправдал все ожидания — буду советовать друзьям!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстрая доставка, приветливые менеджеры, недорого и надежно</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Единственный магазин, в котором могут проконсультировать по любому товару и помочь с выбором!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно, надежно, быстро! На то чтобы купить понадобилось одна минута!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Хорошее качество товара, отдельное спасибо за надежную аккуратную упаковку — все было доставлено в идеальном состоянии</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Супер обслуживание, очень доволен что купил именно у Вас!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Как всегда все оперативно и четко! Спасибо менеджерам за быструю реакцию и доставку!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оператор быстро перезвонил и оформил заказ, очень удивила пунктуальность доставки, привезли минута в минута в оговоренное время</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все выполнено качественно и быстро!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень хорошие впечатления от магазина, удобно расположен, все что искал оказалось на складе, приветливые сотрудники</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отличный адекватный магазин, давно заказываю у вас, ни разу не было никаких проблем!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Сделал заказ по совету коллеги, он давно покупает в вашем магазине — все вышло как он и говорил, быстро и без сложностей доставили в срок!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Разнообразный выбор товаров, на многое бывают скидки, быстрая доставка — тоже весомый плюс ко всем прочим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приятно удивили ценники, дешевле не нашел нигде! Достойный магазин</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно и качественно, никаких неприятных сюрпризов, второй раз покупаю, рад и доволен вашей работой</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Заказал, быстро перезвонили и уточнили все подробности доставки. Посоветовали к приобретению дополнительные товары, не пожалел</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Работа с клиентами заслуживает похвалы, не ожидал такого хорошего сервиса за такие скромные цены! Приятно удивлен!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Много раз заказывал у вас, на любой мой вопрос у менеджеров всегда есть ответ, хорошо разбираются в том что продают, молодцы</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Рекомендую, надежный магазин, проверенный временем!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Настоятельно советую, отличный магазин, ни разу не подводили ни с товаром, ни с доставкой</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Являюсь вашим постоянным клиентом, лучше магазина нет! Надеюсь что и в дальнейшем будете радовать качеством товаров и ценами</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Часто бывают скидки, нормальные ценники, есть из чего выбирать</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Менеджер быстро перезвонил, обговорили все детали, когда заказ приехал был крайне обрадован тем что выполнили мою просьбу упаковать как можно тщательнее</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">При получении заказа ждал приятный сюрприз — вложили в заказ маленький подарок как постоянному клиенту!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень понравилась работа сотрудников, подсказали что лучше приобрести на мой кошелек и быстро отправили</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">После заказа остались очень приятные впечатления, буду теперь покупать только здесь!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Спасибо за то что помогли сделать отличную покупку!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оперативная работа продавцов, не заставили ждать и волноваться, как это часто бывает в других магазинах. Все на высшем уровне!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Классный магазин, очень радует и ассортиментом, и ценами, и отношением к покупателю!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно покупать через ваш сайт, а когда что-то решил изменить в заказе — просто перезвонил и попросил добавить, консультанты очень вежливо, объяснили как найти магазин, быстро упаковали. Спасибо</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">На складе оставался последний нужный мне товар, попросил отложить его на пару дней, так как раньше забрать не было возможности — пошли мне навстречу, большое вам спасибо!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Полное соответствие товара тому, что было на сайте, остался очень доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Товар пришел такой как я и ожидал, доволен что купил именно у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оперативно перезвонили, доставили за несколько дней, хороший магазин</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень удивила быстрая скорость доставки в мой регион, из других магазинов заказы идут в два раза дольше! Теперь буду покупать только у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Моментально перезвонили и оформили доставку, с такой оперативностью еще не сталкивался!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Быстро собрали и отправили заказ. Курьер с пониманием отнесся к тому что в последний момент пришлось изменить место доставки</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оформили и привезли в ближайший пункт выдачи очень скоро, очень удобная система доставки!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Товар надлежащего качества, не в первый раз покупаю в этом магазине, всегда доволен тем что приобретаю!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Никаких проблем с доставкой не возникло, пришло все то что заказывал, лучший магазин из всех где покупал!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Достойное качество и низкие цены на весь товар, хороший ассортимент</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Квалифицированные менеджеры больше всего порадовали, не ожидал такой прошаренности в товарах, спасибо за помощь!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все что купил — отлично работает, без нареканий, буду заказывать у вас снова</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Только положительные впечатления от вашего магазина! Все всегда приходит в срок и в надлежащем виде!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Не заставляют себя ждать или названивать самому, мгновенная реакция на оформленный заказ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отличный ассортимент, качественная продукция, нормальные цены!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Близко от метро, удобно, приятный магазин, на складе есть все что заявлено в наличии на сайте!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Демократичные цены, удобные варианты доставки, всегда остаюсь доволен тем что у Вас покупаю</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Много товаров со скидкой, таких цен не нашел больше нигде! Индивидуальный подход к каждому клиенту!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все что заказал пришло даже раньше, чем планировалось, приятно удивлен вашей работой</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Уютный магазин, вежливые и терпеливые сотрудники — очень долго не мог определиться с выбором, но в итоге покупкой остался доволен на все 100% !!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оригинальный товар, все очень качественно и надежно, стоит своих денег!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Пунктуально и без навязывания! Очень уважительное отношение к клиентам!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доброжелательные сотрудники магазина, знают о товаре все что необходимо и даже больше! Всегда рад и доволен после покупки в вашем магазине!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобный и простой сайт, есть возможность выбрать разные опции товаров, оперативные менеджеры</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Давно покупаю у вас, ни разу не столкнулся с проблемами, всегда идете навстречу!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Самый лучший магазин, уже давно покупаю все только у вас, ни разу не разочаровали!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">При звонке очень здорово проконсультировали, не ожидал такого профессионализма, супер!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Грамотно! Быстро! Недорого! Очень рад что обратился к вам!</Data></Cell>
+   </Row>
+   <Row ss:Height="45">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Магазин привлек прежде всего ценами, дешевле не нашел еще нигде. При оформлении заказа по телефону удивила высокая квалифицированность сотрудника, что встречается очень редко. Доставка также была быстрой. Спасибо</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Хороший магазин, быстро связались, доставка за 4 дня в мой город! С удовольствием буду покупать у вас впредь!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Большим плюсом является то что у вас есть доставка в Крым, так как это редкость и не все магазины доставляют в наш регион!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Достойный выбор и очень приятные цены! Теперь покупаю только у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все что заказывал всегда было в наличии, ни разу не пришлось ждать</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Магазин расположен в центре и недалеко от метро, очень удобно!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Сотрудники знают свое дело и разбираются в том что продают, отличный магазин</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Сколько раз заказывал у вас — все всегда было очень оперативно, всем доволен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ни разу не разочаровался, отличный сервис, опытные менеджеры!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Менеджеры оперативно реагируют на заказ и отвечают на все вопросы, лучший магазин в своей области</Data></Cell>
+   </Row>
+   <Row ss:Height="45">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Это был мой первый опыт приобретения товаров такого рода через интернет, боялся что придется долго ждать доставку или что-то повредится при транспортировке, но все пришло в отличном состоянии, аккуратно запакованное и быстрее чем рассчитывал. Спасибо!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Всегда есть из чего выбрать, очень хороший магазин. Приятные сотрудники</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобный самовывоз, когда заказывал курьерской доставкой — тоже остался доволен скоростью исполнения</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приличный выбор, удобно оформлять заказ и отслеживать его, всегда информируют по статусу заказа, отличная работа!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Оперативно проконсультировали в чате, посоветовали самый оптимальный вариант в соотношении цена-качество, доволен всем!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Качественное обслуживание, объясняют все что непонятно, уточнили в какое время привезти заказ, слаженно и быстро!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень радует работа и менеджеров, которые принимают заказ, и курьерской службы. Второй раз заказывал, все организовано на высшем уровне!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Прекрасный интернет-магазин с широким выбором, очень советую покупать здесь</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приятно общаться с вашими сотрудниками, весьма компетентные и опытные менеджеры, спасибо им за помощь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно, недорого, своевременная доставка в оговоренные сроки, рад что обратился именно к вам!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Качественная консультация по всем интересующим продуктам, есть из чего выбрать, все очень достойно</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень доволен этим магазином, сколько раз заказывал — ни разу не было никаких проблем или неприятных сюрпризов.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все на высшем уровне — и консультация по товару, и скорость доставки! Молодцы!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Большой выбор, низкие цены, аккуратная доставка, все очень здорово</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Когда покупаю в вашем магазине, всегда уверен в том что все придет в срок и в лучшем виде, ни разу не подвели!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Менеджеры очень добросовестно относятся к клиентам и их пожеланиям, доволен тем что купил у вас</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Самый лучший магазин, самые вменяемые цены, самые толковые и отзывчивые продавцы!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Дружелюбные сотрудники, сколько раз оформлял заказ — всегда оставалось приятное впечатление от общения с ними!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень удобно что к вам можно приехать в любой день так как работаете без выходных. Удобно добираться из любой точки города</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Как постоянному покупателю, было очень приятно получить подарок к очередной покупке! У вас очень профессиональный подход к покупателю!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приятное обслуживание, приветливый персонал, удобная доставка</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Слаженно и быстро работаете, очень доволен вами, спасибо!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Когда приехал за заказом в магазин, неожиданно получил много полезной информации по техническим особенностям товара, видно что сотрудники разбираются в том что продают!</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51180555555555551"/>
+    <Footer x:Margin="0.51180555555555551"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <TabColorIndex>9</TabColorIndex>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>204</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <EnableSelection>NoSelection</EnableSelection>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="127" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="45.75" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="297.75"/>
+   <Row>
+    <Cell><Data ss:Type="String">Павел Васильевич</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Руслан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Владимир</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кирилл</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Макс</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Стрелок</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кирилл Орлов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Игорь Чижов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Марат</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Федор</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Константин</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Леша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сергей Черный</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Рудольф</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Антон Матросов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Никита</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Алексей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Коковин Игорь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Иван Бруслаев</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ник Петров</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Олег Олегович</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Никита Рязанский</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Михаил Соколов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Витя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Виктор Козлов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Олег</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Миша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Саша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ярослав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Юрий Орлов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кир</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Максим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Николай</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Витек</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Костя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Василий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Иван</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Анатолий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кузьма</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Афанасий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Володя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Айдар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Марат</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Доминик</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Артемий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Тема</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Давид</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Денис</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сергей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Андрей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вова</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вовчик</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мирослав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Петя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Петр</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Илья</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Илюха</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дэн</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Игорь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Михаил</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Толян</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ванек</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Богдан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дэйн</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Серега</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Матвей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Эдуард</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Эльдар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ильдар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дмитрий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Димон</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дима</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Павел</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Паша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Стас</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Станислав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Леха</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Святослав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Архип</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Арсений</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Тимофей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Даниил</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Аскар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Борислав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Валентин</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Всеволод</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Герасим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Георгий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Глеб</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дарий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Егор</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Емельян</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ефим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Семен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ян</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Яков</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Умар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Потап</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мик</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Антон</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мирон</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Карен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кир</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Карл</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Фома</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Герман</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Жан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Филипп</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Роб</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Рой</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Слава</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вячеслав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вадим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Владислав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Влад</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Григорий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Гриша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Марк</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Артур</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Борис</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Евгений</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Женя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Коля</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Рома</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Роман</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Захар</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51180555555555551"/>
+    <Footer x:Margin="0.51180555555555551"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <TabColorIndex>9</TabColorIndex>
+   <TopRowVisible>108</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <EnableSelection>NoSelection</EnableSelection>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

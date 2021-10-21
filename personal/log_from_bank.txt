@@ -1,0 +1,2592 @@
+15.02.2021 13:20Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:00.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+15.02.2021 13:21Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:05.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+15.02.2021 13:22Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:05.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+15.02.2021 13:23Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:05.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+15.02.2021 13:25Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:05.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+15.02.2021 13:26Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:05.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+15.02.2021 13:28Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:05.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+15.02.2021 13:29Array
+(
+    [id] => 14999488
+    [signature] => 1DC7321C18449E5672DFF5CEBBE938F0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 246653
+    [status_desc] => Исполнен
+    [status_date] => 2021-02-15 13:20:05.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => gAiWCxBw000014999488WfENJIcTneyyzNzIIcbM
+)
+12.03.2021 19:38Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+12.03.2021 19:39Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+12.03.2021 19:40Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+12.03.2021 19:41Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+12.03.2021 19:42Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+12.03.2021 19:44Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+12.03.2021 19:45Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+12.03.2021 19:46Array
+(
+    [id] => 15113568
+    [signature] => D0480D532B5BE9B0923FDA4F393050BE
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 250832
+    [status_desc] => Исполнен
+    [status_date] => 2021-03-12 19:38:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 759900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => vpJovyPd000015113568RPBfCjuFBypeDIUeUcXt
+)
+17.04.2021 17:27Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:51.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:28Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:29Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:30Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:31Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:32Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:33Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:35Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+17.04.2021 17:36Array
+(
+    [id] => 15288172
+    [signature] => F50D0A6A1DB8FCE55634332E9B3CD184
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 256819
+    [status_desc] => Исполнен
+    [status_date] => 2021-04-17 17:26:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1304200
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => epUMVUOc000015288172qtYKMmcbYmmNIgDDIwLs
+)
+06.05.2021 16:35Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:30.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:36Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:37Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:38Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:39Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:40Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:41Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:42Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+06.05.2021 16:43Array
+(
+    [id] => 15378286
+    [signature] => F6F76E0B09B07D0BE08FE2F6AC875300
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 259941
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-06 16:35:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 154000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => MWzouTTt000015378286HgaPUatBLpefUegDseHY
+)
+21.05.2021 11:34Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:42.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:35Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:36Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:37Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:40Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:41Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:42Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:43Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+21.05.2021 11:44Array
+(
+    [id] => 15448572
+    [signature] => 58EED76F57E7B74229065F384FC71ACC
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 262197
+    [status_desc] => Исполнен
+    [status_date] => 2021-05-21 11:34:49.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 3238000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => wERcScGd000015448572VRpIYEOnEBmsppKfPGjw
+)
+11.06.2021 12:21Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:03.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:22Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:23Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:24Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:25Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:26Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:27Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:28Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:29Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 12:30Array
+(
+    [id] => 15566899
+    [signature] => 5336EFBF9D48BEDB31461AF6143CAAB7
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265324
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 12:21:06.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ApgoXRsl000015566899ChLJUSLQlzsUfmpUeXnR
+)
+11.06.2021 19:16Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:48.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:18Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:19Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:20Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:21Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:22Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:23Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:24Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:25Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+11.06.2021 19:26Array
+(
+    [id] => 15570293
+    [signature] => DBDFA85483E90CCC0D745E360ED522F3
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265179
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-11 19:16:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QbfozuSN000015570293SlurIKXdwfNPzPmmeoWB
+)
+15.06.2021 14:50Array
+(
+    [id] => 15587983
+    [signature] => 1AE6D0DE0F14DF56912C6CB6CC9E2064
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265852
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-15 14:50:26.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1102000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb
+)
+15.06.2021 14:52Array
+(
+    [id] => 15587983
+    [signature] => 1AE6D0DE0F14DF56912C6CB6CC9E2064
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265852
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-15 14:50:36.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1102000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb
+)
+15.06.2021 14:53Array
+(
+    [id] => 15587983
+    [signature] => 1AE6D0DE0F14DF56912C6CB6CC9E2064
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265852
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-15 14:50:36.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1102000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb
+)
+15.06.2021 14:54Array
+(
+    [id] => 15587983
+    [signature] => 1AE6D0DE0F14DF56912C6CB6CC9E2064
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265852
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-15 14:50:36.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1102000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb
+)
+15.06.2021 14:55Array
+(
+    [id] => 15587983
+    [signature] => 1AE6D0DE0F14DF56912C6CB6CC9E2064
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265852
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-15 14:50:36.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1102000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb
+)
+15.06.2021 14:56Array
+(
+    [id] => 15587983
+    [signature] => 1AE6D0DE0F14DF56912C6CB6CC9E2064
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265852
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-15 14:50:36.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1102000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb
+)
+15.06.2021 15:00Array
+(
+    [id] => 15587983
+    [signature] => 1AE6D0DE0F14DF56912C6CB6CC9E2064
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 265852
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-15 14:50:36.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1102000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hdzwuoVW000015587983kdJcdVpsIpgBvvNzeTYb
+)
+16.06.2021 18:33Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:21.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:34Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:35Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:36Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:37Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:38Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:39Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:40Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:41Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+16.06.2021 18:42Array
+(
+    [id] => 15596865
+    [signature] => 65917E2C1695159FB0F07B6E29429097
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266044
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-16 18:33:25.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 134900
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => QXIMbUpE000015596865kORYHsCezpmIeepssLHk
+)
+23.06.2021 12:08Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:27.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:09Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:11Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:12Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:13Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:14Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:15Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:16Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+23.06.2021 12:17Array
+(
+    [id] => 15632417
+    [signature] => A19DF186062614E1962F777DCA6DB99C
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266910
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-23 12:08:35.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 361000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => hCEZKvVv000015632417ZNmKRXcwYmKIDeDmPSss
+)
+25.06.2021 15:08Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:07.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:09Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:10Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:11Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:12Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:13Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:14Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:15Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 15:17Array
+(
+    [id] => 15644423
+    [signature] => E50510B6C94486ABFBE717C9F436FBB0
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 266999
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 15:08:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 5098000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => mKYwQWmy000015644423NvHopmgNrUgNUfBIUKqj
+)
+25.06.2021 16:54Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 16:55Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 16:56Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 16:57Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 16:58Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 16:59Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 17:00Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 17:01Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+25.06.2021 17:02Array
+(
+    [id] => 15645136
+    [signature] => 4F19486473AF8F487F7086E0F25CC833
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267222
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-25 16:53:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 8658100
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => jMPnBgrq000015645136svUmVeGkIvyvsfKKPSws
+)
+28.06.2021 19:02Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:37.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:03Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:04Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:05Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:06Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:08Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:09Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:10Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:11Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+28.06.2021 19:12Array
+(
+    [id] => 15659624
+    [signature] => 4F0E756A76E3626592C0E1F9953A6996
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267480
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-28 19:02:46.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 15916400
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => fCRgKAca000015659624RQUdVebMuyIyyfIvNSkn
+)
+29.06.2021 08:35Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:51.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:37Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:38Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:39Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:40Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:41Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:42Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:43Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:44Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+29.06.2021 08:45Array
+(
+    [id] => 15661524
+    [signature] => D6816056E88430A9266784F395AA5FDA
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267547
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-29 08:35:56.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 637800
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => skleuOJq000015661524dvYtgqiRqezpKyKUBBzl
+)
+30.06.2021 11:42Array
+(
+    [id] => 15668750
+    [signature] => BCEF94267B24536AEB3DFCB26B4D5E22
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267811
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-30 11:42:51.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 2187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU
+)
+30.06.2021 11:44Array
+(
+    [id] => 15668750
+    [signature] => BCEF94267B24536AEB3DFCB26B4D5E22
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267811
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-30 11:42:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 2187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU
+)
+30.06.2021 11:46Array
+(
+    [id] => 15668750
+    [signature] => BCEF94267B24536AEB3DFCB26B4D5E22
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267811
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-30 11:42:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 2187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU
+)
+30.06.2021 11:47Array
+(
+    [id] => 15668750
+    [signature] => BCEF94267B24536AEB3DFCB26B4D5E22
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267811
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-30 11:42:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 2187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU
+)
+30.06.2021 11:48Array
+(
+    [id] => 15668750
+    [signature] => BCEF94267B24536AEB3DFCB26B4D5E22
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267811
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-30 11:42:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 2187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU
+)
+30.06.2021 11:51Array
+(
+    [id] => 15668750
+    [signature] => BCEF94267B24536AEB3DFCB26B4D5E22
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267811
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-30 11:42:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 2187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU
+)
+30.06.2021 11:52Array
+(
+    [id] => 15668750
+    [signature] => BCEF94267B24536AEB3DFCB26B4D5E22
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 267811
+    [status_desc] => Исполнен
+    [status_date] => 2021-06-30 11:42:57.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 2187000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => ynRLozrI000015668750yRrUrjqjFvKPegBIzWiU
+)
+02.07.2021 10:35Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:07.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:36Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:37Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:38Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:39Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:40Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:41Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:42Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:43Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)
+02.07.2021 10:44Array
+(
+    [id] => 15681343
+    [signature] => 6817F11787C02F78D7713F6631F6EFAB
+    [method_name] => 
+    [card_num] => 
+    [order_number] => 268084
+    [status_desc] => Исполнен
+    [status_date] => 2021-07-02 10:35:15.0
+    [refund_amount] => 0
+    [exp_mm] => 
+    [exp_yy] => 
+    [auth_code] => 
+    [amount] => 1175000
+    [status_code] => 3
+    [shop_id] => 36472
+    [ticket] => TxLyTlLv000015681343jUCiVdlbkvKBeIfUPwET
+)

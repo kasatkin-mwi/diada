@@ -1,0 +1,161 @@
+h2.subtitle {
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+#container {
+	margin: 100px auto;
+	width: 700px;
+	color: #555;
+}
+
+/* #countdown_dashboard {
+	height: 110px;
+}
+ */
+.dash {
+	width: 71px;
+	height: 45px;
+	/* background: transparent url('../style/dash.png')/*tpa=http://buy-hit.ru/GRIZZLY-belt/timer/images/dash.png*/ /*0 0 no-repeat; */
+	float: left;
+	margin-left: 15px;
+	position: relative;
+}
+
+.dash .digit:nth-child(2) {
+	background:url("../img/timer_bg1.png") center no-repeat;
+	width: 36px;
+}
+.dash .digit {
+	font-size: 40px;
+	font-family:latoblack;
+	float: left;
+	width: 35px;
+	height: 45px;
+	line-height: 45px;
+	overflow:hidden;
+	text-align: center;
+	color: #000;
+	position: relative;
+	background:url("../img/timer_bg2.png") center no-repeat;
+}
+
+.dash_title1 {
+	right: 68px;
+	top: 8px;
+}
+.dash_title2  {
+	right: 66px;
+	top: 10px;
+}
+.dash_title3 {
+	right: 65px;
+	top: 10px;
+}
+.dash_title4 {
+	right: 63px;
+	top: 12px;
+}
+.dash_title {
+	position: absolute;
+	display: block;
+	font-size: 7px;
+	color: #fff;
+	text-align:right;
+	text-transform: uppercase;
+	font-family:Arial;
+	font-weight:bold;
+	-moz-transform: rotate(-90deg); /* Для Firefox */
+    -ms-transform: rotate(-90deg); /* Для IE */
+    -webkit-transform: rotate(-90deg); /* Для Safari, Chrome, iOS */
+    -o-transform: rotate(-90deg); /* Для Opera */
+    transform: rotate(-90deg);
+	/* height:15px;
+	line-height:15px;
+	width:45px; */
+}
+/* 
+.dash_title1 {
+	position: absolute;
+	display: block;
+	bottom: 0px;
+	right: 35px;
+	font-size: 9pt;
+	color: #555;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.dash_title2 {
+	position: absolute;
+	display: block;
+	bottom: 0px;
+	right: 32px;
+	font-size: 9pt;
+	color: #555;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+} */
+
+.dev_comment {
+	font-size: 14pt;
+	color: #777;
+	text-align: center;
+	font-style: italic;
+	margin: 40px 10px;
+}
+
+#subscribe_form {
+	position: relative;
+} 
+
+#email_field {
+	font-size: 16pt;
+	padding: 6px 10px;
+	width: 300px;
+}
+
+#subscribe_button {
+	font-size: 14pt;
+	color: #333;
+	padding: 4px 8px;
+}
+
+.copyright {
+	font-size: 9pt;
+	color: #333;
+	margin: 40px 0px;
+}
+
+.faded {
+	color: #999;
+}
+
+.form_message {
+	width: 400px;
+	padding: 10px;
+	margin: 15px auto;
+	display: none;
+}
+
+#error_message {
+	background-color: #ffe;
+	border-left: 5px solid #bb3;
+	border-right: 5px solid #bb3;
+	color: #770;
+}
+
+#info_message {
+	background-color: #f0f9ff;
+	border: 1px solid #eef;
+}
+
+#loading {
+	text-align: center;
+	margin: 10px;
+	display: none;
+	position: absolute;
+	width: 100%;
+	top: 60px;
+}
+.detail_similar_items_el_reiting img {display:inline;}

@@ -1,0 +1,933 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Salavey</LastAuthor>
+  <Created>2017-09-21T13:27:54Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7530</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <MaxChange>0.0001</MaxChange>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Font ss:FontName="Calibri" x:CharSet="204" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Лист1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="150" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="45.75" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="564.75"/>
+   <Row>
+    <Cell><Data ss:Type="String">Классная вещь!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отлично! Не пожалел о покупке!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Надежно, качественно, рекомендую</Data></Cell>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+    <Cell ss:StyleID="s22"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Ни разу не пожалел что купил, отличная вещь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень качественная вещь, всем советую!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Купил вчера — сегодня уже заценил, все супер!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">За такую цену очень достойная вещь, рекомендую!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Товар полностью соответствует заявленным характеристикам, советую</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Товар превзошел самые смелые ожидания!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Круто! Очень доволен приобретением!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Круто! Стоит своих денег!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Купил в вашем магазине в подарок брату, теперь подумываю купить для себя :)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Очень достойная вещь, всем рекомендую</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Качественно, недорого, доволен покупкой</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Рекомендую к приобретению!! Очень достойная модель!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Однозначно стоит своих денег!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Класс, все супер!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отличное приобретение, очень доволен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Получил именно то на что рассчитывал, рад покупке</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Недорого для такой качественной вещи, очень удачная покупка!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Достойное качество за весьма адекватную цену</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Как только увидел на сайте, сразу же купил, и очень рад приобретению!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Наконец-то приобрел, не жалею!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Недорого и надежно, купил еще год назад и пользуюсь до сих пор</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Не ожидал такого отличного качества по такой демократичной цене! Крайне доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удачная покупка, всем кто еще не купил — советую!</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Долго искал именно этот товар, в других магазинах либо не было, либо было в два раза дороже! Рад что наконец приобрел его у Вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Получил недавно в качестве подарка, крутая вещь!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">За такие деньги вещь более чем отличная, рекомендую тем кто еще не купил</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Лучшее соотношение цены-качества!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Доволен что купил, полезное приобретение</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Менеджеры магазина порекомендовали приобрести, спасибо за совет, очень доволен что купил</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Отличная штука!! Качественная, покупал еще в прошлом году, пользуюсь до сих пор!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Пользуюсь год, полет нормальный :) Качество на высоте!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Надежность и практичность, отличная цена!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Купил несколько месяцев назад, работает безупречно</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Все четко работает, никаких нареканий!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Качество класс!! Рекомендую!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Супер!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Порадовала цена, по сравнению с другими магазинами весьма демократично</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно и качественно, никаких неприятных сюрпризов, второй раз покупаю, рад и доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">То что нужно! Очень рад что купил, советую</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Нареканий нет, стоит своих денег и даже больше</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приобрел эту вещь недавно, хочу сказать что лучше альтернативы за такую цену не найти!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">За потраченные деньги все круто! Спасибо что посоветовали именно этот товар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приятное приобретение, оказалось даже лучше чем рассчитывал!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Недорого, удобно, качественно!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Стоит своих денег, нареканий к производителю нет</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Удобно в использовании, качественно сделано, доволен покупкой!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Качество изготовления на высоте! Цена более чем приемлемая!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Не так давно получил в подарок. Очень рад. Рекомендую</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Купил на прошлой неделе, качество превосходит самые смелые ожидания!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Зачетная вещь!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Просто супер! Полный восторг! Выглядит еще круче чем на картинке!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Долго ждал когда наконец снова появится в продаже! Стоит ожидания и своих денег, рад что купил</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Купил сегодня — вещь просто бомба!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Приобретение крайне порадовало, альтернативу за такую скромную цену найти нереально, советую!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Лучшая вещь в своем роде, не жалко никаких денег!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Просто отлично!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s21"><Data ss:Type="String">Шикарно, не сожалению о покупке!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Лучше варианта за такие деньги не найти! Хорошая вещь!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Отличный мужской подарок!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Спасибо вашим менеджерам что посоветовали приобрести, хорошая вещь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Лучшее что можно найти в данной ценовой категории</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Советую всем! Классная вещь!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Не пожалел что купил, качественная штука</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Купил недавно, супер!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Качественно сделано, не к чему придраться!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">По цене и качеству золотая середина! Очень рекомендую</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Классная штука, рекомендую!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Посоветовал друг, долго сомневался, в итоге приобрел, теперь ничуть не жалею</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Недорого и качественно!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вещь просто отличная! Крайне доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Очень удобно и недорого, добротно сделано</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Доволен и ценой, и качеством, и функциональностью</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Лучшее из того что можно приобрести за такую цену, не пожалеете о своем выборе!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Давно пользуюсь, пока все очень нравится, недостатков не обнаружено</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мне нравится! Качественно и недорого!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Качественная вещь, спасибо  за помощь в приобретении!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Без сомнений лучшее что только можно приобрести в данной ценовой категории!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Все очень нравится, нареканий нет!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Качество бесспорно на высоком уровне!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Недостатков мною не обнаружено, одни достоинства!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Супер вещь! Всем кто еще не купил — советую!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Классная вещь! Рекомендую каждому! Лучше не найдете!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Нравится все, особенно цена! :)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Пять баллов! Круто!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Замечательная штука, купил год назад — до сих пор радует!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Все очень хорошо, доволен тем что купил данную вещь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Лучшей альтернативы найти сложно, во всех смыслах крутая штука</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Чрезвычайно рад что купил, не ожидал такого превосходного качества!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Подарили другу — остался очень доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сплошные преимущества, надежно! Покупкой безусловно доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Определенно данная покупка стоила своих денег, и даже больше!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Обалденная вещь!!! Десять из десяти!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Удобно, качественно, недорого — одни преимущества!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Хорошая вещь, не пожалеете!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Подарил другу — теперь думаю купить себе!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Шикарное качество, не пожалел!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Искал во всех магазинах и был рад когда наконец нашел у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Нравится все: и качество, и надежность, и относительно демократичная цена</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Качество исполнения на десять из десяти!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Самая удачная покупка за последнее время, ни капли не жалею!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сразу купил и себе, и другу в подарок — стоящая вещь!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Приятно удивило качество!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Пользуюсь уже несколько месяцев и очень доволен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Отличный вариант за такие деньги! Очень радует!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">На мой взгляд один из лучших вариантов в этой ценовой категории, рекомендую всем</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Потрясающая модель! Качество на отлично!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Добротно сделано, вещица огонь!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Хорошая штучка, меня очень радует!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Забойная штука!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Крайне приличное качество, сделано на совесть!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Превосходное качество, не пожалел!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Крутая штука, купил полгода назад — до сих пор радует!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Недорого, качественно, рекомендую каждому!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Супер! Очень доволен приобретением!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Весьма адекватная цена, качество отменное!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Купил не так давно, не жалею!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Приобрел сегодня — вещь просто класс!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Отличное приобретение, альтернативу за такую скромную цену найти крайне сложно, советую!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Лучшее что можно найти за такие деньги!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Обалденная штука, купил год назад — служит до сих пор!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Чрезвычайно доволен, не ожидал такого превосходного качества!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Одни плюсы, качественно! Приобретением безусловно доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Достойная вещь, не пожалеете!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Весьма недурственно, раньше аналоги радовали куда меньше!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Спасибо за прекрасную вещь, долго искал — нашел только у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Качество отменное, рекомендую каждому</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Крутая вещь, супер!!!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Классно! Зачет! Лучше не найдете!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Сразу купил и себе, и другу в подарок — стоящая вещь!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Супер штуковина, купил и ни капли не жалею!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Изумительное качество!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Отлично!!! Я в восторге!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Купил недавно, крайне доволен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Доволен тем что купил! Отличный вариант за такие деньги!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Штуковина супер! Качество на отлично!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Просто вау, сделано на совесть!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Превосходное, прекрасно, не жалею что купил у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Все круто! Доволен и рад!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Достойно и недорого!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Полное соответствие товара тому, что было на сайте, остался очень доволен!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Товар пришел такой как я и ожидал, доволен что купил именно у вас!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Вещь надлежащего качества, остался доволен, спасибо!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Отлично работает, без нареканий!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Только положительные впечатления от данной покупки!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Оригинальный товар, все очень качественно и надежно, стоит своих денег!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Ни разу не разочаровался, хорошо сделано!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Великолепно! Зачет!</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51180555555555551"/>
+    <Footer x:Margin="0.51180555555555551"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <TabColorIndex>9</TabColorIndex>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <EnableSelection>NoSelection</EnableSelection>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Лист2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="127" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="45.75" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="297.75"/>
+   <Row>
+    <Cell><Data ss:Type="String">Павел Васильевич</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Руслан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Владимир</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кирилл</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Макс</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Стрелок</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кирилл Орлов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Игорь Чижов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Марат</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Федор</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Константин</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Леша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сергей Черный</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Рудольф</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Антон Матросов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Никита</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Алексей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Коковин Игорь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Иван Бруслаев</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ник Петров</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Олег Олегович</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Никита Рязанский</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Михаил Соколов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Витя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Виктор Козлов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s22"><Data ss:Type="String">Олег</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Миша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Саша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ярослав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Юрий Орлов</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кир</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Максим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Николай</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Витек</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Костя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Василий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Иван</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Анатолий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кузьма</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Афанасий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Володя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Айдар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Марат</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Доминик</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Артемий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Тема</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Давид</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Денис</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сергей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Андрей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вова</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вовчик</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мирослав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Петя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Петр</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Илья</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Илюха</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дэн</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Игорь</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Михаил</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Толян</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ванек</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Богдан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дэйн</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Серега</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Матвей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Эдуард</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Эльдар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ильдар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дмитрий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Димон</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дима</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Павел</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Паша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Стас</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Станислав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Леха</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Святослав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Архип</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Арсений</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Тимофей</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Даниил</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Аскар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Борислав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Валентин</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Всеволод</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Герасим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Георгий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Глеб</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Дарий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Егор</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Емельян</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ефим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Семен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ян</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Яков</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Умар</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Потап</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мик</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Антон</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Мирон</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Карен</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Кир</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Карл</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Фома</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Герман</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Жан</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Филипп</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Сим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Роб</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Рой</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Слава</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вячеслав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Вадим</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Владислав</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Влад</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Григорий</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Гриша</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Марк</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Артур</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Борис</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Евгений</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Женя</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Коля</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Рома</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Роман</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Захар</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51180555555555551"/>
+    <Footer x:Margin="0.51180555555555551"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <TabColorIndex>9</TabColorIndex>
+   <TopRowVisible>54</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>7</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <EnableSelection>NoSelection</EnableSelection>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

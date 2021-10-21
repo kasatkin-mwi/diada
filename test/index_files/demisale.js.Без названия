@@ -1,0 +1,186 @@
+/**
+ * Created by pav on 14.03.16.
+ */
+(function () {
+    var service_url = '//socadviser.ru/v2'; // TODO  demisale service URL
+    var campaign_id = null;
+    var banner_index = '1';
+    var post_key = null;
+    var siteUrl = null;
+    var siteHost = null;
+
+    // EXECUTION SCRIPT
+    var W = window;
+    if (!('campaingid' in W._ds)) {
+        return;
+    }
+    campaign_id = W._ds['campaingid'];
+    banner_index = W._ds['banner'];
+
+    post_key = createPostKey();
+    siteUrl = getCurrentUrl();
+    siteHost = window.location.hostname;
+
+    function getParameterByName(name) {
+        var url = window.location.href;
+        name = name.replace(/[\[\]]/g, "\\$&");
+        var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)", "i"),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    function onAction(metrics, value) {
+        var XHR = ("onload" in new XMLHttpRequest()) ? XMLHttpRequest : XDomainRequest;
+        var xhr = new XHR();
+        xhr.withCredentials = true;
+
+        var url = [];
+        url.push(service_url + '/stat?');
+        url.push('_dsdm=', siteHost);
+        url.push('&_dsci=', campaign_id);
+        url.push('&_dsmi=', metrics);
+        url.push('&_dsmv=', value);
+
+        var aux = getParameterByName("post_key");
+        if (aux && aux.length > 0) {
+            url.push('&_pstk=', aux);
+            url.push('&_rfrr=', encodeURIComponent(document.referrer));
+        }
+
+        xhr.open('GET', url.join(''), true);
+        xhr.onload = function () {
+            //console.log(this.responseText);
+        };
+        xhr.onerror = function () {
+            //console.error('Ошибка ' + this.status);
+        };
+        xhr.send();
+    }
+
+    function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max - min + 1) + min);
+    }
+
+    function getCurrentUrl() {
+        var siteUrl = window.location.href;
+        if (window.location.search) {
+            return siteUrl + '&' + 'post_key=' + post_key;
+        } else {
+            return siteUrl + '?' + 'post_key=' + post_key;
+        }
+    }
+
+    function createPostKey() {
+        return campaign_id + '' + Date.now() + '' + getRandomInt(1000, 9999);
+    }
+
+    function clickBannerEvent() {
+        var div_id = 'sale_action_' + campaign_id;
+        if (!document.getElementById('' + div_id)) {
+
+            var banner = new Image();
+            banner.addEventListener("load", function () {
+
+                var wait_img = document.createElement('img');
+                wait_img.src = 'data:image/gif;base64,R0lGODlhLQAtALMKAFxcXIqKiqGhoXNzc8/Pz0VFRbu7uy4uLubm5gAAAP///wAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh/wtYTVAgRGF0YVhNUDw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QTgwRDQzMTEzRDBCMTFFMjlFMDFFMzgyRDUyMjBFOEUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QTgwRDQzMTIzRDBCMTFFMjlFMDFFMzgyRDUyMjBFOEUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBODBENDMwRjNEMEIxMUUyOUUwMUUzODJENTIyMEU4RSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBODBENDMxMDNEMEIxMUUyOUUwMUUzODJENTIyMEU4RSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn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';
+                wait_img.style.position = 'fixed';
+                wait_img.style.left = '50%';
+                wait_img.style.right = '50%';
+                wait_img.style.top = '50%';
+
+                var background = document.createElement('div');
+                background.style.position = "fixed";
+                background.style.top = "0";
+                background.style.left = "0";
+                background.style.height = "100%";
+                background.style.width = "100%";
+                background.style.backgroundColor = "rgba(200, 200, 200, 0.7)";
+                background.style.zIndex = "88888";
+
+                var div = document.createElement('div');
+                div.id = div_id;
+                div.style.position = "fixed";
+                div.style.left = "0";
+                div.style.right = "0";
+                div.style.top = "0";
+                div.style.bottom = "0";
+                div.style.margin = "auto";
+                div.style.zIndex = "99999";
+
+                var iframe = document.createElement('iframe');
+                iframe.src = service_url + '/widget?site_url=' + encodeURIComponent(siteUrl) + '&post_key=' + post_key + '&campaign_id=' + campaign_id + '&banner=' + banner_index;
+                iframe.style.width = "100%";
+                iframe.style.height = "100%";
+                iframe.style.border = "none";
+
+                div.appendChild(iframe);
+                background.appendChild(div);
+                background.appendChild(wait_img);
+                document.body.appendChild(background);
+
+                iframe.addEventListener("load", function () {
+                    var closeButton = document.createElement('a');
+                    closeButton.style.position = 'absolute';
+                    closeButton.style.top = '10px';
+                    closeButton.style.right = '10px';
+                    closeButton.style.cursor = 'pointer';
+                    closeButton.style.color = '#fff';
+                    closeButton.style.fontSize = '25px';
+                    closeButton.style.lineHeight = '1';
+                    closeButton.style.border = '1px solid #AEAEAE';
+                    closeButton.style.background = '#605F61';
+                    closeButton.style.zIndex = '999999';
+                    closeButton.style.textDecoration = 'none';
+                    closeButton.innerHTML = '&#10006;';
+                    div.appendChild(closeButton);
+                    closeButton.addEventListener('click', function () {
+                        iframe.remove();
+                        closeButton.remove();
+                        div.remove();
+                        background.remove();
+                    }, true);
+                    background.addEventListener('click', function () {
+                        iframe.remove();
+                        closeButton.remove();
+                        div.remove();
+                        background.remove();
+                    }, true);
+
+                    div.style.display = 'block';
+                    wait_img.remove();
+
+                });
+
+                var divWidth = 400;
+                var buttonContainerHeight = 60; // buttons container height, thet append after image in widget
+                var additionalHeightForNonScroll = 10; //additional space for remove scroll, overflow:hidden not allow, because some page may be small height and banner must be with scroll
+                var aspect = divWidth / banner.width;
+                div.style.width = divWidth + "px";
+                div.style.height = Math.round(banner.height * aspect + buttonContainerHeight + additionalHeightForNonScroll).toString() + 'px';
+                div.style.maxHeight = '90%';
+            });
+            banner.src = service_url + "/banner/" + campaign_id + "/" + banner_index + ".jpg"; // this must be done AFTER setting onload
+
+        }
+    }
+
+    var readyStateCheckInterval = setInterval(function () {
+        if (document.readyState === 'complete') {
+            clearInterval(readyStateCheckInterval);
+            var banners = document.getElementsByClassName('demisale-campaign-banner');
+            if (!banners) {
+                return;
+            }
+            for (var i = 0, len = banners.length; i < len; i++) {
+                banners[i].addEventListener('click', clickBannerEvent, true);
+            }
+        }
+    }, 10);
+
+    if ('pageviews' in W._ds) {
+        onAction('pageview', 1);
+    }
+
+})();

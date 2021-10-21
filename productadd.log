@@ -1,0 +1,1625 @@
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 131887
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 3621 2001 
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] =>  
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 25356
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 0067 1001 
+        )
+
+)
+Array
+(
+    [CATALOG.XML_ID] => Array
+        (
+            [CODE] => CATALOG.XML_ID
+            [ID] => 
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+            [SORT] => 100
+            [NAME] => Catalog XML_ID
+        )
+
+    [PRODUCT.XML_ID] => Array
+        (
+            [CODE] => PRODUCT.XML_ID
+            [ID] => 
+            [VALUE] => 131887
+            [SORT] => 100
+            [NAME] => Product XML_ID
+        )
+
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 3621 2001 
+        )
+
+)
+Array
+(
+    [CATALOG.XML_ID] => Array
+        (
+            [CODE] => CATALOG.XML_ID
+            [ID] => 
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+            [SORT] => 100
+            [NAME] => Catalog XML_ID
+        )
+
+    [PRODUCT.XML_ID] => Array
+        (
+            [CODE] => PRODUCT.XML_ID
+            [ID] => 
+            [VALUE] => 25356
+            [SORT] => 100
+            [NAME] => Product XML_ID
+        )
+
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 0067 1001 
+        )
+
+)
+Array
+(
+    [QUANTITY] => 1
+    [ID] => 1238783
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] =>  
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] =>  
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 25356
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Шарики ВВ Выстрел 1000 шт.
+    [OFFER_ID] => 25356
+    [PRODUCT_XML_ID] => 25356
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=25356&lang=ru&find_section_section=192&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 78
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/822/80_80_1/shariki-vv-vystrel-1000-sht.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/snaryady/shariki/b-kalibr-4-5/shariki-vv-vystrel-1000-sht/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 25356
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 0067 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 25356
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 0067 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 14578
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Баллон CO2 Borner 12 гр.+10% (10 шт.)
+    [OFFER_ID] => 14578
+    [PRODUCT_XML_ID] => 14578
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=14578&lang=ru&find_section_section=218&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 282
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/d82/80_80_1/121.JPG
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/aksessuary/ballonchiki_i_adaptery/ballon-co2-borner-12-gr-10-sht-/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 14578
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 8151 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 14578
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 8151 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 2678
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Мишень Медведь (50 шт)
+    [OFFER_ID] => 2678
+    [PRODUCT_XML_ID] => 2678
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=2678&lang=ru&find_section_section=187&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 142
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/e4e/80_80_1/287759064_w0_h0_dsc_2662.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/aksessuary/mishen_medved_50_sht/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 2678
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 3154 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 2678
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 3154 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 63600
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Пневматический пистолет Stalker SPM (ПМ)
+    [OFFER_ID] => 63600
+    [PRODUCT_XML_ID] => 63600
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=63600&lang=ru&find_section_section=230&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 13
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/ab9/80_80_1/82626.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/pnevmaticheskie_pistolety/st-spm-analog-pm-k-4-5-mm-plastik-120-m-s-chernyy-250-shar-karton-koro/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 63600
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 9630  200 1 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 63600
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 9630  200 1 
+        )
+
+)
+Array
+(
+    [MODULE] => catalog
+    [PRODUCT_ID] => 63600
+    [DATE_INSERT] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.922172
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [DATE_UPDATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.922172
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [LID] => s1
+    [SORT] => 400
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [NAME] => Пневматический пистолет Stalker SPM (ПМ)
+    [QUANTITY] => 1
+    [PRICE] => 2480
+    [BASE_PRICE] => 2980
+    [DISCOUNT_PRICE] => 500
+    [CURRENCY] => RUB
+    [CUSTOM_PRICE] => N
+    [VAT_INCLUDED] => Y
+    [MEASURE_NAME] => шт
+    [DETAIL_PAGE_URL] => /catalog/pnevmaticheskie_pistolety/st-spm-analog-pm-k-4-5-mm-plastik-120-m-s-chernyy-250-shar-karton-koro/
+    [CAN_BUY] => Y
+    [PRICE_TYPE_ID] => 1
+    [PRODUCT_PRICE_ID] => 12731
+    [MEASURE_CODE] => 796
+    [BARCODE_MULTI] => N
+    [WEIGHT] => 0
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_XML_ID] => 63600
+    [NOTES] => базовый
+    [VAT_RATE] => 0
+    [ORDER_ID] => 156271
+    [FUSER_ID] => 25461076
+    [PROPS] => Array
+        (
+            [CATALOG.XML_ID] => Array
+                (
+                    [CODE] => CATALOG.XML_ID
+                    [ID] => 
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                    [SORT] => 100
+                    [NAME] => Catalog XML_ID
+                )
+
+            [PRODUCT.XML_ID] => Array
+                (
+                    [CODE] => PRODUCT.XML_ID
+                    [ID] => 
+                    [VALUE] => 63600
+                    [SORT] => 100
+                    [NAME] => Product XML_ID
+                )
+
+            [0] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 9630  200 1 
+                )
+
+        )
+
+)
+Array
+(
+    [CATALOG.XML_ID] => Array
+        (
+            [CODE] => CATALOG.XML_ID
+            [ID] => 
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+            [SORT] => 100
+            [NAME] => Catalog XML_ID
+        )
+
+    [PRODUCT.XML_ID] => Array
+        (
+            [CODE] => PRODUCT.XML_ID
+            [ID] => 
+            [VALUE] => 63600
+            [SORT] => 100
+            [NAME] => Product XML_ID
+        )
+
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 9630  200 1 
+        )
+
+)
+Array
+(
+    [MODULE] => catalog
+    [PRODUCT_ID] => 14578
+    [DATE_INSERT] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.922660
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [DATE_UPDATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.922660
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [LID] => s1
+    [SORT] => 200
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [NAME] => Баллон CO2 Borner 12 гр.+10% (10 шт.)
+    [QUANTITY] => 1
+    [PRICE] => 290
+    [BASE_PRICE] => 350
+    [DISCOUNT_PRICE] => 60
+    [CURRENCY] => RUB
+    [CUSTOM_PRICE] => N
+    [VAT_INCLUDED] => Y
+    [MEASURE_NAME] => шт
+    [DETAIL_PAGE_URL] => /catalog/aksessuary/ballonchiki_i_adaptery/ballon-co2-borner-12-gr-10-sht-/
+    [CAN_BUY] => Y
+    [PRICE_TYPE_ID] => 1
+    [PRODUCT_PRICE_ID] => 5713
+    [MEASURE_CODE] => 796
+    [BARCODE_MULTI] => N
+    [WEIGHT] => 0
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_XML_ID] => 14578
+    [NOTES] => базовый
+    [VAT_RATE] => 0
+    [ORDER_ID] => 156271
+    [FUSER_ID] => 25461076
+    [PROPS] => Array
+        (
+            [CATALOG.XML_ID] => Array
+                (
+                    [CODE] => CATALOG.XML_ID
+                    [ID] => 
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                    [SORT] => 100
+                    [NAME] => Catalog XML_ID
+                )
+
+            [PRODUCT.XML_ID] => Array
+                (
+                    [CODE] => PRODUCT.XML_ID
+                    [ID] => 
+                    [VALUE] => 14578
+                    [SORT] => 100
+                    [NAME] => Product XML_ID
+                )
+
+            [0] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 8151 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [CATALOG.XML_ID] => Array
+        (
+            [CODE] => CATALOG.XML_ID
+            [ID] => 
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+            [SORT] => 100
+            [NAME] => Catalog XML_ID
+        )
+
+    [PRODUCT.XML_ID] => Array
+        (
+            [CODE] => PRODUCT.XML_ID
+            [ID] => 
+            [VALUE] => 14578
+            [SORT] => 100
+            [NAME] => Product XML_ID
+        )
+
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 8151 1001 
+        )
+
+)
+Array
+(
+    [MODULE] => catalog
+    [PRODUCT_ID] => 25356
+    [DATE_INSERT] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.923151
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [DATE_UPDATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.923151
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [LID] => s1
+    [SORT] => 100
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [NAME] => Шарики ВВ Выстрел 1000 шт.
+    [QUANTITY] => 1
+    [PRICE] => 240
+    [BASE_PRICE] => 320
+    [DISCOUNT_PRICE] => 80
+    [CURRENCY] => RUB
+    [CUSTOM_PRICE] => N
+    [VAT_INCLUDED] => Y
+    [MEASURE_NAME] => шт
+    [DETAIL_PAGE_URL] => /catalog/snaryady/shariki/b-kalibr-4-5/shariki-vv-vystrel-1000-sht/
+    [CAN_BUY] => Y
+    [PRICE_TYPE_ID] => 1
+    [PRODUCT_PRICE_ID] => 9119
+    [MEASURE_CODE] => 796
+    [BARCODE_MULTI] => N
+    [WEIGHT] => 0
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_XML_ID] => 25356
+    [NOTES] => базовый
+    [VAT_RATE] => 0
+    [ORDER_ID] => 156271
+    [FUSER_ID] => 25461076
+    [PROPS] => Array
+        (
+            [CATALOG.XML_ID] => Array
+                (
+                    [CODE] => CATALOG.XML_ID
+                    [ID] => 
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                    [SORT] => 100
+                    [NAME] => Catalog XML_ID
+                )
+
+            [PRODUCT.XML_ID] => Array
+                (
+                    [CODE] => PRODUCT.XML_ID
+                    [ID] => 
+                    [VALUE] => 25356
+                    [SORT] => 100
+                    [NAME] => Product XML_ID
+                )
+
+            [0] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 0067 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [CATALOG.XML_ID] => Array
+        (
+            [CODE] => CATALOG.XML_ID
+            [ID] => 
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+            [SORT] => 100
+            [NAME] => Catalog XML_ID
+        )
+
+    [PRODUCT.XML_ID] => Array
+        (
+            [CODE] => PRODUCT.XML_ID
+            [ID] => 
+            [VALUE] => 25356
+            [SORT] => 100
+            [NAME] => Product XML_ID
+        )
+
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 0067 1001 
+        )
+
+)
+Array
+(
+    [MODULE] => catalog
+    [PRODUCT_ID] => 2678
+    [DATE_INSERT] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.939577
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [DATE_UPDATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:46.939577
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [LID] => s1
+    [SORT] => 300
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [NAME] => Мишень Медведь (50 шт)
+    [QUANTITY] => 1
+    [PRICE] => 150
+    [BASE_PRICE] => 150
+    [DISCOUNT_PRICE] => 0
+    [CURRENCY] => RUB
+    [CUSTOM_PRICE] => N
+    [VAT_INCLUDED] => Y
+    [MEASURE_NAME] => шт
+    [DETAIL_PAGE_URL] => /catalog/aksessuary/mishen_medved_50_sht/
+    [CAN_BUY] => Y
+    [PRICE_TYPE_ID] => 1
+    [PRODUCT_PRICE_ID] => 1909
+    [MEASURE_CODE] => 796
+    [BARCODE_MULTI] => N
+    [WEIGHT] => 0
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_XML_ID] => 2678
+    [NOTES] => базовый
+    [VAT_RATE] => 0
+    [ORDER_ID] => 156271
+    [FUSER_ID] => 25461076
+    [PROPS] => Array
+        (
+            [CATALOG.XML_ID] => Array
+                (
+                    [CODE] => CATALOG.XML_ID
+                    [ID] => 
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                    [SORT] => 100
+                    [NAME] => Catalog XML_ID
+                )
+
+            [PRODUCT.XML_ID] => Array
+                (
+                    [CODE] => PRODUCT.XML_ID
+                    [ID] => 
+                    [VALUE] => 2678
+                    [SORT] => 100
+                    [NAME] => Product XML_ID
+                )
+
+            [0] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 3154 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [CATALOG.XML_ID] => Array
+        (
+            [CODE] => CATALOG.XML_ID
+            [ID] => 
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+            [SORT] => 100
+            [NAME] => Catalog XML_ID
+        )
+
+    [PRODUCT.XML_ID] => Array
+        (
+            [CODE] => PRODUCT.XML_ID
+            [ID] => 
+            [VALUE] => 2678
+            [SORT] => 100
+            [NAME] => Product XML_ID
+        )
+
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 3154 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 131766
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [QUANTITY] => 1
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_XML_ID] => 131766
+    [DETAIL_PAGE_URL] => /catalog/uslugi/promotovary/m-cher-10sht/
+    [BARCODE_MULTI] => N
+    [WEIGHT] => 0
+    [DIMENSIONS] => Array
+        (
+            [WIDTH] => 
+            [HEIGHT] => 
+            [LENGTH] => 
+        )
+
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MEASURE_CODE] => 796
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 131766
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 5911 2001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 131766
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 5911 2001 
+        )
+
+)
+Array
+(
+    [MODULE] => catalog
+    [PRODUCT_ID] => 131766
+    [DATE_INSERT] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:51.190192
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [DATE_UPDATE] => Bitrix\Main\Type\DateTime Object
+        (
+            [value:protected] => DateTime Object
+                (
+                    [date] => 2019-09-05 14:05:51.190192
+                    [timezone_type] => 3
+                    [timezone] => Europe/Moscow
+                )
+
+        )
+
+    [LID] => s1
+    [SORT] => 400
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [NAME] => Мишень черная (10шт)
+    [QUANTITY] => 1
+    [CURRENCY] => RUB
+    [VAT_INCLUDED] => Y
+    [PRODUCT_PRICE_ID] => 15552
+    [NOTES] => базовый
+    [VAT_RATE] => 0
+    [PRICE_TYPE_ID] => 1
+    [BASE_PRICE] => 50
+    [PRICE] => 50
+    [DISCOUNT_PRICE] => 0
+    [CAN_BUY] => Y
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_XML_ID] => 131766
+    [DETAIL_PAGE_URL] => /catalog/uslugi/promotovary/m-cher-10sht/
+    [MEASURE_NAME] => шт
+    [MEASURE_CODE] => 796
+    [BARCODE_MULTI] => N
+    [WEIGHT] => 0
+    [DIMENSIONS] => Array
+        (
+            [WIDTH] => 
+            [HEIGHT] => 
+            [LENGTH] => 
+        )
+
+    [FUSER_ID] => 25461187
+    [PROPS] => Array
+        (
+            [CATALOG.XML_ID] => Array
+                (
+                    [CODE] => CATALOG.XML_ID
+                    [ID] => 
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                    [SORT] => 
+                    [NAME] => Catalog XML_ID
+                )
+
+            [PRODUCT.XML_ID] => Array
+                (
+                    [CODE] => PRODUCT.XML_ID
+                    [ID] => 
+                    [VALUE] => 131766
+                    [SORT] => 
+                    [NAME] => Product XML_ID
+                )
+
+            [ITEM_CODE] => Array
+                (
+                    [CODE] => ITEM_CODE
+                    [ID] => 
+                    [VALUE] => 5911 2001 
+                    [SORT] => 
+                    [NAME] => Код товара
+                )
+
+            [0] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 5911 2001 
+                )
+
+        )
+
+)
+Array
+(
+    [CATALOG.XML_ID] => Array
+        (
+            [CODE] => CATALOG.XML_ID
+            [ID] => 
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+            [SORT] => 
+            [NAME] => Catalog XML_ID
+        )
+
+    [PRODUCT.XML_ID] => Array
+        (
+            [CODE] => PRODUCT.XML_ID
+            [ID] => 
+            [VALUE] => 131766
+            [SORT] => 
+            [NAME] => Product XML_ID
+        )
+
+    [ITEM_CODE] => Array
+        (
+            [CODE] => ITEM_CODE
+            [ID] => 
+            [VALUE] => 5911 2001 
+            [SORT] => 
+            [NAME] => Код товара
+        )
+
+    [0] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 5911 2001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 60075
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Кольца Patriot на ласт. высокие BH-RSL25/21 (000155)
+    [OFFER_ID] => 60075
+    [PRODUCT_XML_ID] => 60075
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=60075&lang=ru&find_section_section=258&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 44
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/242/80_80_1/vysokiy.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/optika/000155/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 60075
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 4111 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 60075
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 4111 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 58464
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Оптический прицел Patriot 4-16x40 AOEG
+    [OFFER_ID] => 58464
+    [PRODUCT_XML_ID] => 58464
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=58464&lang=ru&find_section_section=1529&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 13
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/3c7/80_80_1/opticheskiy_pritsel_kandar_3_9x40_aomeg2_anons.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/optika/gun-sights/patriot-kitay/opticheskiy-pritsel-patriot-4-16x40-aoeg-koltsa-v-podarok/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 58464
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 1035 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 58464
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 1035 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 27016
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Переходник для штуцера  винтовки Ataman,Kral, Cricket, Edgun, Hatsan выход под квик  (с внутренней резьбой G1/8 - внешний выход под Квик )
+    [OFFER_ID] => 27016
+    [PRODUCT_XML_ID] => 27016
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=27016&lang=ru&find_section_section=265&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";s:1:"0";s:6:"HEIGHT";s:1:"0";s:6:"LENGTH";s:1:"0";}
+    [AVAILABLE] => 21
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 0
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/7c4/80_80_1/Perekhodnik-dlya-nakachki-vintovki-Ataman_-Cricket_-Edgun_-Hatsan-nasosom-Borner-_s-naruzhnoy-rezboy-G1-8-_-vnutrenney-G5-8_.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/aksessuary/pcp_ballony_nasosy_i_zap_st/ataman-cricket-edgun-hatsan-g18g58/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 27016
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 9741 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 27016
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 9741 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 25577
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Набор для чистки ROTCHI (25 кал. / 6,35 кал.)
+    [OFFER_ID] => 25577
+    [PRODUCT_XML_ID] => 25577
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=25577&lang=ru&find_section_section=193&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 13
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/8d2/80_80_1/Nabor-dlya-chistki-ROTCHI-_25-kal._.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/aksessuary/sredstva_po_ukhodu_za_oruzhiem/rotchi-25-kal/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 25577
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 6527 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 25577
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 6527 1001 
+        )
+
+)
+Array
+(
+    [PRODUCT_ID] => 5203
+    [PRODUCT_PROVIDER_CLASS] => \Bitrix\Catalog\Product\CatalogProvider
+    [OFFERS_IBLOCK_ID] => 0
+    [NAME] => Пули пневматические JSB Diabolo Exact King 6.35 мм 1.645 грамма (350 шт.)
+    [OFFER_ID] => 5203
+    [PRODUCT_XML_ID] => 5203
+    [CATALOG_XML_ID] => 917540e9c1789390f3220a934a9bc242
+    [PRODUCT_PROPS_VALUES] => Array
+        (
+        )
+
+    [EDIT_PAGE_URL] => iblock_element_edit.php?IBLOCK_ID=1&type=ibCatalog&ID=5203&lang=ru&find_section_section=359&WF=Y
+    [DIMENSIONS] => a:3:{s:5:"WIDTH";N;s:6:"HEIGHT";N;s:6:"LENGTH";N;}
+    [AVAILABLE] => 82
+    [WEIGHT] => 0
+    [BARCODE_MULTI] => N
+    [SET_ITEMS] => Array
+        (
+        )
+
+    [IS_SET_ITEM] => N
+    [VAT_ID] => 
+    [IS_SET_PARENT] => N
+    [PICTURE_URL] => /upload/resize_cache/iblock/ccc/80_80_1/ccc6b651ebf309e5324b53efbafc7f5f.jpg
+    [STORES] => Array
+        (
+        )
+
+    [MEASURE_TEXT] => шт
+    [MEASURE_CODE] => 796
+    [MEASURE_RATIO] => 1
+    [QUANTITY] => 1
+    [DETAIL_PAGE_URL] => /catalog/snaryady/puli/p-kalibr-6-35/jsb-chekhiya/puli-pnevmaticheskie-jsb-diabolo-exact-king-6-35-mm-1-645-gramma-350-sht-/
+    [TYPE] => 
+    [MEASURE_ID] => 5
+    [MEASURE_NAME] => шт
+    [MODULE] => catalog
+    [PROPS] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Catalog XML_ID
+                    [CODE] => CATALOG.XML_ID
+                    [VALUE] => 917540e9c1789390f3220a934a9bc242
+                )
+
+            [1] => Array
+                (
+                    [ID] => 0
+                    [NAME] => Product XML_ID
+                    [CODE] => PRODUCT.XML_ID
+                    [VALUE] => 5203
+                )
+
+            [2] => Array
+                (
+                    [NAME] => Код товара
+                    [CODE] => ITEM_CODE
+                    [VALUE] => 6307 1001 
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [ID] => 0
+            [NAME] => Catalog XML_ID
+            [CODE] => CATALOG.XML_ID
+            [VALUE] => 917540e9c1789390f3220a934a9bc242
+        )
+
+    [1] => Array
+        (
+            [ID] => 0
+            [NAME] => Product XML_ID
+            [CODE] => PRODUCT.XML_ID
+            [VALUE] => 5203
+        )
+
+    [2] => Array
+        (
+            [NAME] => Код товара
+            [CODE] => ITEM_CODE
+            [VALUE] => 6307 1001 
+        )
+
+)

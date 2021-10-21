@@ -1,0 +1,7 @@
+h1, .h1 {
+    font-family: latolight;
+    font-size: 25px;
+    color: #000;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}

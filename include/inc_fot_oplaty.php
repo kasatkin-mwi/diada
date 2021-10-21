@@ -1,0 +1,1 @@
+<a class="money" href="/oplata/">Способы оплаты</a>
