@@ -586,6 +586,7 @@ $APPLICATION->SetTitle("Diada-arms.ru");
 	),
 	false
 );?>
+<?/*
 <div class="help_form_bl">
     <div class="help_form_l">
         <img data-src="/img/help_form_ic.png"/>
@@ -594,6 +595,7 @@ $APPLICATION->SetTitle("Diada-arms.ru");
 		
     </div>
 </div>
+*/?>
 <div class="f_advantages_bl">
     <div class="f_advantages_el">
         <div class="f_advantages_ic"><img data-src="/img/f_advantages_ic1.png" alt=""/></div>

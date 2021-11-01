@@ -1,14 +1,26 @@
 <?
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();
+$this->setFrameMode(false);
 ?>
 <?if ($arResult["isFormErrors"] == "Y"):?><?=$arResult["FORM_ERRORS_TEXT"];?><?endif;?>
 
-<?=$arResult["FORM_NOTE"]?>
+<?
+if ($arResult["isFormNote"] == "Y")
+{
+    ?>
+    <?=$APPLICATION->RestartBuffer();?>
+    <?=$arResult["FORM_NOTE"]?>
+    <?die();?>
+    <?
+}
+?>
 
 <?if ($arResult["isFormNote"] != "Y")
 {
 ?>
 <?=$arResult["FORM_HEADER"]?>
+
+
 
 <?
 if ($arResult["isFormDescription"] == "Y" || $arResult["isFormTitle"] == "Y" || $arResult["isFormImage"] == "Y")
@@ -19,7 +31,8 @@ if ($arResult["isFormDescription"] == "Y" || $arResult["isFormTitle"] == "Y" || 
 if ($arResult["isFormTitle"]):
 ?>
 	<div class="new_call_back_light_title"><?=$arResult["FORM_TITLE"]?></div>
-	<div class="new_call_back_light_text"></div>
+	<div class="new_call_back_light_text">
+	</div>
 <?endif;
 }?>
 
@@ -60,7 +73,7 @@ if ($arResult["isFormTitle"]):
 	} //endwhile
 	?>
 	<div class="new_call_back_light_right_button">
-		<input class="red_button" <?=(intval($arResult["F_RIGHT"]) < 10 ? "disabled=\"disabled\"" : "");?> type="submit" name="web_form_submit" value="<?=htmlspecialcharsbx(strlen(trim($arResult["arForm"]["BUTTON"])) <= 0 ? GetMessage("FORM_ADD") : $arResult["arForm"]["BUTTON"]);?>" onclick="yaCounter25448447.reachGoal('pozvonit'); ga('send', 'pageview', '/zvonok'); console.log('На отправку формы обратного звонка');" />
+		<input class="red_button" <?=(intval($arResult["F_RIGHT"]) < 10 ? "disabled=\"disabled\"" : "");?> type="submit" name="web_form_submit" value="<?=htmlspecialcharsbx(strlen(trim($arResult["arForm"]["BUTTON"])) <= 0 ? GetMessage("FORM_ADD") : $arResult["arForm"]["BUTTON"]);?>" onclick="ga('send', 'pageview', '/zvonok'); console.log('На отправку формы обратного звонка');" />
 	</div>
 
 <p>

@@ -44,7 +44,11 @@ $(document).ready(function(){$(".detail_complect_left_block .red_buy_detail, .ta
 		}
     });
 	
+	$("body").on("submit", "[name=SIMPLE_FORM_2]", function()
+    {
+		$('#addok').show();
 	
+	});
 
 	function funcSuccess (data) {
 		$(".status-info").html (data);

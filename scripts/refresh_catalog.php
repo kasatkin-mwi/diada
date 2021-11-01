@@ -24,6 +24,7 @@
 		$arResult[] = $array;
 	}
 	
+
 	if(Cmodule::IncludeModule('catalog') && Cmodule::IncludeModule('iblock')){
 		$arSelect = Array("ID", "NAME", "DETAIL_PAGE_URL");
 		$arProducts = Array();

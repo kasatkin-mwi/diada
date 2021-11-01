@@ -1,2 +1,30 @@
 array (
+  0 => 
+  array (
+    'TITLE' => 'no',
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'NAME' => 'макет пистолет colt m1911a1 45 накладки пластика сша 1911 d71316 138931 да есть наличии 10054038 1005 4038',
+        'URL' => '/catalog/mmg-makety-suveniry/colt-m1911a1-45-1911-d7-1316/',
+        'MODULE_ID' => 'iblock',
+        'PARAM1' => 'ibCatalog',
+        'PARAM2' => '1',
+        'ITEM_ID' => '138931',
+      ),
+    ),
+  ),
+  'all' => 
+  array (
+    'TITLE' => '',
+    'ITEMS' => 
+    array (
+      0 => 
+      array (
+        'NAME' => 'Все результаты',
+        'URL' => '/search/?q=1005+4038+',
+      ),
+    ),
+  ),
 )
