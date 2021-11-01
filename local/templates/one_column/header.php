@@ -55,6 +55,8 @@
     $asset->addCss('/css/main.css');
     $asset->addCss('/css/new_catalog.css', true);?>
 
+
+	
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <?$asset->addJs('/js/jquery-1.8.3.min.js');
     $asset->addJs('/js/myswipe.js');
@@ -141,26 +143,26 @@
 
 
     <?if(!$USER->IsAdmin()):?>
-        <script async type="text/javascript">
+       <?/* <script async type="text/javascript">
             var __cs = __cs || [];
             __cs.push(["setAccount", "6egTDId_bNlOKny3R2uZoMHvfnUfqiav"]);
             __cs.push(["setHost", "//server.comagic.ru/comagic"]);
         </script>
         <script type="text/javascript" async src="//app.comagic.ru/static/cs.min.js"></script>
 
-    <?/*
+    
         <!-- BEGIN JIVOSITE CODE -->
         <script async type='text/javascript'>
             (function(){ var widget_id = 'QEPLc3GjAx';
                 var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
         <!-- END JIVOSITE CODE -->
-        */?>
+        
         <script>
             (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
                 var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
             })(window,document,'https://cdn.bitrix24.ru/b2577509/crm/site_button/loader_3_wspckr.js');
-        </script>
+        </script>*/?>
     <?endif?>
 
     <script async>
@@ -177,8 +179,10 @@
     <meta property='og:src' content='https://www.diada-arms.ru/img/og/1.jpg'/>
     <meta property='og:title' content='<!--title-->'/>
     <style>
-
+	
     </style>
+	<?CJSCore::Init(array('ajax', 'window'));?>
+	
 </head>
 <body>
 <?if (!in_array($_REQUEST["hpanel"],array("Y","y","yes"))):?>
@@ -764,38 +768,44 @@
                     </div>
                     <div class="red_search js_red_search">
                         <?$APPLICATION->IncludeComponent(
-	"salavey:search.title", 
-	".default", 
-	array(
-		"CATEGORY_0" => array(
-			0 => "no",
-		),
-		"CATEGORY_0_TITLE" => "",
-		"CHECK_DATES" => "N",
-		"CONTAINER_ID" => "title-search",
-		"INPUT_ID" => "title-search-input",
-		"NUM_CATEGORIES" => "1",
-		"ORDER" => "date",
-		"PAGE" => "#SITE_DIR#search/",
-		"SHOW_INPUT" => "Y",
-		"SHOW_OTHERS" => "N",
-		"TOP_COUNT" => "5",
-		"USE_LANGUAGE_GUESS" => "Y",
-		"COMPONENT_TEMPLATE" => ".default",
-		"PRICE_CODE" => "",
-		"PRICE_VAT_INCLUDE" => "Y",
-		"PREVIEW_TRUNCATE_LEN" => "",
-		"SHOW_PREVIEW" => "Y",
-		"CONVERT_CURRENCY" => "N",
-		"CATEGORY_0_iblock_ibCatalog" => array(
-			0 => "37",
-		),
-		"CATEGORY_0_iblock_contacts" => array(
-			0 => "23",
-		)
-	),
-	false
-);?>
+							"arturgolubev:search.title", 
+							"diada", 
+							array(
+								"CATEGORY_0" => array(
+									0 => "iblock_ibCatalog",
+								),
+								"CATEGORY_0_TITLE" => "",
+								"CATEGORY_0_iblock_ibCatalog" => array(
+									0 => "1",
+								),
+								"CHECK_DATES" => "N",
+								"CONTAINER_ID" => "smart-title-search",
+								"CONVERT_CURRENCY" => "N",
+								"FILTER_NAME" => "",
+								"INPUT_ID" => "smart-title-search-input",
+								"INPUT_PLACEHOLDER" => "",
+								"NUM_CATEGORIES" => "1",
+								"ORDER" => "rank",
+								"PAGE" => "#SITE_DIR#search/index.php",
+								"PREVIEW_HEIGHT_NEW" => "60",
+								"PREVIEW_TRUNCATE_LEN" => "",
+								"PREVIEW_WIDTH_NEW" => "60",
+								"PRICE_CODE" => array(
+									0 => "base",
+								),
+								"PRICE_VAT_INCLUDE" => "Y",
+								"SHOW_INPUT" => "Y",
+								"SHOW_LOADING_ANIMATE" => "N",
+								"SHOW_PREVIEW" => "Y",
+								"SHOW_PREVIEW_TEXT" => "Y",
+								"SHOW_PROPS" => array(
+								),
+								"TOP_COUNT" => "3",
+								"USE_LANGUAGE_GUESS" => "Y",
+								"COMPONENT_TEMPLATE" => "diada"
+							),
+							false
+						);?>
                     </div>
                 </div>
             </div>

@@ -1,10 +1,11 @@
 <?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 
 $PREVIEW_WIDTH = $arParams["PREVIEW_WIDTH_NEW"] = intval($arParams["PREVIEW_WIDTH_NEW"]);
-if ($PREVIEW_WIDTH <= 0) $PREVIEW_WIDTH = 34;
+if ($PREVIEW_WIDTH <= 0) $PREVIEW_WIDTH = 60;
 
 $PREVIEW_HEIGHT = $arParams["PREVIEW_HEIGHT_NEW"] = intval($arParams["PREVIEW_HEIGHT_NEW"]);
-if ($PREVIEW_HEIGHT <= 0) $PREVIEW_HEIGHT = 34;
+if ($PREVIEW_HEIGHT <= 0) $PREVIEW_HEIGHT = 60;
+
 
 $arParams["PRICE_VAT_INCLUDE"] = $arParams["PRICE_VAT_INCLUDE"] !== "N";
 
@@ -33,6 +34,7 @@ foreach($arResult["CATEGORIES"] as $category_id => $arCategory)
 	}
 }
 
+/*
 if (!empty($arResult["ELEMENTS"]) && CModule::IncludeModule("iblock"))
 {
 	$arConvertParams = array();
@@ -134,6 +136,7 @@ if (!empty($arResult["ELEMENTS"]) && CModule::IncludeModule("iblock"))
 		$arResult["ELEMENTS"][$arElement["ID"]] = $arElement;
 	}
 }
+*/
 
 
 if (!empty($arResult["SECTIONS"]) && CModule::IncludeModule("iblock"))
@@ -182,6 +185,7 @@ if (!empty($arResult["SECTIONS"]) && CModule::IncludeModule("iblock"))
 	}
 }
 
+/*
 foreach($arResult["SEARCH"] as $i=>$arItem)
 {
 	switch($arItem["MODULE_ID"])
@@ -204,5 +208,6 @@ foreach($arResult["SEARCH"] as $i=>$arItem)
 
 	$arResult["SEARCH"][$i]["ICON"] = true;
 }
+*/
 
 ?>

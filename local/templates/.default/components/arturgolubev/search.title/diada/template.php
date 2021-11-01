@@ -24,7 +24,7 @@ if($arParams["SHOW_INPUT"] !== "N"):?>
 				<span class="bx-searchtitle-preloader <?if($arParams["SHOW_LOADING_ANIMATE"] == 'Y') echo 'view';?>" id="<?echo $PRELOADER_ID?>"></span>
 				
 			</span>
-			<input name="s" type="submit" value="<?=GetMessage("CT_BST_SEARCH_BUTTON");?>" />
+			<input name="s" type="submit" value="search" />
 		</div>
 	</form>
 	
@@ -54,11 +54,12 @@ if($arParams["SHOW_INPUT"] !== "N"):?>
 	</style>
 <?endif;?>
 
+<?/*
 <script>
 	BX.ready(function(){
 		new JCTitleSearchAG({
-			// 'AJAX_PAGE' : '/your-path/fast_search.php',
-			'AJAX_PAGE' : '<?echo CUtil::JSEscape(POST_FORM_ACTION_URI)?>',
+			'AJAX_PAGE' : '<?=$this->GetFolder()?>/tools/fast_search.php',
+			//'AJAX_PAGE' : '<?echo CUtil::JSEscape(POST_FORM_ACTION_URI)?>',
 			'CONTAINER_ID': '<?echo $CONTAINER_ID?>',
 			'INPUT_ID': '<?echo $INPUT_ID?>',
 			'PRELODER_ID': '<?echo $PRELOADER_ID?>',
@@ -66,3 +67,4 @@ if($arParams["SHOW_INPUT"] !== "N"):?>
 		});
 	});
 </script>
+*/?>

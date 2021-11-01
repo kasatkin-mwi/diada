@@ -1,7 +1,17 @@
+BX.ready(function(){
+	new JCTitleSearchAG({
+		'AJAX_PAGE' : '/local/templates/.default/components/arturgolubev/search.title/diada/tools/fast_search.php',
+		'CONTAINER_ID': 'smart-title-search',
+		'INPUT_ID': 'smart-title-search-input',
+		'PRELODER_ID': 'smart-title-search_preloader_item',
+		'MIN_QUERY_LEN': 2
+	});
+});
+
 function JCTitleSearchAG(arParams)
 {
 	var _this = this;
-
+	
 	this.arParams = {
 		'AJAX_PAGE': arParams.AJAX_PAGE,
 		'CONTAINER_ID': arParams.CONTAINER_ID,
@@ -93,6 +103,7 @@ function JCTitleSearchAG(arParams)
 		var tbl = BX.findChild(_this.RESULT, {'tag':'table','class':'title-search-result'}, true);
 		if(!tbl)
 			return false;
+			
 
 		var i;
 		var cnt = tbl.rows.length;
