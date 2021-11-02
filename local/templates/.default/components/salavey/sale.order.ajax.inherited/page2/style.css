@@ -1580,3 +1580,7 @@ hr.bxe-light{
 body #bx-soa-order .btn.btn-default {
     font-size: 16px;
 }
+
+#bx-soa-paysystem {
+	display: none;
+}

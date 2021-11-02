@@ -210,7 +210,7 @@ $request = $context->getRequest();
 						</div>
 						<div class="block_subsection block_subsection_money">
 							<?$paymentCollection = $order->getPaymentCollection();?>
-							<span class="block_subsection_title">Способы оплаты</span>
+							<span class="block_subsection_title">Произвести оплату</span>
 							<?foreach ($paymentCollection as $payment):?>
 								<p><?//=$payment->getPaymentSystemName()?></p>
 								

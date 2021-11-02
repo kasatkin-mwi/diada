@@ -672,7 +672,7 @@
 
                             <a href="/delivery/" class="delivery-button-pro">Доставка по России</a>
 
-                            <a href="/order-status/" class="order-button-pro">Отследить заказ</a>
+                            <a href="/order-status/" class="order-button-pro">Отследить/Оплатить заказ</a>
 
                         </div>
 

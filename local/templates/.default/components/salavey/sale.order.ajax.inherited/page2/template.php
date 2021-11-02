@@ -311,7 +311,8 @@ else
 						<div class="bx-soa-section-content container-fluid"></div>
 					</div>
 					<!--	PAY SYSTEMS BLOCK	-->
-					<div id="bx-soa-paysystem" data-visited="false" class="bx-soa-section bx-active">
+					
+					<div style="display: none;" id="bx-soa-paysystem" data-visited="false" class="bx-soa-section bx-active">
 						<div class="bx-soa-section-title-container">
 							<h2 class="bx-soa-section-title col-sm-9">
 								<span class="bx-soa-section-title-count"></span><?=$arParams['MESS_PAYMENT_BLOCK_NAME']?>
